@@ -1,0 +1,484 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bài Kiểm Tra Đọc Hiểu</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        body {
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            padding: 30px;
+        }
+        
+        h1 {
+            color: #1a73e8;
+            text-align: center;
+            margin-bottom: 30px;
+            font-weight: 400;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 20px;
+            font-size: 18px;
+            color: #666;
+        }
+        
+        .error {
+            text-align: center;
+            padding: 20px;
+            color: #d93025;
+            background-color: #fce8e6;
+            border-radius: 4px;
+            margin: 20px 0;
+        }
+        
+        .group-container {
+            margin-bottom: 40px;
+            padding: 25px;
+            border: 1px solid #e0e0e0;
+            border-radius: 8px;
+            background-color: #f8f9fa;
+        }
+        
+        .group-name {
+            font-size: 20px;
+            font-weight: 600;
+            color: #1a73e8;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #1a73e8;
+        }
+        
+        .group-text {
+            font-size: 16px;
+            line-height: 1.6;
+            margin-bottom: 25px;
+            padding: 15px;
+            background-color: white;
+            border-radius: 6px;
+            border-left: 4px solid #34a853;
+            white-space: pre-line;
+        }
+        
+        .question-container {
+            margin-bottom: 25px;
+            padding: 20px;
+            background-color: white;
+            border-radius: 6px;
+            border: 1px solid #dadce0;
+        }
+        
+        .question-number {
+            font-weight: bold;
+            color: #1a73e8;
+            margin-bottom: 8px;
+            font-size: 16px;
+        }
+        
+        .question-text {
+            font-size: 17px;
+            margin-bottom: 15px;
+            font-weight: 500;
+            color: #202124;
+        }
+        
+        .options-container {
+            margin-left: 10px;
+        }
+        
+        .option {
+            margin-bottom: 12px;
+            display: flex;
+            align-items: flex-start;
+        }
+        
+        .option input {
+            margin-right: 12px;
+            margin-top: 3px;
+            transform: scale(1.2);
+        }
+        
+        .option label {
+            cursor: pointer;
+            line-height: 1.5;
+            font-size: 15px;
+            flex: 1;
+        }
+        
+        button {
+            display: block;
+            margin: 30px auto 0;
+            background-color: #1a73e8;
+            color: white;
+            border: none;
+            padding: 14px 32px;
+            border-radius: 4px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: background-color 0.2s;
+            font-weight: 500;
+        }
+        
+        button:hover {
+            background-color: #0d62d9;
+        }
+        
+        .result-container {
+            margin-top: 30px;
+            padding: 25px;
+            border-radius: 8px;
+            background-color: #f8f9fa;
+            display: none;
+        }
+        
+        .score {
+            font-size: 26px;
+            font-weight: bold;
+            text-align: center;
+            margin-bottom: 25px;
+            color: #1a73e8;
+            padding: 15px;
+            background-color: white;
+            border-radius: 8px;
+            border: 2px solid #1a73e8;
+        }
+        
+        .group-result {
+            margin-bottom: 25px;
+            padding: 20px;
+            background-color: white;
+            border-radius: 6px;
+            border: 1px solid #dadce0;
+        }
+        
+        .group-result-name {
+            font-size: 18px;
+            font-weight: 600;
+            color: #1a73e8;
+            margin-bottom: 15px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        
+        .feedback {
+            margin-bottom: 15px;
+            padding: 15px;
+            border-radius: 6px;
+        }
+        
+        .correct {
+            background-color: #e6f4ea;
+            border-left: 4px solid #34a853;
+        }
+        
+        .incorrect {
+            background-color: #fce8e6;
+            border-left: 4px solid #ea4335;
+        }
+        
+        .correct-answer {
+            font-weight: bold;
+            color: #34a853;
+            margin-top: 8px;
+            font-size: 14px;
+        }
+        
+        .question-result {
+            font-weight: 500;
+            margin-bottom: 5px;
+        }
+        
+        .user-answer {
+            color: #5f6368;
+            font-size: 14px;
+        }
+
+        .continue-text {
+            font-style: italic;
+            color: #666;
+            background-color: #f8f9fa;
+            padding: 10px;
+            border-radius: 4px;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Bài Kiểm Tra Đọc Hiểu</h1>
+        
+        <div id="loading" class="loading">
+            Đang tải câu hỏi...
+        </div>
+        
+        <div id="error-message" class="error" style="display: none;">
+            Lỗi khi tải dữ liệu. Vui lòng thử lại.
+        </div>
+        
+        <div id="quiz-form" style="display: none;">
+            <!-- Các nhóm câu hỏi sẽ được thêm vào đây -->
+        </div>
+        
+        <button id="submit-btn" style="display: none;">Nộp Bài</button>
+        
+        <div id="result-container" class="result-container">
+            <!-- Kết quả sẽ được hiển thị ở đây -->
+        </div>
+    </div>
+
+    <script>
+        // Hàm xáo trộn mảng (Fisher-Yates shuffle)
+        function shuffleArray(array) {
+            const newArray = [...array];
+            for (let i = newArray.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [newArray[i], newArray[j]] = [newArray[j], newArray[i]];
+            }
+            return newArray;
+        }
+
+        // Hàm nhóm các câu hỏi theo group_name
+        function groupQuestions(questions) {
+            const groups = {};
+            
+            questions.forEach(question => {
+                if (!groups[question.group_name]) {
+                    groups[question.group_name] = {
+                        group_name: question.group_name,
+                        questions: [],
+                        fullText: question.text // Lấy text từ câu hỏi đầu tiên
+                    };
+                }
+                
+                // Nếu text là "(Tiếp tục nội dung bài đọc...)" thì không thay thế fullText
+                if (!question.text.includes('(Tiếp tục nội dung bài đọc')) {
+                    groups[question.group_name].fullText = question.text;
+                }
+                
+                groups[question.group_name].questions.push(question);
+            });
+            
+            return Object.values(groups);
+        }
+
+        // Hàm hiển thị các nhóm câu hỏi
+        function displayQuestionGroups(rawQuestions) {
+            const quizForm = document.getElementById('quiz-form');
+            const submitBtn = document.getElementById('submit-btn');
+            const loading = document.getElementById('loading');
+            
+            // Ẩn loading, hiển thị form và nút submit
+            loading.style.display = 'none';
+            quizForm.style.display = 'block';
+            submitBtn.style.display = 'block';
+            
+            // Nhóm câu hỏi theo group_name
+            const groupedData = groupQuestions(rawQuestions);
+            
+            // Xáo trộn thứ tự các nhóm
+            const shuffledGroups = shuffleArray(groupedData);
+            
+            let globalQuestionIndex = 1;
+            
+            // Hiển thị từng nhóm
+            shuffledGroups.forEach((group, groupIndex) => {
+                const groupContainer = document.createElement('div');
+                groupContainer.className = 'group-container';
+                groupContainer.dataset.groupName = group.group_name;
+                
+                // Tên nhóm
+                const groupName = document.createElement('div');
+                groupName.className = 'group-name';
+                groupName.textContent = `${groupIndex + 1}. ${group.group_name}`;
+                
+                // Đoạn văn chính
+                const groupText = document.createElement('div');
+                groupText.className = 'group-text';
+                groupText.textContent = group.fullText;
+                
+                groupContainer.appendChild(groupName);
+                groupContainer.appendChild(groupText);
+                
+                // Xáo trộn câu hỏi trong nhóm
+                const shuffledQuestions = shuffleArray([...group.questions]);
+                
+                // Hiển thị từng câu hỏi trong nhóm
+                shuffledQuestions.forEach(question => {
+                    question.globalIndex = globalQuestionIndex;
+                    globalQuestionIndex++;
+                    
+                    // Xáo trộn đáp án
+                    question.shuffledAnswers = shuffleArray([...question.answer]);
+                    
+                    const questionContainer = document.createElement('div');
+                    questionContainer.className = 'question-container';
+                    questionContainer.dataset.id = question.id;
+                    
+                    const questionNumber = document.createElement('div');
+                    questionNumber.className = 'question-number';
+                    questionNumber.textContent = `Câu ${question.globalIndex}:`;
+                    
+                    const questionText = document.createElement('div');
+                    questionText.className = 'question-text';
+                    questionText.textContent = question.question;
+                    
+                    // Thêm phần text tiếp theo nếu có (không phải text chính)
+                    if (question.text !== group.fullText && !question.text.includes('(Tiếp tục nội dung bài đọc')) {
+                        const additionalText = document.createElement('div');
+                        additionalText.className = 'continue-text';
+                        additionalText.textContent = question.text;
+                        questionContainer.appendChild(additionalText);
+                    }
+                    
+                    const optionsContainer = document.createElement('div');
+                    optionsContainer.className = 'options-container';
+                    
+                    question.shuffledAnswers.forEach((answer, answerIndex) => {
+                        const optionDiv = document.createElement('div');
+                        optionDiv.className = 'option';
+                        
+                        const input = document.createElement('input');
+                        input.type = 'radio';
+                        input.name = `question-${question.id}`;
+                        input.value = answer.charAt(0); // Lấy ký tự đầu (A, B, C)
+                        input.id = `q${question.id}-a${answerIndex}`;
+                        
+                        const label = document.createElement('label');
+                        label.htmlFor = `q${question.id}-a${answerIndex}`;
+                        label.textContent = answer;
+                        
+                        optionDiv.appendChild(input);
+                        optionDiv.appendChild(label);
+                        optionsContainer.appendChild(optionDiv);
+                    });
+                    
+                    questionContainer.appendChild(questionNumber);
+                    questionContainer.appendChild(questionText);
+                    questionContainer.appendChild(optionsContainer);
+                    groupContainer.appendChild(questionContainer);
+                });
+                
+                quizForm.appendChild(groupContainer);
+            });
+
+            // Xử lý khi submit
+            submitBtn.addEventListener('click', function() {
+                let totalScore = 0;
+                let totalQuestions = 0;
+                const resultContainer = document.getElementById('result-container');
+                resultContainer.innerHTML = '';
+                resultContainer.style.display = 'block';
+                
+                // Tính tổng số câu hỏi
+                shuffledGroups.forEach(group => {
+                    totalQuestions += group.questions.length;
+                });
+                
+                // Tạo phần hiển thị điểm
+                const scoreDiv = document.createElement('div');
+                scoreDiv.className = 'score';
+                
+                // Hiển thị kết quả theo từng nhóm
+                shuffledGroups.forEach((group, groupIndex) => {
+                    const groupResult = document.createElement('div');
+                    groupResult.className = 'group-result';
+                    
+                    const groupResultName = document.createElement('div');
+                    groupResultName.className = 'group-result-name';
+                    groupResultName.textContent = `${groupIndex + 1}. ${group.group_name}`;
+                    groupResult.appendChild(groupResultName);
+                    
+                    let groupScore = 0;
+                    
+                    // Hiển thị kết quả từng câu hỏi trong nhóm
+                    group.questions.forEach(question => {
+                        const selectedOption = document.querySelector(`input[name="question-${question.id}"]:checked`);
+                        const isCorrect = selectedOption && selectedOption.value === question.correct;
+                        
+                        if (isCorrect) {
+                            totalScore += 10;
+                            groupScore += 10;
+                        }
+                        
+                        const feedbackDiv = document.createElement('div');
+                        feedbackDiv.className = `feedback ${isCorrect ? 'correct' : 'incorrect'}`;
+                        
+                        const questionResult = document.createElement('div');
+                        questionResult.className = 'question-result';
+                        questionResult.innerHTML = `<strong>Câu ${question.globalIndex}:</strong> ${question.question}`;
+                        
+                        const userAnswer = document.createElement('div');
+                        userAnswer.className = 'user-answer';
+                        userAnswer.textContent = `Câu trả lời của bạn: ${selectedOption ? selectedOption.value : 'Chưa trả lời'}`;
+                        
+                        const correctAnswer = document.createElement('div');
+                        correctAnswer.className = 'correct-answer';
+                        correctAnswer.textContent = `Đáp án đúng: ${question.correct} - ${question.answer.find(a => a.startsWith(question.correct + ')'))}`;
+                        
+                        feedbackDiv.appendChild(questionResult);
+                        feedbackDiv.appendChild(userAnswer);
+                        feedbackDiv.appendChild(correctAnswer);
+                        
+                        groupResult.appendChild(feedbackDiv);
+                    });
+                    
+                    // Thêm điểm của nhóm
+                    const groupScoreDiv = document.createElement('div');
+                    groupScoreDiv.style.cssText = 'text-align: right; font-weight: bold; color: #1a73e8; margin-top: 10px;';
+                    groupScoreDiv.textContent = `Điểm nhóm: ${groupScore}/${group.questions.length * 10}`;
+                    groupResult.appendChild(groupScoreDiv);
+                    
+                    resultContainer.appendChild(groupResult);
+                });
+                
+                scoreDiv.textContent = `Tổng điểm: ${totalScore}/${totalQuestions * 10}`;
+                resultContainer.prepend(scoreDiv);
+                
+                // Cuộn đến kết quả
+                resultContainer.scrollIntoView({ behavior: 'smooth' });
+            });
+        }
+
+        // Tải dữ liệu từ file JSON
+        async function loadQuizData() {
+            try {
+                const response = await fetch('data.json');
+                
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                
+                const quizData = await response.json();
+                displayQuestionGroups(quizData);
+                
+            } catch (error) {
+                console.error('Lỗi khi tải file JSON:', error);
+                document.getElementById('loading').style.display = 'none';
+                document.getElementById('error-message').style.display = 'block';
+                document.getElementById('error-message').textContent = 
+                    `Lỗi khi tải dữ liệu: ${error.message}. Vui lòng kiểm tra file data.json và thử lại.`;
+            }
+        }
+
+        // Khởi chạy khi trang được tải
+        document.addEventListener('DOMContentLoaded', loadQuizData);
+    </script>
+</body>
+</html>
