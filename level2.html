@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lesen Teil 2 - Bài Kiểm Tra Đọc Hiểu</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/jquery.min.js"></script>
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <div class="logo">📚 Lesen Teil 2</div>
+            <nav class="nav-links">
+                <a href="index.html">🏠 Trang chủ</a>
+            </nav>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="quiz-page">
+            <div class="quiz-header">
+                <h1>Lesen Teil 2 letzte update 2025</h1>
+                <div class="quiz-info">
+                    <span id="quiz-progress">Tổng số câu: 0</span>
+                    <span id="quiz-time">Thời gian: 00:00</span>
+                </div>
+            </div>
+            
+            <div id="loading" class="loading">
+                <div class="spinner"></div>
+                <p>Đang tải câu hỏi...</p>
+            </div>
+            
+            <div id="error-message" class="error" style="display: none;">
+                <h3>Lỗi khi tải dữ liệu</h3>
+                <p id="error-text">Vui lòng thử lại hoặc liên hệ quản trị viên.</p>
+                <button id="retry-btn" class="btn-primary">Thử lại</button>
+            </div>
+            
+            <div id="quiz-content" style="display: none;">
+                <div id="quiz-form">
+                    <!-- Các nhóm câu hỏi sẽ được thêm vào đây -->
+                </div>
+                
+                <div class="quiz-controls">
+                    <button id="back-btn" class="btn-secondary" onclick="window.location.href='index.html'">
+                        ← Quay lại trang chủ
+                    </button>
+                    <button id="submit-btn" class="btn-primary">
+                        Nộp Bài Kiểm Tra
+                    </button>
+                </div>
+            </div>
+            
+            <div id="result-container" class="result-container" style="display: none;">
+                <!-- Kết quả sẽ được hiển thị ở đây -->
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>© 2024 Bài Kiểm Tra Đọc Hiểu Tiếng Đức</p>
+    </footer>
+
+    <script src="js/quiz.js"></script>
+    <script>
+        $(document).ready(function() {
+            // Khởi tạo quiz cho level 2
+            initQuiz('data/data2.json');
+        });
+    </script>
+</body>
+</html>

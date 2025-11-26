@@ -1,0 +1,3006 @@
+[
+  {
+    "group_name": "GRIPPE IMPFUNG (Tiêm phòng cúm)",
+    "text": "Text 1: Immer wieder überspringen Krankheitserreger aus dem Tierreich die Artengrenze und werden auch dem Menschen gefährlich. Allerdings galt die Gruppe Adenoviren bislang als artgebunden: Manche verursachen beim Menschen verschiedene Probleme, von Schnupfen über Durchfall bis hin zu Lungenentzündung. Andere machen bestimmten Tierarten zu schaffen. Aber noch nie wurde bekannt, dass solche Viren von einer Spezies auf eine andere wechseln. Nun berichten Forscher erstmals von einem solchen Fall: Demnach erlitten in einem kalifornischen Primatenzentrum 23 von insgesamt 65 Roten Springaffen Entzündungen der Atemwege oder der Leber. Nur vier der infizierten Tiere überlebten. Als Ursache identifizierten die Mediziner das bislang unbekannte Adenovirus TMAdV.",
+    "answer": [
+      "a) WHO gibt neue Empfehlungen für Grippe-Impfung heraus",
+      "b) NEUE ERKENNTNISSE ÜBER ARTÜBERGREIFENDE KRANKHEITSERREGER",
+      "c) Kontroverse um den Zugang zu Forschungsergebnissen",
+      "d) HOFFNUNG AUF EINEN ALLUMFASSENDEN GRIPPESCHUTZ",
+      "e) HINWEISE AUF EINGESCHRÄNKTEN ERFOLG VON INFLUENZA-IMPFUNGEN",
+      "f) Gesetz verpflichtet Forscher zur Veröffentlichung ihrer Ergebnisse",
+      "g) Geschlechtsspezifische Übertragung von Grippeviren",
+      "h) ENDLICH EINE UNIVERSALE GRIPPE-IMPFUNG AUF DEM MARKT",
+      "i) Durchschlagender Erfolg der diesjährigen Grippeimpfung",
+      "j) Die häufigsten Kinderkrankheiten in der Grundschule"
+    ],
+    "correct": "b",
+    "id": 1,
+    "correct_position": 2,
+    "source_file": "data1.json"
+  },
+  {
+    "group_name": "GRIPPE IMPFUNG (Tiêm phòng cúm)",
+    "text": "Text 2: Virologen ist es gelungen, den Vogelgrippe-Erreger hochansteckend zu machen. Nun empfiehlt das US-Gesundheitsministerium Fachzeitschriften, die entsprechenden Daten nicht zu veröffentlichen, weil Terroristen mit ihrer Hilfe Biowaffen basteln könnten. Nur die Ergebnisse der Versuche sollen erscheinen, nicht aber Einzelheiten über die Arbeitsweise der Forscher oder Details über die Beschaffenheit der Viren. Das Ministerium stützt seine Entscheidung auf die Empfehlungen unabhängigen Expertengremius NSABB. Es ist das erste Mal, dass das Gremium eine solche Empfehlung ausgesprochen hat.",
+    "answer": [
+      "a) WHO gibt neue Empfehlungen für Grippe-Impfung heraus",
+      "b) NEUE ERKENNTNISSE ÜBER ARTÜBERGREIFENDE KRANKHEITSERREGER",
+      "c) Kontroverse um den Zugang zu Forschungsergebnissen",
+      "d) HOFFNUNG AUF EINEN ALLUMFASSENDEN GRIPPESCHUTZ",
+      "e) HINWEISE AUF EINGESCHRÄNKTEN ERFOLG VON INFLUENZA-IMPFUNGEN",
+      "f) Gesetz verpflichtet Forscher zur Veröffentlichung ihrer Ergebnisse",
+      "g) Geschlechtsspezifische Übertragung von Grippeviren",
+      "h) ENDLICH EINE UNIVERSALE GRIPPE-IMPFUNG AUF DEM MARKT",
+      "i) Durchschlagender Erfolg der diesjährigen Grippeimpfung",
+      "j) Die häufigsten Kinderkrankheiten in der Grundschule"
+    ],
+    "correct": "c",
+    "id": 2,
+    "correct_position": 3,
+    "source_file": "data1.json"
+  },
+  {
+    "group_name": "GRIPPE IMPFUNG (Tiêm phòng cúm)",
+    "text": "Text 3: Ein neuer Impfstoff gegen Grippe könnte in Zukunft sämtliche Varianten der Krankheit abdecken und damit die jährliche Spritze überflüssig machen. Der Stoff bekämpft die stets gleichen Proteine im Inneren der Grippeviren statt wie derzeitige Substanzen die sich ständig ändernden an der Außenhülle. Ein Forscherteam der Universität Oxford hat den Impfstoff erstmals an Menschen getestet. Weitere Studien sollen folgen. Es kann Jahre dauern, bis die Substanz eine Zulassung bekommt. Doch die Forscher sind optimistisch.",
+    "answer": [
+      "a) WHO gibt neue Empfehlungen für Grippe-Impfung heraus",
+      "b) NEUE ERKENNTNISSE ÜBER ARTÜBERGREIFENDE KRANKHEITSERREGER",
+      "c) Kontroverse um den Zugang zu Forschungsergebnissen",
+      "d) HOFFNUNG AUF EINEN ALLUMFASSENDEN GRIPPESCHUTZ",
+      "e) HINWEISE AUF EINGESCHRÄNKTEN ERFOLG VON INFLUENZA-IMPFUNGEN",
+      "f) Gesetz verpflichtet Forscher zur Veröffentlichung ihrer Ergebnisse",
+      "g) Geschlechtsspezifische Übertragung von Grippeviren",
+      "h) ENDLICH EINE UNIVERSALE GRIPPE-IMPFUNG AUF DEM MARKT",
+      "i) Durchschlagender Erfolg der diesjährigen Grippeimpfung",
+      "j) Die häufigsten Kinderkrankheiten in der Grundschule"
+    ],
+    "correct": "d",
+    "id": 3,
+    "correct_position": 4,
+    "source_file": "data1.json"
+  },
+  {
+    "group_name": "GRIPPE IMPFUNG (Tiêm phòng cúm)",
+    "text": "Text 4: Breitet sich die Grippe in einer Schule aus, sind es besonders geschlechtshomogene Gruppen, in denen das Virus schnell neue Opfer findet. Denn wie US-Mediziner herausgefunden haben, stecken Buben vor allem Buben und Mädchen in erster Linie Mädchen an. Infektionen innerhalb eines Geschlechts passieren dreimal häufiger als über die Geschlechtergrenzen hinweg. Innerhalb derselben Schulklasse sind Übertragungen fünfmal häufiger als zu einer Parallelklasse und 25 Mal häufiger als zu den Schülern anderer Schulstufen.",
+    "answer": [
+      "a) WHO gibt neue Empfehlungen für Grippe-Impfung heraus",
+      "b) NEUE ERKENNTNISSE ÜBER ARTÜBERGREIFENDE KRANKHEITSERREGER",
+      "c) Kontroverse um den Zugang zu Forschungsergebnissen",
+      "d) HOFFNUNG AUF EINEN ALLUMFASSENDEN GRIPPESCHUTZ",
+      "e) HINWEISE AUF EINGESCHRÄNKTEN ERFOLG VON INFLUENZA-IMPFUNGEN",
+      "f) Gesetz verpflichtet Forscher zur Veröffentlichung ihrer Ergebnisse",
+      "g) Geschlechtsspezifische Übertragung von Grippeviren",
+      "h) ENDLICH EINE UNIVERSALE GRIPPE-IMPFUNG AUF DEM MARKT",
+      "i) Durchschlagender Erfolg der diesjährigen Grippeimpfung",
+      "j) Die häufigsten Kinderkrankheiten in der Grundschule"
+    ],
+    "correct": "g",
+    "id": 4,
+    "correct_position": 7,
+    "source_file": "data1.json"
+  },
+  {
+    "group_name": "GRIPPE IMPFUNG (Tiêm phòng cúm)",
+    "text": "Text 5: Da sich Influenzaviren immer wieder verändern, unternimmt die Weltgesundheitsorganisation WHO jedes Jahr große Anstrengungen, um die gerade umlaufenden Grippeviren zu identifizieren. Die Entwicklung solcher Impfstoffe nimmt allerdings bis zu neun Monate in Anspruch. Daher kann es vorkommen, dass sich gerade aktive Influenza-Viren von denen, die für die Herstellung des Impfstoffes verwendet wurden, etwas unterscheiden. Prinzipiell ist also jedes Jahr eine erneute Impfung notwendig. Eine neue Studie liefert Anhaltspunkte dafür, dass die tatsächliche Wirksamkeit von Grippeimpfstoffen weit niedriger sein soll als bisher angenommen.",
+    "answer": [
+      "a) WHO gibt neue Empfehlungen für Grippe-Impfung heraus",
+      "b) NEUE ERKENNTNISSE ÜBER ARTÜBERGREIFENDE KRANKHEITSERREGER",
+      "c) Kontroverse um den Zugang zu Forschungsergebnissen",
+      "d) HOFFNUNG AUF EINEN ALLUMFASSENDEN GRIPPESCHUTZ",
+      "e) HINWEISE AUF EINGESCHRÄNKTEN ERFOLG VON INFLUENZA-IMPFUNGEN",
+      "f) Gesetz verpflichtet Forscher zur Veröffentlichung ihrer Ergebnisse",
+      "g) Geschlechtsspezifische Übertragung von Grippeviren",
+      "h) ENDLICH EINE UNIVERSALE GRIPPE-IMPFUNG AUF DEM MARKT",
+      "i) Durchschlagender Erfolg der diesjährigen Grippeimpfung",
+      "j) Die häufigsten Kinderkrankheiten in der Grundschule"
+    ],
+    "correct": "e",
+    "id": 5,
+    "correct_position": 5,
+    "source_file": "data1.json"
+  },
+  {
+    "group_name": "WASSER & GETRÄNKE (Nước uống)",
+    "text": "Text 1: Möchten Sie Kraft, Jugend und Gesundheit aus der Flasche? Dann suchen Sie bei Ihrem nächsten Einkauf im Supermarkt nach Sauerstoff-Mineralwasser. Für den etwas doppelten Preis eines normalen Mineralwassers erhalten Sie dann ein Getränk, von dem die Hersteller versprechen, dass es Ihnen natürlich nur, wenn Sie es regelmäßig trinken - magische Kräfte verleiht. In einer Umfrage wurden Schülerinnen und Schüler in Bayern nach ihren Erfahrungen mit dem Sauerstoffkraftdrink befragt. Die meisten fanden, dass es nicht anders schmeckt als andere Mineralwässer auch. Das Deutsche Institut für Ernährungsforschung in Potsdam hält es für Unsinn, Wasser mit Sauerstoff anzureichern. Der menschliche Körper nimmt Sauerstoff hauptsächlich über die Atemluft auf. Dann gehen Sie doch einfach mehr an die frische Luft.",
+    "answer": [
+      "a) Limonade aus dem Wasserhahn",
+      "b) Limonade ist moderner als Wasser",
+      "c) Sommer bedeutet in Zukunft nicht unbedingt Sonne",
+      "d) Mehr Sauerstoff im Wasser macht müde Menschen fit",
+      "e) Viel Wasser trinken - Gesundheit tanken",
+      "f) Frische Luft macht stark",
+      "g) Die Sonne macht Landwirten Probleme",
+      "h) Sprudel hausgemacht - Zeit des Flaschen-Tragens ist vorbei",
+      "i) Alarm: Nitrat im Regenwasser bedroht die Gesundheit",
+      "j) Vom Regen zum Mineralwasser"
+    ],
+    "correct": "f",
+    "id": 6,
+    "correct_position": 6,
+    "source_file": "data1.json"
+  },
+  {
+    "group_name": "WASSER & GETRÄNKE (Nước uống)",
+    "text": "Text 2: Wenn es regnet, dann fließt das Regenwasser in den Erdboden, der es wie ein Schwamm aufsaugt. Langsam sickert das Wasser dann in immer tiefere Erdschichten, in denen es gefiltert und gereinigt wird. Aus dem Regenwasser ist Trinkwasser geworden. Schließlich sammelt es sich in einer Schicht aus Sandstein, wo es sich mit älterem Wasser vermischt. Mehrere tausend Jahre lang kann das Trinkwasser so in den Tiefen der Erde ruhen. Durch Brunnen, die bis in die tiefen Sandsteinschichten reichen, kann dann Mineralwasser gewonnen werden.",
+    "answer": [
+      "a) Limonade aus dem Wasserhahn",
+      "b) Limonade ist moderner als Wasser",
+      "c) Sommer bedeutet in Zukunft nicht unbedingt Sonne",
+      "d) Mehr Sauerstoff im Wasser macht müde Menschen fit",
+      "e) Viel Wasser trinken - Gesundheit tanken",
+      "f) Frische Luft macht stark",
+      "g) Die Sonne macht Landwirten Probleme",
+      "h) Sprudel hausgemacht - Zeit des Flaschen-Tragens ist vorbei",
+      "i) Alarm: Nitrat im Regenwasser bedroht die Gesundheit",
+      "j) Vom Regen zum Mineralwasser"
+    ],
+    "correct": "j",
+    "id": 7,
+    "correct_position": 10,
+    "source_file": "data1.json"
+  },
+  {
+    "group_name": "WASSER & GETRÄNKE (Nước uống)",
+    "text": "Text 3: Nach den Unwettern der letzten Sommer sprechen Meteorologen in ganz Europa davon, dass sich das Klima weltweit dramatisch verändert. Stabile Sommer mit Sonnenschein pur von Juni bis August sollen selbst am Mittelmeer in Zukunft passé sein. Die durch Treibhausgase aufgeheizte Atmosphäre hat sich erwärmt, mehr Wasser verdunstet durch die höheren Temperaturen aus den Ozeanen und prasselt in extrem starken Unwettern mit Donner, Blitz und Hagel auf die Erde. Kurze Sonnenscheinperioden werden sich mit Unwetterfronten abwechseln.",
+    "answer": [
+      "a) Limonade aus dem Wasserhahn",
+      "b) Limonade ist moderner als Wasser",
+      "c) Sommer bedeutet in Zukunft nicht unbedingt Sonne",
+      "d) Mehr Sauerstoff im Wasser macht müde Menschen fit",
+      "e) Viel Wasser trinken - Gesundheit tanken",
+      "f) Frische Luft macht stark",
+      "g) Die Sonne macht Landwirten Probleme",
+      "h) Sprudel hausgemacht - Zeit des Flaschen-Tragens ist vorbei",
+      "i) Alarm: Nitrat im Regenwasser bedroht die Gesundheit",
+      "j) Vom Regen zum Mineralwasser"
+    ],
+    "correct": "c",
+    "id": 8,
+    "correct_position": 3,
+    "source_file": "data1.json"
+  },
+  {
+    "group_name": "WASSER & GETRÄNKE (Nước uống)",
+    "text": "Text 4: Wozu noch Kästen mit Mineralwasserflaschen nach Hause schleppen, wenn es sich doch bequem zu Hause zubereiten lässt. Tatsächlich ist das Leitungswasser, das aus den Wasserhähnen in deutschen Wohnungen fließt, von guter bis sehr guter Qualität. Einzig das Prickeln auf der Zunge fehlt bei dem Leitungswasser. Doch auch hier gibt es bereits eine preiswerte Möglichkeit, dies selbst zu tun: mit einer Sodamaschine. Damit lassen sich Sprudel und Limonaden selbst herstellen. Und das Wasser kommt wie von selbst ins Haus, das Tragen und Stapeln von Getränkekästen ist für den cleveren Selbsthersteller Vergangenheit.",
+    "answer": [
+      "a) Limonade aus dem Wasserhahn",
+      "b) Limonade ist moderner als Wasser",
+      "c) Sommer bedeutet in Zukunft nicht unbedingt Sonne",
+      "d) Mehr Sauerstoff im Wasser macht müde Menschen fit",
+      "e) Viel Wasser trinken - Gesundheit tanken",
+      "f) Frische Luft macht stark",
+      "g) Die Sonne macht Landwirten Probleme",
+      "h) Sprudel hausgemacht - Zeit des Flaschen-Tragens ist vorbei",
+      "i) Alarm: Nitrat im Regenwasser bedroht die Gesundheit",
+      "j) Vom Regen zum Mineralwasser"
+    ],
+    "correct": "h",
+    "id": 9,
+    "correct_position": 8,
+    "source_file": "data1.json"
+  },
+  {
+    "group_name": "WASSER & GETRÄNKE (Nước uống)",
+    "text": "Text 5: \"Wasser ist zum Waschen da\" lautete ein deutscher Schlager Mitte der 1950er. Wasser zu trinken schien damals manchen Leuten nicht in die neue Wohlstandswelt zu passen. Süße Limonaden galten als besser als einfach nur Wasser. Dabei raten heute die meisten Ärzte zum Wassertrinken: \"Trinken Sie täglich mindestens 2,5 Liter davon\", steht auch in nahezu allen medizinischen Ratgebern von heute. Mineralwasser hat viele Vorteile: Es gleicht den Mineral- und Flüssigkeitsverlust beim Schwitzen aus, es fördert die Verdauung und das alles ohne den Körper belastenden Zucker und ohne Kalorien.",
+    "answer": [
+      "a) Limonade aus dem Wasserhahn",
+      "b) Limonade ist moderner als Wasser",
+      "c) Sommer bedeutet in Zukunft nicht unbedingt Sonne",
+      "d) Mehr Sauerstoff im Wasser macht müde Menschen fit",
+      "e) Viel Wasser trinken - Gesundheit tanken",
+      "f) Frische Luft macht stark",
+      "g) Die Sonne macht Landwirten Probleme",
+      "h) Sprudel hausgemacht - Zeit des Flaschen-Tragens ist vorbei",
+      "i) Alarm: Nitrat im Regenwasser bedroht die Gesundheit",
+      "j) Vom Regen zum Mineralwasser"
+    ],
+    "correct": "e",
+    "id": 10,
+    "correct_position": 5,
+    "source_file": "data1.json"
+  },
+  {
+    "group_name": "FINANZEN (Tài chính)",
+    "text": "Text 1: Spardosen sind Sammelbehälter, Dekoration oder Kinderspielzeug - und zwar seit Jahrhunderten. Das Spardosen-Museum im Haus Kemnade zeigt 1200 Exemplare aus dem Mittelalter bis zum 20. Jahrhundert. Daneben widmet sich das Museum der Geschichte des Geldes. Die Sammlung von Spardosen reicht von schweren Gefäßen aus Eisen über kunstvoll verzierte Truhen und Kutschen bis zu Mickey-Mäusen aus Blech. \"Um 1900 erlebten Spardosen einen Boom\", erzählt Museumsleiter Jürgen Stollmann.",
+    "answer": [
+      "a) Ausstellung über Finanzmetropole",
+      "b) Fachinformationen für Finanzprofis",
+      "c) Finanz-ABC für Anfänger",
+      "d) Interessante Tätigkeit wichtiger als hohes Gehalt",
+      "e) Lehrreicher Rundgang zu Finanzwissen",
+      "f) Sammelgefäße als Ausstellungsobjekte",
+      "g) Sparbüchsen - Nun wieder in Mode",
+      "h) Vertrauen zeigt sich auf dem Konto",
+      "i) Wie Kinder den Umgang mit Geld lernen",
+      "j) Wie man Kinder zum Sparen motiviert"
+    ],
+    "correct": "f",
+    "id": 11,
+    "correct_position": 6,
+    "source_file": "data1.json"
+  },
+  {
+    "group_name": "FINANZEN (Tài chính)",
+    "text": "Text 2: Wer beim leisen Klirren von Geldstücken ein prickelndes Gefühl verspürt, ist in der neuen Sonderausstellung \"Die Sprache des Geldes\" im Berliner Museum für Kommunikation richtig. Im Museum machen die Besucher auf 450 Quadratmetern eine Tour durch eine fiktive Stadt: Auf dem \"Marktplatz\" erfahren sie, warum sich zuerst Münzen und viel später Scheine als Zahlungsmittel durchsetzen. Bei den Stationen \"Bank\" und \"Börse\" lernen sie das Prinzip kennen, das in guten Zeiten dahintersteht: Vertrauen in den Wert des Geldes.",
+    "answer": [
+      "a) Ausstellung über Finanzmetropole",
+      "b) Fachinformationen für Finanzprofis",
+      "c) Finanz-ABC für Anfänger",
+      "d) Interessante Tätigkeit wichtiger als hohes Gehalt",
+      "e) Lehrreicher Rundgang zu Finanzwissen",
+      "f) Sammelgefäße als Ausstellungsobjekte",
+      "g) Sparbüchsen - Nun wieder in Mode",
+      "h) Vertrauen zeigt sich auf dem Konto",
+      "i) Wie Kinder den Umgang mit Geld lernen",
+      "j) Wie man Kinder zum Sparen motiviert"
+    ],
+    "correct": "e",
+    "id": 12,
+    "correct_position": 5,
+    "source_file": "data1.json"
+  },
+  {
+    "group_name": "FINANZEN (Tài chính)",
+    "text": "Text 3: \"Versteh' ich ja doch nicht; ist mir zu kompliziert\". So oder ähnlich lauten die üblichen Vorbehalte, wenn es darum geht, zu begreifen, wie Wirtschaft funktioniert. Der englische Journalist John Lanchester nimmt alle jene neugierigen Laien, denen die Fachsprache rund ums Geld bislang verwirrend erschien, bei der Hand. So schildert er in seinem Buch \"Die Sprache des Geldes und warum wir sie nicht verstehen\", wie er sich als Außenseiter dem Thema genähert hat. Den zweiten Teil bildet ein alphabetisches Glossar, in dem Fachwörter und Namen in kurzen Artikeln erläutert werden.",
+    "answer": [
+      "a) Ausstellung über Finanzmetropole",
+      "b) Fachinformationen für Finanzprofis",
+      "c) Finanz-ABC für Anfänger",
+      "d) Interessante Tätigkeit wichtiger als hohes Gehalt",
+      "e) Lehrreicher Rundgang zu Finanzwissen",
+      "f) Sammelgefäße als Ausstellungsobjekte",
+      "g) Sparbüchsen - Nun wieder in Mode",
+      "h) Vertrauen zeigt sich auf dem Konto",
+      "i) Wie Kinder den Umgang mit Geld lernen",
+      "j) Wie man Kinder zum Sparen motiviert"
+    ],
+    "correct": "c",
+    "id": 13,
+    "correct_position": 3,
+    "source_file": "data1.json"
+  },
+  {
+    "group_name": "FINANZEN (Tài chính)",
+    "text": "Text 4: Eine neue Untersuchung des Instituts der deutschen Wirtschaft bestätigt eine Tatsache: Die Höhe des Einkommens allein macht nicht glücklich. Wie zufrieden ein Arbeitnehmer ist, hängt demnach nicht in erster Linie vom Lohn oder der Tätigkeit ab, sondern davon, wie emotional stabil, belastbar und selbstsicher er ist. Sie fand heraus, dass 53 Prozent der Bundesbürger, die sich emotional als besonders stabil bezeichnen, auch im Job sehr zufrieden sind. Die Fähigkeit, anderen Menschen zu vertrauen, steigere die Lebens- und Arbeitszufriedenheit. Wer misstrauisch sei, verwende mehr Zeit und Kraft für Kontrollen und sei daher weniger produktiv.",
+    "answer": [
+      "a) Ausstellung über Finanzmetropole",
+      "b) Fachinformationen für Finanzprofis",
+      "c) Finanz-ABC für Anfänger",
+      "d) Interessante Tätigkeit wichtiger als hohes Gehalt",
+      "e) Lehrreicher Rundgang zu Finanzwissen",
+      "f) Sammelgefäße als Ausstellungsobjekte",
+      "g) Sparbüchsen - Nun wieder in Mode",
+      "h) Vertrauen zeigt sich auf dem Konto",
+      "i) Wie Kinder den Umgang mit Geld lernen",
+      "j) Wie man Kinder zum Sparen motiviert"
+    ],
+    "correct": "h",
+    "id": 14,
+    "correct_position": 8,
+    "source_file": "data1.json"
+  },
+  {
+    "group_name": "FINANZEN (Tài chính)",
+    "text": "Text 5: Über Geld sprechen viele Deutsche nicht gerne. Dabei spielt Geld bei den meisten Entscheidungen eine wichtige Rolle, und zwar auch in der Familie. Es ist heutzutage zum Glück üblich, dass Kinder spielerisch ein Gefühl für Geld entwickeln: Zwei Drittel der Vier- bis Fünfjährigen bekommen mittlerweile Taschengeld. Doch die Offenheit von Eltern sollte noch weiter gehen: Denn die Erziehung prägt entscheidend das spätere Verhältnis der Kinder zu Geld, wie Studien belegen. Vorteilhaftes Finanzverhalten nennen Forscher das und setzen es mit der Fähigkeit gleich, Geld sinnvoll einzuteilen oder zu sparen.",
+    "answer": [
+      "a) Ausstellung über Finanzmetropole",
+      "b) Fachinformationen für Finanzprofis",
+      "c) Finanz-ABC für Anfänger",
+      "d) Interessante Tätigkeit wichtiger als hohes Gehalt",
+      "e) Lehrreicher Rundgang zu Finanzwissen",
+      "f) Sammelgefäße als Ausstellungsobjekte",
+      "g) Sparbüchsen - Nun wieder in Mode",
+      "h) Vertrauen zeigt sich auf dem Konto",
+      "i) Wie Kinder den Umgang mit Geld lernen",
+      "j) Wie man Kinder zum Sparen motiviert"
+    ],
+    "correct": "i",
+    "id": 15,
+    "correct_position": 9,
+    "source_file": "data1.json"
+  },
+  {
+    "group_name": "INSELN (Đảo)",
+    "text": "Text 1: Die Shengsi-Inseln liegen im Ostchinesischen Meer. Ein altes Dorf auf der nun unbewohnten Insel Shengsan ist zu einer Sehenswürdigkeit geworden. Die Einwohner haben das ehemalige Fischerdorf längst verlassen. Das Dorf aber, das sie zurückgelassen haben, ist in kürzester Zeit von der Natur zurückerobert worden. Farne und Gräser überwuchern Häuser und Wege. Die Grenzen zwischen den von Menschenhand geschaffenen Gebäuden und dem umgebenden Urwald verschwinden: Mauerwerk, von wildem Wein überwuchert: Grün, so weit das Auge reicht.",
+    "answer": [
+      "a) Deutscher Forscher startet Expedition auf Vogelinsel in Südamerika",
+      "b) Die beliebtesten Reiseziele unter den europäischen Inseln",
+      "c) Fernreisen in eine unberührte Tierwelt",
+      "d) Geführte Bootsausflüge zu einsamen Badebuchten",
+      "e) Grüne Geisterinsel in Asien",
+      "f) Immer mehr Reiseunternehmen streichen Thailand aus ihrem Angebot",
+      "g) Inseln zählen weltweit zu den wichtigsten Reisedestinationen",
+      "h) Nachhaltiger Tourismus auf chinesischen Inseln",
+      "i) Tierparadies auf einer Nordseeinsel",
+      "j) Umstrittener Umgang mit Tieren als Touristenmagnet"
+    ],
+    "correct": "e",
+    "id": 16,
+    "correct_position": 5,
+    "source_file": "data1.json"
+  },
+  {
+    "group_name": "INSELN (Đảo)",
+    "text": "Text 2: Der Reiseveranstalter TOURIMARS hat kürzlich eine Befragung durchgeführt. Er wollte wissen, welche Inseln in Europa unter Reisenden besonders populär sind. Nach dieser Umfrage führt die griechische Insel Santorin die Liste an. Auf Platz zwei steht Madeira, die grüne Insel im Atlantik. Mit Kreta und Zakynthos schaffen es an dritter und vierter Stelle noch zwei weitere griechische Inseln in die Liste.",
+    "answer": [
+      "a) Deutscher Forscher startet Expedition auf Vogelinsel in Südamerika",
+      "b) Die beliebtesten Reiseziele unter den europäischen Inseln",
+      "c) Fernreisen in eine unberührte Tierwelt",
+      "d) Geführte Bootsausflüge zu einsamen Badebuchten",
+      "e) Grüne Geisterinsel in Asien",
+      "f) Immer mehr Reiseunternehmen streichen Thailand aus ihrem Angebot",
+      "g) Inseln zählen weltweit zu den wichtigsten Reisedestinationen",
+      "h) Nachhaltiger Tourismus auf chinesischen Inseln",
+      "i) Tierparadies auf einer Nordseeinsel",
+      "j) Umstrittener Umgang mit Tieren als Touristenmagnet"
+    ],
+    "correct": "b",
+    "id": 17,
+    "correct_position": 2,
+    "source_file": "data1.json"
+  },
+  {
+    "group_name": "INSELN (Đảo)",
+    "text": "Text 3: Das ostfriesische Memmert ist für selten Vögel reserviert. Auf der Düneninsel, die vor ein paar Jahrhunderten aus der Nordsee aufgetaucht ist, leben Zigtausende von Vögeln. Nur der Inselvogt lebt zeitweise dort. Im Auftrag des Landes Niedersachsen ist der Inselvogt zuständig für den Schutz von Natur und Vögeln auf Memmert. 100.000 Tiere, Vertreter von 60 verschiedenen Vogelarten, kommen Jahr für Jahr zum Brüten nach Memmert.",
+    "answer": [
+      "a) Deutscher Forscher startet Expedition auf Vogelinsel in Südamerika",
+      "b) Die beliebtesten Reiseziele unter den europäischen Inseln",
+      "c) Fernreisen in eine unberührte Tierwelt",
+      "d) Geführte Bootsausflüge zu einsamen Badebuchten",
+      "e) Grüne Geisterinsel in Asien",
+      "f) Immer mehr Reiseunternehmen streichen Thailand aus ihrem Angebot",
+      "g) Inseln zählen weltweit zu den wichtigsten Reisedestinationen",
+      "h) Nachhaltiger Tourismus auf chinesischen Inseln",
+      "i) Tierparadies auf einer Nordseeinsel",
+      "j) Umstrittener Umgang mit Tieren als Touristenmagnet"
+    ],
+    "correct": "i",
+    "id": 18,
+    "correct_position": 9,
+    "source_file": "data1.json"
+  },
+  {
+    "group_name": "INSELN (Đảo)",
+    "text": "Text 4: Die südamerikanischen Galapagosinseln locken nicht mit weißen Sandstränden und Palmen. Dennoch sind sie das Ziel so mancher Reisesehnsüchte. Und tatsächlich kommt man wohl nirgendwo sonst ungezähmten Tieren so nahe wir auf diesen Inseln: Auf den unbewohnten Galapagosinseln verhalten sich die Tiere so, als ob keine Menschen gäbe. Anders sieht es bei den unbewohnten Inseln aus. Hier lassen die Behörden seit einigen Jahren nur eine begrenzte Zahl an Schiffen zu, und ohne Führer ist das Betreten nicht erlaubt.",
+    "answer": [
+      "a) Deutscher Forscher startet Expedition auf Vogelinsel in Südamerika",
+      "b) Die beliebtesten Reiseziele unter den europäischen Inseln",
+      "c) Fernreisen in eine unberührte Tierwelt",
+      "d) Geführte Bootsausflüge zu einsamen Badebuchten",
+      "e) Grüne Geisterinsel in Asien",
+      "f) Immer mehr Reiseunternehmen streichen Thailand aus ihrem Angebot",
+      "g) Inseln zählen weltweit zu den wichtigsten Reisedestinationen",
+      "h) Nachhaltiger Tourismus auf chinesischen Inseln",
+      "i) Tierparadies auf einer Nordseeinsel",
+      "j) Umstrittener Umgang mit Tieren als Touristenmagnet"
+    ],
+    "correct": "c",
+    "id": 19,
+    "correct_position": 3,
+    "source_file": "data1.json"
+  },
+  {
+    "group_name": "INSELN (Đảo)",
+    "text": "Text 5: Dass Elefanten in Thailand teurer sein können als ein 3er-BMW in München, liegt an ihrem enormen wirtschaftlichen Potenzial: Sie sind eine der Hauptattraktionen der thailändischen Tourismusindustrie. Was für die Besitzer ein gutes Geschäft ist, steht immer häufiger bei Tierschützern in der Kritik: Elefantenreiten sei die grausamste Tierattraktion der Welt. Mehr als 100 Reiseveranstalter haben solche Angebote schon aus den Katalogen gestrichen.",
+    "answer": [
+      "a) Deutscher Forscher startet Expedition auf Vogelinsel in Südamerika",
+      "b) Die beliebtesten Reiseziele unter den europäischen Inseln",
+      "c) Fernreisen in eine unberührte Tierwelt",
+      "d) Geführte Bootsausflüge zu einsamen Badebuchten",
+      "e) Grüne Geisterinsel in Asien",
+      "f) Immer mehr Reiseunternehmen streichen Thailand aus ihrem Angebot",
+      "g) Inseln zählen weltweit zu den wichtigsten Reisedestinationen",
+      "h) Nachhaltiger Tourismus auf chinesischen Inseln",
+      "i) Tierparadies auf einer Nordseeinsel",
+      "j) Umstrittener Umgang mit Tieren als Touristenmagnet"
+    ],
+    "correct": "j",
+    "id": 20,
+    "correct_position": 10,
+    "source_file": "data1.json"
+  },
+  {
+    "group_name": "PROGRAMMIERER (Lập trình viên)",
+    "text": "Text 1: Martina Lux hat ein Hobby, mit dem sie im Kreis ihrer Freundinnen ziemlich allein steht: Sie programmiert in ihrer Freizeit. Ihr Informatiklehrer erzählte ihr von einem Workshop in Berlin: Bei 'Jugend programmiert' traf Martina von letztem Freitag bis Sonntag mit gleichgesinnten Jungen und Mädchen zwischen zwölf und 18 Jahren zusammen, um gemeinsam Programme zu entwickeln. Martinas Gruppe erhielt zwar keinen Preis, aber das Wochenende hat sich für sie auf jeden Fall gelohnt.",
+    "answer": [
+      "a) Immer mehr Jugendliche werden Programmierer",
+      "b) Automobilindustrie schafft neue Arbeitsplätze",
+      "c) Diskussion über schulische Berufsorientierung",
+      "d) Förderwochenende für junge Softwareentwickler",
+      "e) Frauen in technischen Berufen werden stärker gefördert",
+      "f) Spannende Gewinne für wissenschaftliche Nachwuchstalente",
+      "g) Mehr Bemühungen um weiblichen Nachwuchs gefordert",
+      "h) Verleihung des Jugendnobelpreises in Stockholm",
+      "i) Berufswahl: Jugendliche werden stark von ihrem gesellschaftlichen Umfeld geprägt",
+      "j) Studienabsolventen technischer Fächer sehen ihre Zukunft meist in der Automobilindustrie"
+    ],
+    "correct": "d",
+    "id": 21,
+    "correct_position": 4,
+    "source_file": "data1.json"
+  },
+  {
+    "group_name": "PROGRAMMIERER (Lập trình viên)",
+    "text": "Text 2: 'Jugend forscht' ist ein bundesweiter Nachwuchswettbewerb für junge Menschen bis zum Alter von 21 Jahren. Neben Geldpreisen werden auch einige Sonderpreise vergeben, die bei den Jugendlichen ganz besonders begehrt sind. Dazu gehört die Teilnahme an internationalen Wettbewerben, bei denen die jungen Forscher Fachleuten aus aller Welt ihre Projekte vorstellen können. Auch Einladungen zu Studienreisen und Kongressen im Ausland sind für viele Teilnehmer besonders attraktiv.",
+    "answer": [
+      "a) Immer mehr Jugendliche werden Programmierer",
+      "b) Automobilindustrie schafft neue Arbeitsplätze",
+      "c) Diskussion über schulische Berufsorientierung",
+      "d) Förderwochenende für junge Softwareentwickler",
+      "e) Frauen in technischen Berufen werden stärker gefördert",
+      "f) Spannende Gewinne für wissenschaftliche Nachwuchstalente",
+      "g) Mehr Bemühungen um weiblichen Nachwuchs gefordert",
+      "h) Verleihung des Jugendnobelpreises in Stockholm",
+      "i) Berufswahl: Jugendliche werden stark von ihrem gesellschaftlichen Umfeld geprägt",
+      "j) Studienabsolventen technischer Fächer sehen ihre Zukunft meist in der Automobilindustrie"
+    ],
+    "correct": "f",
+    "id": 22,
+    "correct_position": 6,
+    "source_file": "data1.json"
+  },
+  {
+    "group_name": "PROGRAMMIERER (Lập trình viên)",
+    "text": "Text 3: Die Industriellenvereinigung beklagt in einer jüngsten Pressemitteilung den deutlichen Mangel an Fachkräften in der Naturwissenschaften und den technischen Berufen. Um dem entgegenzusteuern, ruft die Industriellenvereinigung unter anderem dazu auf, insbesondere Mädchen und junge Frauen für solche Berufe zu gewinnen. Erfolgreiche Frauen aus diesen Bereichen sollten sich zudem verstärkt als Vorbilder für Schülerinnen präsentieren.",
+    "answer": [
+      "a) Automobilindustrie schafft neue Arbeitsplätze",
+      "b) Berufswahl: Jugendliche werden stark von ihrem gesellschaftlichen Umfeld geprägt",
+      "c) Diskussion über schulische Berufsorientierung",
+      "d) Förderwochenende für junge Softwareentwickler",
+      "e) Immer mehr Frauen ergreifen technische Berufe",
+      "f) Immer mehr Jugendliche werden Programmierer",
+      "g) Mehr Bemühungen um weiblichen Nachwuchs gefordert",
+      "h) Spannende Gewinne für wissenschaftliche Nachwuchstalente",
+      "i) Studienabsolventen technischer Fächer sehen ihre Zukunft meist in der Fahrzeugbranche",
+      "j) Verleihung des Jugendnobelpreises in Stockholm"
+    ],
+    "correct": "g",
+    "id": 23,
+    "correct_position": 7,
+    "source_file": "data1.json"
+  },
+  {
+    "group_name": "PROGRAMMIERER (Lập trình viên)",
+    "text": "Text 4: Im Kulturzentrum war gestern Abend Tobias Meyer zu Gast. In seinem Vortrag ging Meyer auf zwei wesentliche Aspekte von Berufsorientierung ein. Zum einen versteht er Berufsorientierung als eine Entwicklung, die eng mit dem persönlichen und sozialen Beziehungen eines jungen Menschen zusammenhängt. In engem Zusammenhang damit sieht er die Berufsvorbilder, an denen sich Jugendliche orientieren: Diese hängen ebenso wie die Erwartungen, die an einen Beruf gestellt würden, stark von der sozialen Umgebung ab.",
+    "answer": [
+      "a) Automobilindustrie schafft neue Arbeitsplätze",
+      "b) Berufswahl: Jugendliche werden stark von ihrem gesellschaftlichen Umfeld geprägt",
+      "c) Diskussion über schulische Berufsorientierung",
+      "d) Förderwochenende für junge Softwareentwickler",
+      "e) Immer mehr Frauen ergreifen technische Berufe",
+      "f) Immer mehr Jugendliche werden Programmierer",
+      "g) Mehr Bemühungen um weiblichen Nachwuchs gefordert",
+      "h) Spannende Gewinne für wissenschaftliche Nachwuchstalente",
+      "i) Studienabsolventen technischer Fächer sehen ihre Zukunft meist in der Fahrzeugbranche",
+      "j) Verleihung des Jugendnobelpreises in Stockholm"
+    ],
+    "correct": "b",
+    "id": 24,
+    "correct_position": 2,
+    "source_file": "data1.json"
+  },
+  {
+    "group_name": "PROGRAMMIERER (Lập trình viên)",
+    "text": "Text 5: Wie eine repräsentative Umfrage unter Studenten kürzlich zeigte, erfreut sich die Automobilindustrie nach wie vor großer Beliebtheit bei Studierenden der Fachgebiete Wirtschaft und Technik. künftige Ingenieure nannten sogar ausschließlich Automobilunternehmen. Auch für Studenten der Informatik gewinnt die Automobilindustrie zunehmend an Attraktivität - wenig verwunderlich angesichts der rasch zunehmenden Bedeutung, die der Elektronik in Fahrzeugen zukommt.",
+    "answer": [
+      "a) Automobilindustrie schafft neue Arbeitsplätze",
+      "b) Berufswahl: Jugendliche werden stark von ihrem gesellschaftlichen Umfeld geprägt",
+      "c) Diskussion über schulische Berufsorientierung",
+      "d) Förderwochenende für junge Softwareentwickler",
+      "e) Immer mehr Frauen ergreifen technische Berufe",
+      "f) Immer mehr Jugendliche werden Programmierer",
+      "g) Mehr Bemühungen um weiblichen Nachwuchs gefordert",
+      "h) Spannende Gewinne für wissenschaftliche Nachwuchstalente",
+      "i) Studienabsolventen technischer Fächer sehen ihre Zukunft meist in der Fahrzeugbranche",
+      "j) Verleihung des Jugendnobelpreises in Stockholm"
+    ],
+    "correct": "i",
+    "id": 25,
+    "correct_position": 9,
+    "source_file": "data1.json"
+  },
+  {
+    "group_name": "GESUNDHEIT & GEMÜSE (Sức khỏe & Rau củ)",
+    "text": "Text 1: Über zehntausend wissenschaftliche Studien wurden in den vergangenen Jahren im Auftrag der Weltgesundheitsorganisation WHO durchgeführt, um herauszubekommen, warum manche Menschen erheblich seltener an lebensgefährlichen Krankheiten wie Krebs oder Herzinfarkt erkranken als andere. Die Forscher fanden heraus, dass mit wenigen Tricks viele Menschen gesünder leben und damit ihr Leben verlängern könnten. Das Risiko eines Herzinfarkts kann man zum Beispiel durch den täglichen Verzehr eines Apfels und tägliches zwanzigminütiges Radfahren erheblich reduzieren.",
+    "answer": [
+      "a) Das ideale Gemüse für schwer Arbeitende",
+      "b) Ein schlankes Gemüse für schlanke Leute",
+      "c) Gesundes Leben schützt vor Zivilisationskrankheiten",
+      "d) Gesundheitsrisiken durch fettreiche Ernährung",
+      "e) Kartoffelrezepte als Zeitungsbeilage",
+      "f) Pflanzliche stoffe für die gesundeit der Haut",
+      "g) Tolle Figur durch ausgewogene Ernährung",
+      "h) vitaminreiche Ernährung mit Aloe Vera",
+      "i) Von der Wildpflanze zum international geschätzten Nahrungsmittel",
+      "j) WHO untersucht Zusammenhang von Krebs und Herzinfarkt"
+    ],
+    "correct": "c",
+    "id": 26,
+    "correct_position": 3,
+    "source_file": "data1.json"
+  },
+  {
+    "group_name": "GESUNDHEIT & GEMÜSE (Sức khỏe & Rau củ)",
+    "text": "Text 2: Am Mittelmeer und in Mexico wächst die Aloe-Vera-Pflanze, der in der heutigen Naturmedizin eine wachsende Rolle zukommt. Unter der dicken Haut der Pflanze befindet sich eine gelartige Flüssigkeit. Dieses Gel ist sehr vitamin- und mineralstoffreich. Kosmetisch wird es für Cremes benutzt, die Hauterkrankungen und leichte Verbrennungen wie zum Beispiel Sonnenbrand lindern, Feuchtigkeit spenden und die Haut straffen.",
+    "answer": [
+      "a) Das ideale Gemüse für schwer Arbeitende",
+      "b) Ein schlankes Gemüse für schlanke Leute",
+      "c) Gesundes Leben schützt vor Zivilisationskrankheiten",
+      "d) Gesundheitsrisiken durch fettreiche Ernährung",
+      "e) Kartoffelrezepte als Zeitungsbeilage",
+      "f) Pflanzliche stoffe für die gesundeit der Haut",
+      "g) Tolle Figur durch ausgewogene Ernährung",
+      "h) vitaminreiche Ernährung mit Aloe Vera",
+      "i) Von der Wildpflanze zum international geschätzten Nahrungsmittel",
+      "j) WHO untersucht Zusammenhang von Krebs und Herzinfarkt"
+    ],
+    "correct": "f",
+    "id": 27,
+    "correct_position": 6,
+    "source_file": "data1.json"
+  },
+  {
+    "group_name": "GESUNDHEIT & GEMÜSE (Sức khỏe & Rau củ)",
+    "text": "Text 3: Eine der ältesten bekannten Gemüsesorten ist der Spargel. Geschätzt wurde er vor allem in der Medizin als Herzschutzmittel und zur Stärkung der körpereigenen Abwehrkräfte. Heute schätzen wir am Spargel besonders, dass er nicht dick macht. Die körperlich hart arbeitende Bevölkerung früherer Zeiten schätzte ihn deshalb nicht sehr, weil er kaum Energie lieferte.",
+    "answer": [
+      "a) Das ideale Gemüse für schwer Arbeitende",
+      "b) Ein schlankes Gemüse für schlanke Leute",
+      "c) Gesundes Leben schützt vor Zivilisationskrankheiten",
+      "d) Gesundheitsrisiken durch fettreiche Ernährung",
+      "e) Kartoffelrezepte als Zeitungsbeilage",
+      "f) Pflanzliche stoffe für die gesundeit der Haut",
+      "g) Tolle Figur durch ausgewogene Ernährung",
+      "h) vitaminreiche Ernährung mit Aloe Vera",
+      "i) Von der Wildpflanze zum international geschätzten Nahrungsmittel",
+      "j) WHO untersucht Zusammenhang von Krebs und Herzinfarkt"
+    ],
+    "correct": "b",
+    "id": 28,
+    "correct_position": 2,
+    "source_file": "data1.json"
+  },
+  {
+    "group_name": "GESUNDHEIT & GEMÜSE (Sức khỏe & Rau củ)",
+    "text": "Text 4: Schlank sein ist 'in'. Deshalb versuchen Millionen Menschen immer wieder ihre Pfunde loszuwerden. Hier setzt eine neue Theorie an: Sie unterscheidet Nahrungsmittel in Fetthorter, die Fett im Körper speichern, und Fettburner, die dem Körper helfen, zu viel Fett und damit Kilos zu verwerten. Frisches Gemüse, Obst, Fisch und Geflügel versorgen den Körper mit Energie und helfen ihm dabei, die Nahrungsstoffe optimal zu verwerten. Iss dich schlank, lautet das Motto der Fatburnertheorie.",
+    "answer": [
+      "a) Das ideale Gemüse für schwer Arbeitende",
+      "b) Ein schlankes Gemüse für schlanke Leute",
+      "c) Gesundes Leben schützt vor Zivilisationskrankheiten",
+      "d) Gesundheitsrisiken durch fettreiche Ernährung",
+      "e) Kartoffelrezepte als Zeitungsbeilage",
+      "f) Pflanzliche stoffe für die gesundeit der Haut",
+      "g) Tolle Figur durch ausgewogene Ernährung",
+      "h) vitaminreiche Ernährung mit Aloe Vera",
+      "i) Von der Wildpflanze zum international geschätzten Nahrungsmittel",
+      "j) WHO untersucht Zusammenhang von Krebs und Herzinfarkt"
+    ],
+    "correct": "g",
+    "id": 29,
+    "correct_position": 7,
+    "source_file": "data1.json"
+  },
+  {
+    "group_name": "GESUNDHEIT & GEMÜSE (Sức khỏe & Rau củ)",
+    "text": "Text 5: Als typisch deutsch gilt sie, doch rund um den Globus ist sie eines der Basislebensmittel schlechthin. Gemeint ist die überaus populäre Kartoffel. Hunderte verschiedener Sorten gibt es auf der Welt, doch ihr Ursprung liegt in Südamerika. Präkolumbianische Kulturen begannen damit, die bis dahin wild wachsende Urform der Kartoffel systematisch anzubauen. Die englischen Seehelden Sir Francis Drake und Sir Walter Raleigh sollen sie im 16. Jahrhundert nach Europa mitgebracht haben.",
+    "answer": [
+      "a) Das ideale Gemüse für schwer Arbeitende",
+      "b) Ein schlankes Gemüse für schlanke Leute",
+      "c) Gesundes Leben schützt vor Zivilisationskrankheiten",
+      "d) Gesundheitsrisiken durch fettreiche Ernährung",
+      "e) Kartoffelrezepte als Zeitungsbeilage",
+      "f) Pflanzliche stoffe für die gesundeit der Haut",
+      "g) Tolle Figur durch ausgewogene Ernährung",
+      "h) vitaminreiche Ernährung mit Aloe Vera",
+      "i) Von der Wildpflanze zum international geschätzten Nahrungsmittel",
+      "j) WHO untersucht Zusammenhang von Krebs und Herzinfarkt"
+    ],
+    "correct": "i",
+    "id": 30,
+    "correct_position": 9,
+    "source_file": "data1.json"
+  },
+
+  {
+    "group_name": "INSEKTEN & UMWELT (Côn trùng & Môi trường)",
+    "text": "Text 1: Die anhaltenden außergewöhnlich hohen Temperaturen haben im Süden Frankreichs eine Tierplage bisher unbekannten Ausmaßes ausgelöst. Bei den Plagegeistern handelt es sich um Unmengen von zwei bis dreieinhalb Zentimeter langen Heuschrecken, sogenannten Roten Schnarrschrecken. Die dunklen Insekten fressen Felder und Wiesen kahl und haben innerhalb von rund sechs Wochen die Landschaft in eine trostlose Steppe verwandelt. Der Name dieser heimischen Tierart hat übrigens einen ganz einfachen Ursprung: Die Heuschrecken machen ein lautes Geräusch beim Springen sie schnarren also.",
+    "answer": [
+      "a) Neue Insektenart in Frankreich entdeckt",
+      "b) Kleine Plagegeister können Krankheiten bringen",
+      "c) Landwirte wollen Gift gegen schädliche Insekten einsetzen",
+      "d) Neue Mittel gegen Mücken",
+      "e) Neue Studie: Nicht nur Affen und Delfine erkennen sich selbst",
+      "f) Probleme beim Versuchsaufbau: Studie gescheitert",
+      "g) Rhein nach Chemieunfall noch immer tot",
+      "h) Rückblick: Fischsterben im Rhein",
+      "i) Um die Zukunft der Nordsee ist es schlecht bestellt",
+      "j) WWF zieht positive Bilanz für die Nordsee"
+    ],
+    "correct": "a",
+    "id": 31,
+    "correct_position": 1,
+    "source_file": "data2.json"
+  },
+  {
+    "group_name": "INSEKTEN & UMWELT (Côn trùng & Môi trường)",
+    "text": "Text 2: Für immer wird eine der größten Umweltkatastrophen mit dem Namen des damals in Basel ansässigen Chemiekonzerns Sandoz verbunden bleiben. 1986 führte ein Brand in einer Lagerhalle des Konzerns zu Verunreinigung des Rheins mit 20 Tonnen hochgiftiger Pestizide und Insektizide. Auf einer Länge von 450 Kilometern kam es zu einem gigantischen Fischsterben. Im Rahmen des 'Aktionsprogramms Rhein' wurden rund 60 Milliarden Euro in den Ausbau von Kläranlagen entlang des Rheinufers investiert. Viele Schwermetalle konnten reduziert und teilweise sogar ganz aus dem Rhein verbannt werden.",
+    "answer": [
+      "a) Neue Insektenart in Frankreich entdeckt",
+      "b) Kleine Plagegeister können Krankheiten bringen",
+      "c) Landwirte wollen Gift gegen schädliche Insekten einsetzen",
+      "d) Neue Mittel gegen Mücken",
+      "e) Neue Studie: Nicht nur Affen und Delfine erkennen sich selbst",
+      "f) Probleme beim Versuchsaufbau: Studie gescheitert",
+      "g) Rhein nach Chemieunfall noch immer tot",
+      "h) Rückblick: Fischsterben im Rhein",
+      "i) Um die Zukunft der Nordsee ist es schlecht bestellt",
+      "j) WWF zieht positive Bilanz für die Nordsee"
+    ],
+    "correct": "h",
+    "id": 32,
+    "correct_position": 8,
+    "source_file": "data2.json"
+  },
+  {
+    "group_name": "INSEKTEN & UMWELT (Côn trùng & Môi trường)",
+    "text": "Text 3: Der Klimawandel bringt es in Verbindung mit der Globalisierung mit sich, dass auch in Deutschland Tiere heimisch werden, die hier zuvor nicht beobachtet wurden. Zu diesen Neuankömmlingen gehören auch exotische Stechmücken, beispielsweise der japanische Bushmosquito. Mit den exotischen Stechmücken kommen auch neue Infektionserreger nach Deutschland, die möglicherweise auch bisher unbekannte Krankheiten beim Menschen auslösen können. Eine Forschergruppe identifizierte jetzt einige bisher nur in Afrika und Asien vorkommende Erreger.",
+    "answer": [
+      "a) Neue Insektenart in Frankreich entdeckt",
+      "b) Kleine Plagegeister können Krankheiten bringen",
+      "c) Landwirte wollen Gift gegen schädliche Insekten einsetzen",
+      "d) Neue Mittel gegen Mücken",
+      "e) Neue Studie: Nicht nur Affen und Delfine erkennen sich selbst",
+      "f) Probleme beim Versuchsaufbau: Studie gescheitert",
+      "g) Rhein nach Chemieunfall noch immer tot",
+      "h) Rückblick: Fischsterben im Rhein",
+      "i) Um die Zukunft der Nordsee ist es schlecht bestellt",
+      "j) WWF zieht positive Bilanz für die Nordsee"
+    ],
+    "correct": "b",
+    "id": 33,
+    "correct_position": 2,
+    "source_file": "data2.json"
+  },
+  {
+    "group_name": "INSEKTEN & UMWELT (Côn trùng & Môi trường)",
+    "text": "Text 4: Forscher haben bei Versuchen im Bronx Zoo in New York eine neue Erkenntnis über Elefanten erlangt: Sie können sich selbst im Spiegel erkennen. Zumindest eines von drei Versuchstieren versuchte, einen auf seinem Kopfe aufgemalten Fleck, der im Spiegelbild zu sehen war, zu entfernen. Bisher war unter anderem von Affen, Delfinen und Elstern ein ähnliches Verhalten bekannt. Den Grund sieht ein Wissenschaftler im Versuchsaufbau: 'Das große Problem ist, einen Spiegel zu haben, der elefantenfest ist'. Deshalb wurde diesmal mit ein 2,5 mal 2,5 Meter großer Spiegel in einem Elefantengehege mit drei weiblichen asiatischen Elefanten montiert.",
+    "answer": [
+      "a) Neue Insektenart in Frankreich entdeckt",
+      "b) Kleine Plagegeister können Krankheiten bringen",
+      "c) Landwirte wollen Gift gegen schädliche Insekten einsetzen",
+      "d) Neue Mittel gegen Mücken",
+      "e) Neue Studie: Nicht nur Affen und Delfine erkennen sich selbst",
+      "f) Probleme beim Versuchsaufbau: Studie gescheitert",
+      "g) Rhein nach Chemieunfall noch immer tot",
+      "h) Rückblick: Fischsterben im Rhein",
+      "i) Um die Zukunft der Nordsee ist es schlecht bestellt",
+      "j) WWF zieht positive Bilanz für die Nordsee"
+    ],
+    "correct": "e",
+    "id": 34,
+    "correct_position": 5,
+    "source_file": "data2.json"
+  },
+  {
+    "group_name": "INSEKTEN & UMWELT (Côn trùng & Môi trường)",
+    "text": "Text 5: Heute und morgen tagt in Göteborg die Internationale Nordseekonferenz (INK). Der World Wide Fund For Nature (WWF) kritisierte in diesem Zusammenhang, dass dies das letzte Treffen dieser Art sei. Der WWF befürchtet, dass die Berücksichtigung ökologischer Belange der Nordsee künftig im europäischen Rahmen vernachlässigt werde: 'Es sieht nicht gut aus für die Nordsee'. Der WWF ist der Ansicht, dass auf den Treffen der INK richtungsweisende Beschlüsse zum Nordseeschutz gefasst worden seien. Das Problem sei allerdings die Umsetzung dieser Beschlüsse in politisches Handeln in den Anrainerstaaten.",
+    "answer": [
+      "a) Neue Insektenart in Frankreich entdeckt",
+      "b) Kleine Plagegeister können Krankheiten bringen",
+      "c) Landwirte wollen Gift gegen schädliche Insekten einsetzen",
+      "d) Neue Mittel gegen Mücken",
+      "e) Neue Studie: Nicht nur Affen und Delfine erkennen sich selbst",
+      "f) Probleme beim Versuchsaufbau: Studie gescheitert",
+      "g) Rhein nach Chemieunfall noch immer tot",
+      "h) Rückblick: Fischsterben im Rhein",
+      "i) Um die Zukunft der Nordsee ist es schlecht bestellt",
+      "j) WWF zieht positive Bilanz für die Nordsee"
+    ],
+    "correct": "i",
+    "id": 35,
+    "correct_position": 9,
+    "source_file": "data2.json"
+  },
+  {
+    "group_name": "RAUCHEN (Hút thuốc)",
+    "text": "Text 1: Für Raucher wird es an der Universität in Köln ab dem kommenden Wintersemester eng. Denn nach zahllosen Beschwerden sowohl vom Personal der Universität als auch von Studierenden erweiterte nun die Universitätsverwaltung das bereits bestehende Rauchverbot. Das Rauchverbot gilt nun in allen Gebäuden einschließlich der Toiletten. Die Professoren und Studierenden, die das Qualmen auch künftig nicht lassen können, werden in ihren Rauchpausen im kommenden Winter irgendwo auf den Campus ganz sicher kalte Füße bekommen.",
+    "answer": [
+      "a) Freizeitsport in den Alpen",
+      "b) Mädchen geben mehr Geld für Zigaretten aus als Jungen",
+      "c) Hochgebirge als Skiparadies",
+      "d) Höhenluft - gut fürs Herz",
+      "e) Junge Sportler, weniger suchtanfällig",
+      "f) Mit der Zigarette an die frische Luft",
+      "g) Rauchverbot in Sportvereinen",
+      "h) Uni-Campus: rauchfreie Zone eingerichtet",
+      "i) Zigaretten gegen Alleinsein",
+      "j) Zum Leistungssport in die Berge"
+    ],
+    "correct": "h",
+    "id": 36,
+    "correct_position": 8,
+    "source_file": "data2.json"
+  },
+  {
+    "group_name": "RAUCHEN (Hút thuốc)",
+    "text": "Text 2: Urlaub in den Bergen ist sehr gesund. Das fanden jetzt Wissenschaftler am Anatomischen Zentrum der Universität Köln heraus. Besonders die Höhenlagen um die 2.000 Meter wirken sich messbar positiv auf die Gesundheit aus. Die 'dünnere Luft' in Hochgebirgslagen bewirke eine Senkung des Blutdrucks und des Pulsschlages, eine verbesserte Leistungsfähigkeit des Herzens und damit eine Stärkung der Funktion von Herz, Lunge und Kreislauf. Wichtig sei es aber, in den ersten Tagen auf eine ausreichende Akklimatisierung zu achten.",
+    "answer": [
+      "a) Freizeitsport in den Alpen",
+      "b) Mädchen geben mehr Geld für Zigaretten aus als Jungen",
+      "c) Hochgebirge als Skiparadies",
+      "d) Höhenluft - gut fürs Herz",
+      "e) Junge Sportler, weniger suchtanfällig",
+      "f) Mit der Zigarette an die frische Luft",
+      "g) Rauchverbot in Sportvereinen",
+      "h) Uni-Campus: rauchfreie Zone eingerichtet",
+      "i) Zigaretten gegen Alleinsein",
+      "j) Zum Leistungssport in die Berge"
+    ],
+    "correct": "d",
+    "id": 37,
+    "correct_position": 4,
+    "source_file": "data2.json"
+  },
+  {
+    "group_name": "RAUCHEN (Hút thuốc)",
+    "text": "Text 3: Schlechte Haut, übler Atem, leere Brieftasche. Das ist eigentlich ziemlich 'uncool'. Und doch dauert es ziemlich lange, bis junge Raucher begriffen haben, dass Rauchen nicht hält, was viele Jugendliche in ihrer Phantasie damit verbinden: Freiheit und Attraktivität. Besonders groß ist der prozentuale Anteil der Raucher übrigens unter den jungen Mädchen. Als Raucherinnen fühlen sie sich erwachsen und der Cliquendruck nahezu alle Freunde und Freundinnen rauchen auch erzeugt oft ein vermeintliches Notwendigkeitsgefühl.",
+    "answer": [
+      "a) Freizeitsport in den Alpen",
+      "b) Mädchen geben mehr Geld für Zigaretten aus als Jungen",
+      "c) Hochgebirge als Skiparadies",
+      "d) Höhenluft - gut fürs Herz",
+      "e) Junge Sportler, weniger suchtanfällig",
+      "f) Mit der Zigarette an die frische Luft",
+      "g) Rauchverbot in Sportvereinen",
+      "h) Uni-Campus: rauchfreie Zone eingerichtet",
+      "i) Zigaretten gegen Alleinsein",
+      "j) Zum Leistungssport in die Berge"
+    ],
+    "correct": "b",
+    "id": 38,
+    "correct_position": 2,
+    "source_file": "data2.json"
+  },
+  {
+    "group_name": "RAUCHEN (Hút thuốc)",
+    "text": "Text 4: Sport im Hochgebirge? Da denkt man zuallererst an Wintersport. Ski fahren, rodeln, eislaufen. Doch auch im Sommer ist das Hochgebirge ein Ort, an dem man sich vielfältig sportlich betätigen kann: Wandern, Klettern oder Schwimmen in einem der zahlreichen kristallklaren Bergseen erfreuen sich großer Beliebtheit bei Jung und Alt. In Deutschland ist Hochgebirgssport vor allem in den Alpenregionen im südlichen Bayern möglich.",
+    "answer": [
+      "a) Freizeitsport in den Alpen",
+      "b) Mädchen geben mehr Geld für Zigaretten aus als Jungen",
+      "c) Hochgebirge als Skiparadies",
+      "d) Höhenluft - gut fürs Herz",
+      "e) Junge Sportler, weniger suchtanfällig",
+      "f) Mit der Zigarette an die frische Luft",
+      "g) Rauchverbot in Sportvereinen",
+      "h) Uni-Campus: rauchfreie Zone eingerichtet",
+      "i) Zigaretten gegen Alleinsein",
+      "j) Zum Leistungssport in die Berge"
+    ],
+    "correct": "a",
+    "id": 39,
+    "correct_position": 1,
+    "source_file": "data2.json"
+  },
+  {
+    "group_name": "RAUCHEN (Hút thuốc)",
+    "text": "Text 5: Sportvereine spielen eine immer wichtigere soziale Rolle für junge Leute in Deutschland. Ging man früher in einen Sportverein, um Fußball zu spielen, geben die Clubs heute vielen Jugendlichen ein zweites Zuhause. Jugendliche, die in Sportvereinen Mitglied sind, sind geselliger, werden weniger gewalttätig, leben gesundheitsbewusster, rauchen deutlich weniger als ihre Altersgenossen, die nicht im Verein sind, konsumieren erheblich weniger Alkohol gar Drogen.",
+    "answer": [
+      "a) Freizeitsport in den Alpen",
+      "b) Mädchen geben mehr Geld für Zigaretten aus als Jungen",
+      "c) Hochgebirge als Skiparadies",
+      "d) Höhenluft - gut fürs Herz",
+      "e) Junge Sportler, weniger suchtanfällig",
+      "f) Mit der Zigarette an die frische Luft",
+      "g) Rauchverbot in Sportvereinen",
+      "h) Uni-Campus: rauchfreie Zone eingerichtet",
+      "i) Zigaretten gegen Alleinsein",
+      "j) Zum Leistungssport in die Berge"
+    ],
+    "correct": "e",
+    "id": 40,
+    "correct_position": 5,
+    "source_file": "data2.json"
+  },
+  {
+    "group_name": "FREIZEIT & TANZKURS (Giải trí & Khiêu vũ)",
+    "text": "Text 1: Der Begriff Extremsport wird oft subjektiv verwendet. Man kann viele gängige Sportarten als Extremsport bezeichnen, wenn sie mit erhöhtem Risiko für das eigene Leben ausgeübt werden, z.B. Skilaufen auf ungesicherten Pisten oder Klettern ohne Sicherung. Extremsportlen geht es aber nicht darum, das höchste Risiko einzugehen, sondern ihre Grenzen zu erkennen. Leider entwickeln nicht wenige Extremsportler dabei eine regelrechte 'Sportsucht', die krankhaft ist.",
+    "answer": [
+      "a) Freie Plätze im Tanzkurs",
+      "b) Neue Lerntechniken präsentiert",
+      "c) Stolze Eltern: vom Schüler zum Superstar",
+      "d) Verändertes Freizeitverhalten von Jugendlichen",
+      "e) Höher, schneller, weiter: Suche nach dem Nervenkitzel",
+      "f) Hilfen für überforderte Schüler",
+      "g) Keine Zeit für Langeweile",
+      "h) Neue Sportarten",
+      "i) Tanzlehrer fordern moderne Tänze bekannter machen",
+      "j) Befragung bestätigt alte Vorurteile"
+    ],
+    "correct": "e",
+    "id": 41,
+    "correct_position": 5,
+    "source_file": "data2.json"
+  },
+  {
+    "group_name": "FREIZEIT & TANZKURS (Giải trí & Khiêu vũ)",
+    "text": "Text 2: Musik, Sport, ehrenamtliches Engagement - die Teilnahme von Jugendlichen an diesen sogenannten bildungsorientierten Freizeitaktivitäten hat in den vergangenen zehn Jahren deutlich zugenommen. Gleichzeitig verzeichnen die Forscher einen Abwärtstrend der sogenannten informellen Freizeitbeschäftigungen. So ist der Anteil derer, die täglich mit der besten Freundin oder dem besten Freund unterwegs sind, im Untersuchungszeitraum von 40 auf 25 Prozent zurückgegangen. Auffallend ist, dass Jugendliche aus sozial schwächeren Haushalten bildungsorientierte Angebote viel seltener nutzen.",
+    "answer": [
+      "a) Freie Plätze im Tanzkurs",
+      "b) Neue Lerntechniken präsentiert",
+      "c) Stolze Eltern: vom Schüler zum Superstar",
+      "d) Verändertes Freizeitverhalten von Jugendlichen",
+      "e) Höher, schneller, weiter: Suche nach dem Nervenkitzel",
+      "f) Hilfen für überforderte Schüler",
+      "g) Keine Zeit für Langeweile",
+      "h) Neue Sportarten",
+      "i) Tanzlehrer fordern moderne Tänze bekannter machen",
+      "j) Befragung bestätigt alte Vorurteile"
+    ],
+    "correct": "d",
+    "id": 42,
+    "correct_position": 4,
+    "source_file": "data2.json"
+  },
+  {
+    "group_name": "FREIZEIT & TANZKURS (Giải trí & Khiêu vũ)",
+    "text": "Text 3: In Firmen gibt es sie schon, jetzt wollen auch Schulen Entspannungskurse anbieten. Schüler sollen zwischen den Unterrichtsstunden mit Entspannungstechniken lernen, Stress abzubauen. Ein erster Probelauf des Projekts an einer Gesamtschule in Hamburg ist bei den Teilnehmenden gut angekommen. Die Schule hat damit auf Kritik von Schülern und Lehrern reagiert: Nach der Umstrukturierung der Stundenpläne klagten die Schüler zunehmend über Stress und zu wenige Pausen. Gerade Entspannungspausen seien aber wichtig, erklären Pädagogen und auch Neurowissenschaftler.",
+    "answer": [
+      "a) Freie Plätze im Tanzkurs",
+      "b) Neue Lerntechniken präsentiert",
+      "c) Stolze Eltern: vom Schüler zum Superstar",
+      "d) Verändertes Freizeitverhalten von Jugendlichen",
+      "e) Höher, schneller, weiter: Suche nach dem Nervenkitzel",
+      "f) Hilfen für überforderte Schüler",
+      "g) Keine Zeit für Langeweile",
+      "h) Neue Sportarten",
+      "i) Tanzlehrer fordern moderne Tänze bekannter machen",
+      "j) Befragung bestätigt alte Vorurteile"
+    ],
+    "correct": "f",
+    "id": 43,
+    "correct_position": 6,
+    "source_file": "data2.json"
+  },
+  {
+    "group_name": "FREIZEIT & TANZKURS (Giải trí & Khiêu vũ)",
+    "text": "Text 4: Tanja Kleist ist von modernem Tanz absolut begeistert. Seit einigen Jahren engagiert sie sich beim TSV Neustadt. Für ihre Hip-Hop-Tanzgruppe sucht Frau Kleist neue tanzbegeisterte Teilnehmerinnen und Teilnehmer, da im vergangenen Sommer viele nach dem Abitur die Gruppe verlassen haben. Das abwechslungsreiche Training vereint Kreatives mit 'Handwerklichem'. Ein tolles Tanzangebot mit viel Spaß, das es ab sofort beim TSV Neustadt für Jugendliche ab 14 Jahren gibt!",
+    "answer": [
+      "a) Freie Plätze im Tanzkurs",
+      "b) Neue Lerntechniken präsentiert",
+      "c) Stolze Eltern: vom Schüler zum Superstar",
+      "d) Verändertes Freizeitverhalten von Jugendlichen",
+      "e) Höher, schneller, weiter: Suche nach dem Nervenkitzel",
+      "f) Hilfen für überforderte Schüler",
+      "g) Keine Zeit für Langeweile",
+      "h) Neue Sportarten",
+      "i) Tanzlehrer fordern moderne Tänze bekannter machen",
+      "j) Befragung bestätigt alte Vorurteile"
+    ],
+    "correct": "a",
+    "id": 44,
+    "correct_position": 1,
+    "source_file": "data2.json"
+  },
+  {
+    "group_name": "FREIZEIT & TANZKURS (Giải trí & Khiêu vũ)",
+    "text": "Text 5: Montags Tennis, dienstags Klavierunterricht, mittwochs Jazztanz in der Gruppe und donnerstags Treffen der Astronomie-Gruppe. Was klingt wie der Terminkalender eines vielbeschäftigten Erwachsenen, ist heute oft eine ganz normale Woche im Leben von Kindern und Jugendlichen. Die Eltern wollen, dass Ihr Nachwuchs möglichst viel unternimmt. Sonst könnte es ihnen ja langweilig werden. Viele Eltern haben Angst, dass ihre Kinder dann zuhause nur vor dem Fernseher oder Computer sitzen, wenn sie nicht ständig etwas unternehmen.",
+    "answer": [
+      "a) Freie Plätze im Tanzkurs",
+      "b) Neue Lerntechniken präsentiert",
+      "c) Stolze Eltern: vom Schüler zum Superstar",
+      "d) Verändertes Freizeitverhalten von Jugendlichen",
+      "e) Höher, schneller, weiter: Suche nach dem Nervenkitzel",
+      "f) Hilfen für überforderte Schüler",
+      "g) Keine Zeit für Langeweile",
+      "h) Neue Sportarten",
+      "i) Tanzlehrer fordern moderne Tänze bekannter machen",
+      "j) Befragung bestätigt alte Vorurteile"
+    ],
+    "correct": "g",
+    "id": 45,
+    "correct_position": 7,
+    "source_file": "data2.json"
+  },
+  {
+    "group_name": "BIENEN & KAFFEE (Ong & Cà phê)",
+    "text": "Text 1: Kaffee verleiht neuen Schwung und hebt die Stimmung. Forscher der Ruhr-Universität Bochum haben das Phänomen untersucht und herausgefunden, dass Koffein selektiv das Erkennungsvermögen für positive Begriffe schärft. Die Wahrnehmung von negativen oder neutralen Wörtern verändert der Muntermacher dagegen nicht. Psychologen wollten nun durch ihre Untersuchungen herausfinden, ob es eine Kombinationswirkung dieser beiden Effekte gibt.",
+    "answer": [
+      "a) Wie aus Tieren Frostschutzmittel gewonnen werden",
+      "b) Genussmittel erhöht die Wahrnehmung bestimmter Wörter",
+      "c) Insektensterben in der kalten Jahreszeit",
+      "d) Pflanzen und Insekten - eine gemeinsame Entwicklung",
+      "e) Koffeinrückstände in landwirtschaftlichen Erzeugnissen",
+      "f) Koffein im Blütennektar verbessert die Gedächtnisleistung",
+      "g) Die bisher ältesten Pflanzensamen entdeckt",
+      "h) Neue Erkenntnisse über das weltweite Bienensterben",
+      "i) Methoden zum Überleben in der kalten Jahreszeit",
+      "j) Wie Kaffee unser Sprachvermögen beeinträchtigt"
+    ],
+    "correct": "b",
+    "id": 46,
+    "correct_position": 2,
+    "source_file": "data2.json"
+  },
+  {
+    "group_name": "BIENEN & KAFFEE (Ong & Cà phê)",
+    "text": "Text 2: Ihr Gehirn ist gerade ein Millionstel Mal so groß wie unseres, und doch haben sie ein Verhalten inklusive Sozialleben und Kommunikation entwickelt. Sie bestäuben nicht nur viele Pflanzen, sondern haben die Entwicklung dieser Pflanzen erst ermöglicht sowie gegenseitig ihre Evolution vorangetrieben. In Amerika wurde die bisher älteste Biene entdeckt. Fast gleichzeitig wurde das Genom der Honigbiene publiziert. Die Forscher führen das darauf zurück, dass Bienen zum gegenseitigen Wohl mit Pflanzen zusammenleben.",
+    "answer": [
+      "a) Wie aus Tieren Frostschutzmittel gewonnen werden",
+      "b) Genussmittel erhöht die Wahrnehmung bestimmter Wörter",
+      "c) Insektensterben in der kalten Jahreszeit",
+      "d) Pflanzen und Insekten - eine gemeinsame Entwicklung",
+      "e) Koffeinrückstände in landwirtschaftlichen Erzeugnissen",
+      "f) Koffein im Blütennektar verbessert die Gedächtnisleistung",
+      "g) Die bisher ältesten Pflanzensamen entdeckt",
+      "h) Neue Erkenntnisse über das weltweite Bienensterben",
+      "i) Methoden zum Überleben in der kalten Jahreszeit",
+      "j) Wie Kaffee unser Sprachvermögen beeinträchtigt"
+    ],
+    "correct": "d",
+    "id": 47,
+    "correct_position": 4,
+    "source_file": "data2.json"
+  },
+  {
+    "group_name": "BIENEN & KAFFEE (Ong & Cà phê)",
+    "text": "Text 3: Nicht nur bei Menschen bringt Koffein die kleinen grauen Zellen in Schwung - auch Bienen, die Pollen von Kaffee oder anderen koffeinhaltigen Pflanzen sammeln, kommen dabei so richtig in Fahrt. Wie die amerikanische Fachzeitschrift 'Science' berichtet, erinnern sich Bienen mit der richtigen Dosis Koffein bis zu dreimal länger an den Duft einer Futterpflanze. Koffein stärke offensichtlich das Langzeitgedächtnis der Bienen. Dadurch wird wahrscheinlich die Sammelleistung der Bienen gesteigert. Gleichzeitig erhalten die Pflanzen treue Bestäuber.",
+    "answer": [
+      "a) Wie aus Tieren Frostschutzmittel gewonnen werden",
+      "b) Genussmittel erhöht die Wahrnehmung bestimmter Wörter",
+      "c) Insektensterben in der kalten Jahreszeit",
+      "d) Pflanzen und Insekten - eine gemeinsame Entwicklung",
+      "e) Koffeinrückstände in landwirtschaftlichen Erzeugnissen",
+      "f) Koffein im Blütennektar verbessert die Gedächtnisleistung",
+      "g) Die bisher ältesten Pflanzensamen entdeckt",
+      "h) Neue Erkenntnisse über das weltweite Bienensterben",
+      "i) Methoden zum Überleben in der kalten Jahreszeit",
+      "j) Wie Kaffee unser Sprachvermögen beeinträchtigt"
+    ],
+    "correct": "f",
+    "id": 48,
+    "correct_position": 6,
+    "source_file": "data2.json"
+  },
+  {
+    "group_name": "BIENEN & KAFFEE (Ong & Cà phê)",
+    "text": "Text 4: Es ist ein schwerer Gang im Leben jedes Imkers. Die paar Schritte hin zu seinen Völkern im Frühjahr... Das ganze Volk - tot. Jahr für Jahr überstehen zwischen zehn und 15 Prozent aller Bienenvölker die Winterruhe zwischen November und Februar nicht. Verluste, auf die die heimischen Bienenzüchter eingestellt sind. Nicht umsonst wird dem zuletzt wieder zahlreicher gewordenen Imkernachwuchs empfohlen, ihre Karriere mit mindestens drei Völkern zu beginnen.",
+    "answer": [
+      "a) Wie aus Tieren Frostschutzmittel gewonnen werden",
+      "b) Genussmittel erhöht die Wahrnehmung bestimmter Wörter",
+      "c) Insektensterben in der kalten Jahreszeit",
+      "d) Pflanzen und Insekten - eine gemeinsame Entwicklung",
+      "e) Koffeinrückstände in landwirtschaftlichen Erzeugnissen",
+      "f) Koffein im Blütennektar verbessert die Gedächtnisleistung",
+      "g) Die bisher ältesten Pflanzensamen entdeckt",
+      "h) Neue Erkenntnisse über das weltweite Bienensterben",
+      "i) Methoden zum Überleben in der kalten Jahreszeit",
+      "j) Wie Kaffee unser Sprachvermögen beeinträchtigt"
+    ],
+    "correct": "c",
+    "id": 49,
+    "correct_position": 3,
+    "source_file": "data2.json"
+  },
+  {
+    "group_name": "BIENEN & KAFFEE (Ong & Cà phê)",
+    "text": "Text 5: Viele Insekten überwintern als Puppe oder Larve. Doch auch 'erwachsene' Fliegen, Bienen und Käfer überleben die eisige Zeit. Wichtig ist die Wahl von geschützten Orten wie Baumritzen, Laubstreu, Höhlen, Dachböden oder Kellern. Honigbienen bilden im Nest eine Traube und wärmen sich gegenseitig durch Muskelzittern. Viele Insekten unserer Regionen sind 'gefriertolerant'. Sie stellen im Herbst ihren Organismus um und versetzen ihr Blut mit einem Cocktail aus Gefrierschutzmitteln.",
+    "answer": [
+      "a) Wie aus Tieren Frostschutzmittel gewonnen werden",
+      "b) Genussmittel erhöht die Wahrnehmung bestimmter Wörter",
+      "c) Insektensterben in der kalten Jahreszeit",
+      "d) Pflanzen und Insekten - eine gemeinsame Entwicklung",
+      "e) Koffeinrückstände in landwirtschaftlichen Erzeugnissen",
+      "f) Koffein im Blütennektar verbessert die Gedächtnisleistung",
+      "g) Die bisher ältesten Pflanzensamen entdeckt",
+      "h) Neue Erkenntnisse über das weltweite Bienensterben",
+      "i) Methoden zum Überleben in der kalten Jahreszeit",
+      "j) Wie Kaffee unser Sprachvermögen beeinträchtigt"
+    ],
+    "correct": "i",
+    "id": 50,
+    "correct_position": 9,
+    "source_file": "data2.json"
+  },
+  {
+    "group_name": "FRAUEN & GESCHICHTE (Phụ nữ & Lịch sử)",
+    "text": "Text 1: In Russland 1843 als Tochter eines Bauern geboren, schaffte es Nadeschda Suslowa ins Gymnasium. Weil es ihr in Russland aber nicht erlaubt war, eine Hochschule zu besuchen, ging sie ins Ausland. Nadeschda Suslowa war die erste Frau, die sich ordentlich an der Universität einschreiben durfte, und gleichzeitig die erste Russin an der Züricher Universität. Sie war die erste promovierte Ärztin in der Schweiz und in Russland.",
+    "answer": [
+      "a) Der heutige Anteil von Frauen im Medizinstudium",
+      "b) Die Frauen in der Französischen Revolution",
+      "c) Eine Pionierin der akademischen Frauenausbildung",
+      "d) Entwicklung des Frauenstimmrechts",
+      "e) Frauen erreichen zunehmend bessere Noten im Studium",
+      "f) Geschlechtsspezifische Entscheidungen an der Wahlurne",
+      "g) STUDENTINNEN AUF DER ÜBERHOLSPUR",
+      "h) Umfrage verspricht Erfolg der grünen Wahlkandidatin",
+      "i) Vorkämpferinnen für das Frauenwahlrecht",
+      "j) Wieder Demonstrationen für freie Wahlen"
+    ],
+    "correct": "c",
+    "id": 51,
+    "correct_position": 3,
+    "source_file": "data2.json"
+  },
+  {
+    "group_name": "FRAUEN & GESCHICHTE (Phụ nữ & Lịch sử)",
+    "text": "Text 2: Dass Frauen wählen und gewählt werden dürfen, ist heutzutage selbstverständlich. Doch das war nicht immer so. Überall auf der Welt mussten sie lange erbittert um ihr Wahlrecht streiten. In Europa war die Französin Olympe de Gouges eine der ersten Frauen die sich aktiv für das Wahlrecht der Bürgerinnen einsetzten. Dies wurde zur Grundlage für die Einführung des Frauenwahlrechts in Europa. Es geschah zuerst 1838 in der britischen Kolonie Pitcairn. In Europa erlangten die Frauen das Wahlrecht zuerst in Finnland.",
+    "answer": [
+      "a) Der heutige Anteil von Frauen im Medizinstudium",
+      "b) Die Frauen in der Französischen Revolution",
+      "c) Eine Pionierin der akademischen Frauenausbildung",
+      "d) Entwicklung des Frauenstimmrechts",
+      "e) Frauen erreichen zunehmend bessere Noten im Studium",
+      "f) Geschlechtsspezifische Entscheidungen an der Wahlurne",
+      "g) STUDENTINNEN AUF DER ÜBERHOLSPUR",
+      "h) Umfrage verspricht Erfolg der grünen Wahlkandidatin",
+      "i) Vorkämpferinnen für das Frauenwahlrecht",
+      "j) Wieder Demonstrationen für freie Wahlen"
+    ],
+    "correct": "d",
+    "id": 52,
+    "correct_position": 4,
+    "source_file": "data2.json"
+  },
+  {
+    "group_name": "FRAUEN & GESCHICHTE (Phụ nữ & Lịch sử)",
+    "text": "Text 3: Das Wahlverhalten von Frauen hat sich in den letzten Jahrzehnten verändert: In den 50er Jahren wählten verheiratete Frauen oft noch so wie ihre Männer. Die politischen Unruhen von 1968 hingegen hinterließen ihre Spuren im Wahlverhalten der Frauen. Auch heute wählen Männer und Frauen in vielen Ländern unterschiedlich. Frauen scheinen für radikale Parteien weniger Sympathie aufzubringen als Männer. Die Sorge um die Umwelt schlägt sich in einem höheren Anteil an Frauenstimmen für grüne Parteien nieder. Frauen wählen auch gerne Frauen.",
+    "answer": [
+      "a) Der heutige Anteil von Frauen im Medizinstudium",
+      "b) Die Frauen in der Französischen Revolution",
+      "c) Eine Pionierin der akademischen Frauenausbildung",
+      "d) Entwicklung des Frauenstimmrechts",
+      "e) Frauen erreichen zunehmend bessere Noten im Studium",
+      "f) Geschlechtsspezifische Entscheidungen an der Wahlurne",
+      "g) STUDENTINNEN AUF DER ÜBERHOLSPUR",
+      "h) Umfrage verspricht Erfolg der grünen Wahlkandidatin",
+      "i) Vorkämpferinnen für das Frauenwahlrecht",
+      "j) Wieder Demonstrationen für freie Wahlen"
+    ],
+    "correct": "f",
+    "id": 53,
+    "correct_position": 6,
+    "source_file": "data2.json"
+  },
+  {
+    "group_name": "FRAUEN & GESCHICHTE (Phụ nữ & Lịch sử)",
+    "text": "Text 4: In den vergangenen Jahrzehnten hat sich das Geschlechterverhältnis bei Studierenden stark verändert. Nicht nur bei Studienanfängern sind Frauen in der Mehrzahl, sondern auch unter jenen, die ein Hochschulstudium abschließen. Weibliche Studierende absolvieren das Studium schneller als ihre Kommilitonen und schließen es auch häufiger erfolgreich ab. Am größten ist der Abstand beim Musikstudium: Mehr als 70 Prozent der Frauen schließen es tatsächlich ab, während rund 50 Prozent der männlichen Studienanfänger es abbrechen.",
+    "answer": [
+      "a) Der heutige Anteil von Frauen im Medizinstudium",
+      "b) Die Frauen in der Französischen Revolution",
+      "c) Eine Pionierin der akademischen Frauenausbildung",
+      "d) Entwicklung des Frauenstimmrechts",
+      "e) Frauen erreichen zunehmend bessere Noten im Studium",
+      "f) Geschlechtsspezifische Entscheidungen an der Wahlurne",
+      "g) STUDENTINNEN AUF DER ÜBERHOLSPUR",
+      "h) Umfrage verspricht Erfolg der grünen Wahlkandidatin",
+      "i) Vorkämpferinnen für das Frauenwahlrecht",
+      "j) Wieder Demonstrationen für freie Wahlen"
+    ],
+    "correct": "g",
+    "id": 54,
+    "correct_position": 7,
+    "source_file": "data2.json"
+  },
+  {
+    "group_name": "FRAUEN & GESCHICHTE (Phụ nữ & Lịch sử)",
+    "text": "Text 5: 'Suffragetten' so nannte man Anfang des 19. Jahrhunderts die Frauen, die sich in Großbritannien für das allgemeine Frauenwahlrecht einsetzten. Emmeline Pankhurst und ihre Töchter zählen zu den bekanntesten Persönlichkeiten der britischen Frauenbewegung. Sie setzten zunächst auf die Methode des passiven Widerstandes. Als der erhoffte Erfolg ausblieb, griffen sie zu immer härteren Mitteln, bis hin zu Brand- und Bombenanschlägen. Nach Kriegsende bekamen Frauen ab 21 Jahren das Recht, zur Parlamentswahl anzutreten.",
+    "answer": [
+      "a) Der heutige Anteil von Frauen im Medizinstudium",
+      "b) Die Frauen in der Französischen Revolution",
+      "c) Eine Pionierin der akademischen Frauenausbildung",
+      "d) Entwicklung des Frauenstimmrechts",
+      "e) Frauen erreichen zunehmend bessere Noten im Studium",
+      "f) Geschlechtsspezifische Entscheidungen an der Wahlurne",
+      "g) STUDENTINNEN AUF DER ÜBERHOLSPUR",
+      "h) Umfrage verspricht Erfolg der grünen Wahlkandidatin",
+      "i) Vorkämpferinnen für das Frauenwahlrecht",
+      "j) Wieder Demonstrationen für freie Wahlen"
+    ],
+    "correct": "i",
+    "id": 55,
+    "correct_position": 9,
+    "source_file": "data2.json"
+  },
+  {
+    "group_name": "SCHULEN & EINSCHULUNG (Trường học & Nhập học)",
+    "text": "Text 1: Nach der englischen Bezeichnung für 'Schultüte' sucht man vergebens. Die mit Süßigkeiten und kleinen Geschenken gefüllte Spitztüte aus Karton... ist offenbar etwas typisch Deutsches. In Russland wird zum Schulanfang zu Hause ein großes Familienfest gefeiert. Gefeiert wird die Einschulung auch in Japan. Am wenigsten Aufheben macht man in Frankreich von der Einschulung: Dort gibt es keine besonderen Brauche.",
+    "answer": [
+      "a) Das neue Schülerticket - rund ums Jahr mit Bus und Bahn fahren",
+      "b) Das richtige Alter für die Einschulung",
+      "c) Mit Schulanfängern richtiges Verhalten im Verkehr üben",
+      "d) Neue Methode: So lernen Kinder leichter lesen und schreiben",
+      "e) Neues Buch für kleine Leseanfänger",
+      "f) Traditionen zum Schulanfang",
+      "g) VORSICHT AN HALTESTELLEN!",
+      "h) Weniger Fahrten in den Schulferien",
+      "i) Woher stammt der Brauch mit der Schultüte?",
+      "j) Wörterbuch mit CD - Neuerscheinung"
+    ],
+    "correct": "f",
+    "id": 56,
+    "correct_position": 6,
+    "source_file": "data2.json"
+  },
+  {
+    "group_name": "SCHULEN & EINSCHULUNG (Trường học & Nhập học)",
+    "text": "Text 2: Raban Rabovic ist ein kleiner Rabe. Nun ist es endlich so weit: Für ihn und neun andere Rabenkinder beginnt die Schule. Wie es Raban dabei ergeht erzählt Antonija Tomic in 'Schulanfang in der Rabenschule'. So heißt ihr Erstlesebuch, das gerade erschienen ist. Von ihr stammen dabei nicht nur die Geschichten, sondern auch die meist farbigen Illustrationen. Dazu gibt es eine CD mit Liedern. In einem Begleitheft finden sich zudem Arbeitsblätter mit Mal-und Schreibübungen.",
+    "answer": [
+      "a) Das neue Schülerticket - rund ums Jahr mit Bus und Bahn fahren",
+      "b) Das richtige Alter für die Einschulung",
+      "c) Mit Schulanfängern richtiges Verhalten im Verkehr üben",
+      "d) Neue Methode: So lernen Kinder leichter lesen und schreiben",
+      "e) Neues Buch für kleine Leseanfänger",
+      "f) Traditionen zum Schulanfang",
+      "g) VORSICHT AN HALTESTELLEN!",
+      "h) Weniger Fahrten in den Schulferien",
+      "i) Woher stammt der Brauch mit der Schultüte?",
+      "j) Wörterbuch mit CD - Neuerscheinung"
+    ],
+    "correct": "e",
+    "id": 57,
+    "correct_position": 5,
+    "source_file": "data2.json"
+  },
+  {
+    "group_name": "SCHULEN & EINSCHULUNG (Trường học & Nhập học)",
+    "text": "Text 3: Auf den Straßen sind ab Schulbeginn wieder viele Kinder unterwegs. Autofahrer sind deshalb zu erhöhter Aufmerksamkeit aufgefordert, besonders beim Überholen an Haltestellen der öffentlichen Verkehrsmittel. In der Straßenverkehrsordnung ist das Überholen von Bussen und Straßenbahnen genau geregelt: An Omnibussen des Linienverkehrs, an Straßenbahnen und an gekennzeichneten Schulbussen, die an Haltestellen stehen bleiben, darf man nur vorsichtig vorbeifahren. Wenn Fahrgäste ein- oder aussteigen, dürfen Autofahrer rechts nur mit Schrittgeschwindigkeit vorbeifahren.",
+    "answer": [
+      "a) Das neue Schülerticket - rund ums Jahr mit Bus und Bahn fahren",
+      "b) Das richtige Alter für die Einschulung",
+      "c) Mit Schulanfängern richtiges Verhalten im Verkehr üben",
+      "d) Neue Methode: So lernen Kinder leichter lesen und schreiben",
+      "e) Neues Buch für kleine Leseanfänger",
+      "f) Traditionen zum Schulanfang",
+      "g) VORSICHT AN HALTESTELLEN!",
+      "h) Weniger Fahrten in den Schulferien",
+      "i) Woher stammt der Brauch mit der Schultüte?",
+      "j) Wörterbuch mit CD - Neuerscheinung"
+    ],
+    "correct": "g",
+    "id": 58,
+    "correct_position": 7,
+    "source_file": "data2.json"
+  },
+  {
+    "group_name": "SCHULEN & EINSCHULUNG (Trường học & Nhập học)",
+    "text": "Text 4: In Deutschland herrscht für alle Kinder Schulpflicht. An ihrem ersten Schultag können sie fünf, sechs oder sieben Jahre alt sein. Der genaue Zeitpunkt des Schuleintritts wurde Ende der 1990er Jahre bewusst flexibler gestaltet. Denn das optimale Alter für den Schuleintritt ist umstritten. Die einen argumentieren, dass auch Fünfjährige schon lesen und schreiben lernen können. Die anderen warnen vor Überforderung und Leistungsdruck. Entscheidend ist aber nicht das Alter, sondern die Entwicklung eines Kindes.",
+    "answer": [
+      "a) Das neue Schülerticket - rund ums Jahr mit Bus und Bahn fahren",
+      "b) Das richtige Alter für die Einschulung",
+      "c) Mit Schulanfängern richtiges Verhalten im Verkehr üben",
+      "d) Neue Methode: So lernen Kinder leichter lesen und schreiben",
+      "e) Neues Buch für kleine Leseanfänger",
+      "f) Traditionen zum Schulanfang",
+      "g) VORSICHT AN HALTESTELLEN!",
+      "h) Weniger Fahrten in den Schulferien",
+      "i) Woher stammt der Brauch mit der Schultüte?",
+      "j) Wörterbuch mit CD - Neuerscheinung"
+    ],
+    "correct": "b",
+    "id": 59,
+    "correct_position": 2,
+    "source_file": "data2.json"
+  },
+  {
+    "group_name": "SCHULEN & EINSCHULUNG (Trường học & Nhập học)",
+    "text": "Text 5: Ein Großteil des Busverkehrs in der Region dient vor allem dem Schulverkehr. Fast die Hälfte der in unserem Gebiet eingesetzten Busse fährt ausschließlich an Schultagen. Daher sind viele Fahrten in den Fahrplänen mit einem 'S' gekennzeichnet. Diese Fußnote steht für 'nur an Schultagen'. Zudem gibt es auch Fahrten, die 'nur in den Ferien' stattfinden; diese sind mit einem 'F' gekennzeichnet. Die mit einem 'S' gekennzeichneten Fahrten gelten nicht an Ferientagen.",
+    "answer": [
+      "a) Das neue Schülerticket - rund ums Jahr mit Bus und Bahn fahren",
+      "b) Das richtige Alter für die Einschulung",
+      "c) Mit Schulanfängern richtiges Verhalten im Verkehr üben",
+      "d) Neue Methode: So lernen Kinder leichter lesen und schreiben",
+      "e) Neues Buch für kleine Leseanfänger",
+      "f) Traditionen zum Schulanfang",
+      "g) VORSICHT AN HALTESTELLEN!",
+      "h) Weniger Fahrten in den Schulferien",
+      "i) Woher stammt der Brauch mit der Schultüte?",
+      "j) Wörterbuch mit CD - Neuerscheinung"
+    ],
+    "correct": "h",
+    "id": 60,
+    "correct_position": 8,
+    "source_file": "data2.json"
+  },
+
+  {
+    "group_name": "SPORT & FITNESS (Thể thao & Fitness)",
+    "text": "Text 1: Wir bieten Bewegungsförderung mit und auf Pferden zur Stärkung der körperlichen und geistigen Fitness. Ponys und Pferde stehen im Mittelpunkt dieses Programms. Sie zu beobachten, füttern, streicheln, putzen, führen oder reiten zu können, übt auf Teenies eine große Faszination aus. Spielerisch werden sie in Kontakt mit unseren Tieren gebracht und haben dann vielfältige Möglichkeiten, unter Anleitung Aufgaben für, mit oder auf den Pferden durchzuführen.",
+    "answer": [
+      "a) Auf dem Weg zu internationalen Wettkämpfen",
+      "b) Durch Wassergymnastik Verspannungen lösen",
+      "c) Ein tierischer Lernspaß für alle",
+      "d) Fit und gesund auch nach der Pensionierung",
+      "e) Gefahren beim Tauchen",
+      "f) Mit dem eigenen Pferd zu Olympia",
+      "g) Muskeln wie ein Gewichtheber",
+      "h) Neueröffnetes Internat für Jungen Sporttaucher",
+      "i) Schlank, fit und glücklich im Flug",
+      "j) Sport treiben wie ein Fisch unter Wasser"
+    ],
+    "correct": "c",
+    "id": 61,
+    "correct_position": 3,
+    "source_file": "data3.json"
+  },
+  {
+    "group_name": "SPORT & FITNESS (Thể thao & Fitness)",
+    "text": "Text 2: Die Schwimm- und Sportfreunde 1905 e.V. gehörten in den 70er und 80er Jahren zu den besten Vereinen im deutschen Schwimmsport. Auch noch zu Beginn der 90er Jahre stellte der Verein Schwimmer für die Nationalmannschaft, die bei Weltmeisterschaften oder Olympischen Spielen für Deutschland an den Start gingen. Seit 2010 versuchen die Schwimm- und Sportfreunde, wieder an alte Zeit anzuknüpfen. Mit idealen Voraussetzungen, stellten sich in den letzten Jahren wieder Erfolge auf Landes- und Bundesebene ein.",
+    "answer": [
+      "a) Auf dem Weg zu internationalen Wettkämpfen",
+      "b) Durch Wassergymnastik Verspannungen lösen",
+      "c) Ein tierischer Lernspaß für alle",
+      "d) Fit und gesund auch nach der Pensionierung",
+      "e) Gefahren beim Tauchen",
+      "f) Mit dem eigenen Pferd zu Olympia",
+      "g) Muskeln wie ein Gewichtheber",
+      "h) Neueröffnetes Internat für Jungen Sporttaucher",
+      "i) Schlank, fit und glücklich im Flug",
+      "j) Sport treiben wie ein Fisch unter Wasser"
+    ],
+    "correct": "a",
+    "id": 62,
+    "correct_position": 1,
+    "source_file": "data3.json"
+  },
+  {
+    "group_name": "SPORT & FITNESS (Thể thao & Fitness)",
+    "text": "Text 3: In unserer modernen Studio bieten wir Ihnen alle Arten von Gesundheits-, Kraft-, und Fitnesstraining an. Wer selbst im Rentenalter noch einen durchtrainierten Körper haben möchte, der sollte schon in jungen Jahren das Ausdauertraining nicht vernachlässigen. Aber auch wer spät mit dem Sport beginnt, fühlt sich nach dem Training einfach besser. Um auch im Alter noch mit allen Problemen des Alltags klarzukommen, ist ein Ausdauertraining wirklich wichtig. Auch bei Rückenschmerzen hilft das Fitnessstudio.",
+    "answer": [
+      "a) Auf dem Weg zu internationalen Wettkämpfen",
+      "b) Durch Wassergymnastik Verspannungen lösen",
+      "c) Ein tierischer Lernspaß für alle",
+      "d) Fit und gesund auch nach der Pensionierung",
+      "e) Gefahren beim Tauchen",
+      "f) Mit dem eigenen Pferd zu Olympia",
+      "g) Muskeln wie ein Gewichtheber",
+      "h) Neueröffnetes Internat für Jungen Sporttaucher",
+      "i) Schlank, fit und glücklich im Flug",
+      "j) Sport treiben wie ein Fisch unter Wasser"
+    ],
+    "correct": "d",
+    "id": 63,
+    "correct_position": 4,
+    "source_file": "data3.json"
+  },
+  {
+    "group_name": "SPORT & FITNESS (Thể thao & Fitness)",
+    "text": "Text 4: Das Trampolin ist ein einzigartiges Trainingsgerät. Die Übungen auf dem Trampolin haben vielfältige positive Effekte auf den Körper und den gesamten Organismus. Neben einer Gewichtsabnahme und der Straffung des Körpergewebes werden Muskeln gelockert, Verspannungen lösen sich und der komplette Bewegungsapparat wird nicht so hart belastet wie bei herkömmlichen Sportarten. Ein weiterer wichtiger Effekt für den Körper ist die Unterstützung des Lymphflusses.",
+    "answer": [
+      "a) Auf dem Weg zu internationalen Wettkämpfen",
+      "b) Durch Wassergymnastik Verspannungen lösen",
+      "c) Ein tierischer Lernspaß für alle",
+      "d) Fit und gesund auch nach der Pensionierung",
+      "e) Gefahren beim Tauchen",
+      "f) Mit dem eigenen Pferd zu Olympia",
+      "g) Muskeln wie ein Gewichtheber",
+      "h) Neueröffnetes Internat für Jungen Sporttaucher",
+      "i) Schlank, fit und glücklich im Flug",
+      "j) Sport treiben wie ein Fisch unter Wasser"
+    ],
+    "correct": "i",
+    "id": 64,
+    "correct_position": 9,
+    "source_file": "data3.json"
+  },
+  {
+    "group_name": "SPORT & FITNESS (Thể thao & Fitness)",
+    "text": "Text 5: Sporttauchen ist eine fantastische Natursportart. In den Vereinen und Tauchschulen wird das immer wieder faszinierende Sporttauchen mit verschiedenen Schwerpunkten angeboten. Im Sporttauchen sollte man sich auf jeden Fall durch regelmäßiges Training 'tauchfit' halten. Eine ausreichende Kondition unter Wasser ist sehr wichtig, denn untrainiert ist man als Sporttaucher ein Risiko für sich und andere.",
+    "answer": [
+      "a) Auf dem Weg zu internationalen Wettkämpfen",
+      "b) Durch Wassergymnastik Verspannungen lösen",
+      "c) Ein tierischer Lernspaß für alle",
+      "d) Fit und gesund auch nach der Pensionierung",
+      "e) Gefahren beim Tauchen",
+      "f) Mit dem eigenen Pferd zu Olympia",
+      "g) Muskeln wie ein Gewichtheber",
+      "h) Neueröffnetes Internat für Jungen Sporttaucher",
+      "i) Schlank, fit und glücklich im Flug",
+      "j) Sport treiben wie ein Fisch unter Wasser"
+    ],
+    "correct": "j",
+    "id": 65,
+    "correct_position": 10,
+    "source_file": "data3.json"
+  },
+  {
+    "group_name": "FAMILIE & ZEIT (Gia đình & Thời gian)",
+    "text": "Text 1: Die Krüger sind eine ganz normale Familie. Vater Bernd arbeitet 40 Stunden pro Woche. Mutter Yvonne hat einen Teilzeitjob. Das Paar hat zwei Kinder. Nach ihrer Arbeit holt Yvonne die beiden ab, geht einkaufen, wäscht, putzt und kocht. Bernd Krüger kann sich nicht erinnern, wann er das letzte Buch gelesen hat. Für Sport bleibt keine Zeit. In vielen Familien ist es ähnlich. Vor allem Eltern befindet sich in der Gefahr, die Doppellast von Beruf und Familie nicht mehr tragen zu können. Was hilft, ist Zeitmanagement.",
+    "answer": [
+      "a) Keine Zeit für die Kinder",
+      "b) Vorsicht vor zweifelhaften Kontaktagenturen!",
+      "c) Liebe fürs Leben muss wachsen",
+      "d) Mehr Zeit für Hobbys",
+      "e) Partnervermittlungen generell empfehlenswert",
+      "f) Wer sucht, der findet",
+      "g) Probleme bei der Kindererziehung",
+      "h) Partnervermittlung per Telefon",
+      "i) Wenn die Kinder aus dem Haus sind",
+      "j) Zeitprobleme in der Familie"
+    ],
+    "correct": "j",
+    "id": 66,
+    "correct_position": 10,
+    "source_file": "data3.json"
+  },
+  {
+    "group_name": "FAMILIE & ZEIT (Gia đình & Thời gian)",
+    "text": "Text 2: Der Wunsch nach der Zweisamkeit hat sich zu einem guten Geschäft entwickelt, denn gerade reiferen Alleinstehenden fällt es oft schwer, neue Partnerschaften herzustellen. Vermittlungsagenturen bieten ihre Dienste an. Neben vielen seriösen Firmen finden sich aber auch zahlreiche Schwarze Schafe. Wer die angegebene Telefonnummer wählt, muss dann plötzlich feststellen, es in Wirklichkeit mit einer Partnervermittlungsagentur zu tun zu haben. Wird ein neutraler Treffpunkt vereinbart, verliert der Kunde sein 14-tägiges Widerrufsrecht.",
+    "answer": [
+      "a) Keine Zeit für die Kinder",
+      "b) Vorsicht vor zweifelhaften Kontaktagenturen!",
+      "c) Liebe fürs Leben muss wachsen",
+      "d) Mehr Zeit für Hobbys",
+      "e) Partnervermittlungen generell empfehlenswert",
+      "f) Wer sucht, der findet",
+      "g) Probleme bei der Kindererziehung",
+      "h) Partnervermittlung per Telefon",
+      "i) Wenn die Kinder aus dem Haus sind",
+      "j) Zeitprobleme in der Familie"
+    ],
+    "correct": "b",
+    "id": 67,
+    "correct_position": 2,
+    "source_file": "data3.json"
+  },
+  {
+    "group_name": "FAMILIE & ZEIT (Gia đình & Thời gian)",
+    "text": "Text 3: Hat man den richtigen Partner gefunden, muss an der Beziehung gearbeitet werden. Die Partnerschaft verläuft in Phasen. Fast jede Liebe beginnt mit einer Hochphase der Verliebtheit. Ist diese Phase vorüber, folgt eine Phase des satten Glücks. Fast alle Paare erleben danach eine Zeit, in der der Alltag in die Beziehung eintritt. In der folgenden Stress- und Streitphase geht es darum, die Bedingungen des Zusammenlebens festzulegen. In der letzten Phase bildet sich, was man die Liebe fürs Leben nennen kann.",
+    "answer": [
+      "a) Keine Zeit für die Kinder",
+      "b) Vorsicht vor zweifelhaften Kontaktagenturen!",
+      "c) Liebe fürs Leben muss wachsen",
+      "d) Mehr Zeit für Hobbys",
+      "e) Partnervermittlungen generell empfehlenswert",
+      "f) Wer sucht, der findet",
+      "g) Probleme bei der Kindererziehung",
+      "h) Partnervermittlung per Telefon",
+      "i) Wenn die Kinder aus dem Haus sind",
+      "j) Zeitprobleme in der Familie"
+    ],
+    "correct": "c",
+    "id": 68,
+    "correct_position": 3,
+    "source_file": "data3.json"
+  },
+  {
+    "group_name": "FAMILIE & ZEIT (Gia đình & Thời gian)",
+    "text": "Text 4: Knapp 13 Millionen Singul-Haushalte gibt es in Deutschland. Fast jeder, der alleine lebt, wünscht sich der richtigen Partner. Oftmals stecken Singles in einer schwierigen Situation: Wer lange allein gelebt hat, wünscht sich zwar eine feste Bindung, gleichzeitig wächst aber auch die Angst davor. Dieses Wechselbad aus Wollen und Vorsichtig-Sein macht die Sache immer schwieriger. Deswegen lautet der Rat für alle Singles: Ausgehen, Ausgehen, Ausgehen.",
+    "answer": [
+      "a) Keine Zeit für die Kinder",
+      "b) Vorsicht vor zweifelhaften Kontaktagenturen!",
+      "c) Liebe fürs Leben muss wachsen",
+      "d) Mehr Zeit für Hobbys",
+      "e) Partnervermittlungen generell empfehlenswert",
+      "f) Wer sucht, der findet",
+      "g) Probleme bei der Kindererziehung",
+      "h) Partnervermittlung per Telefon",
+      "i) Wenn die Kinder aus dem Haus sind",
+      "j) Zeitprobleme in der Familie"
+    ],
+    "correct": "f",
+    "id": 69,
+    "correct_position": 6,
+    "source_file": "data3.json"
+  },
+  {
+    "group_name": "FAMILIE & ZEIT (Gia đình & Thời gian)",
+    "text": "Text 5: Nach dem Abitur, zum Studium oder weil der Zeitpunkt einfach gekommen ist: Wenn die Kinder ausziehen, verändert sich viel, auch für die Eltern. Neben der Freude, endlich wieder Zeit und Raum für sich zu haben, entsteht auch eine Leere, die es nun zu füllen gilt. Die Selbständigkeit des Kindes bedeutet, dass auch die Eltern wieder ein unabhängiges Leben führen können. Die Ehepartner haben wieder mehr Zeit füreinander. Hilfreich ist es, sich schon frühzeitig auf ein Leben 'ohne' Kinder einzustellen.",
+    "answer": [
+      "a) Keine Zeit für die Kinder",
+      "b) Vorsicht vor zweifelhaften Kontaktagenturen!",
+      "c) Liebe fürs Leben muss wachsen",
+      "d) Mehr Zeit für Hobbys",
+      "e) Partnervermittlungen generell empfehlenswert",
+      "f) Wer sucht, der findet",
+      "g) Probleme bei der Kindererziehung",
+      "h) Partnervermittlung per Telefon",
+      "i) Wenn die Kinder aus dem Haus sind",
+      "j) Zeitprobleme in der Familie"
+    ],
+    "correct": "i",
+    "id": 70,
+    "correct_position": 9,
+    "source_file": "data3.json"
+  },
+  {
+    "group_name": "SPORT IST GESUND (Marathon & Sức khỏe)",
+    "text": "Text 1: An der Ostküste Attikas in Griechenland lag in der Antike der Ort Marathon. Auf diese Legende geht eine sportliche Disziplin zurück: der Marathonlauf. Bereits seit 1896 ist er olympische Disziplin. Die Streckenlänge von 42195 m wurde 1924 festgelegt. Der Marathonlauf gilt als einziger Leistungssport, der bis ins hohe Alter ausgeübt werden kann. Wissenschaftler erklären das mit der menschlichen Evolution.",
+    "answer": [
+      "a) Sport ist gesund - wenn man einige wichtige Regeln beachtet",
+      "b) Griechische Sportler so erfolgreich wie nie zuvor",
+      "c) Fitness auch mit wenig Zeitaufwand erreichbar",
+      "d) Geprüfte Qualität für Babys",
+      "e) Bluthochdruck beschleunigt das Abnehmen",
+      "f) Sportbegeisterte Eltern und auch die Babys sind beim Joggen dabei",
+      "g) Täglich kurzes Sprints besser als langes Ausdauertraining",
+      "h) Ein Leistungssport für jedes Alter",
+      "i) Unüberschaubares Angebot an Kinderwagen überfordert junge Eltern",
+      "j) Autoindustrie: In Zukunft Mobilität ohne Grenzen"
+    ],
+    "correct": "h",
+    "id": 71,
+    "correct_position": 8,
+    "source_file": "data3.json"
+  },
+  {
+    "group_name": "SPORT IST GESUND (Marathon & Sức khỏe)",
+    "text": "Text 2: Warum soll sich der Mensch nun auf Straßen und Wegen fortbewegen? Da fehlte eigentlich nur noch eine Neuentwicklung eines Gefährts, dessen Mobilitätsmöglichkeiten bisher relativ begrenzt waren: der Kinderwagen. Im Trend liegt jetzt der Jogging-Stroller, ein Kinderwagen mit nur noch drei bereiften Rädern. Diese neuen Transportmittel für Babys können sportbegeisterte und von grenzenloser Mobilität träumende Eltern jetzt samt Kind beim Joggen oder beim Inlineskaten vor sich herschieben.",
+    "answer": [
+      "a) Sport ist gesund - wenn man einige wichtige Regeln beachtet",
+      "b) Griechische Sportler so erfolgreich wie nie zuvor",
+      "c) Fitness auch mit wenig Zeitaufwand erreichbar",
+      "d) Geprüfte Qualität für Babys",
+      "e) Bluthochdruck beschleunigt das Abnehmen",
+      "f) Sportbegeisterte Eltern und auch die Babys sind beim Joggen dabei",
+      "g) Täglich kurzes Sprints besser als langes Ausdauertraining",
+      "h) Ein Leistungssport für jedes Alter",
+      "i) Unüberschaubares Angebot an Kinderwagen überfordert junge Eltern",
+      "j) Autoindustrie: In Zukunft Mobilität ohne Grenzen"
+    ],
+    "correct": "f",
+    "id": 72,
+    "correct_position": 6,
+    "source_file": "data3.json"
+  },
+  {
+    "group_name": "SPORT IST GESUND (Marathon & Sức khỏe)",
+    "text": "Text 3: Schweizer Forscher haben herausgefunden, dass nur 6 Minuten Hochleistungstraining pro Woche - also weniger als eine Minute pro Tag - ausreichen, um den Körper fit zu halten. In einem Versuch nahm eine Gruppe an einem traditionellen Ausdauertraining teil, die zweite Gruppe führte täglich 60 Sekunden dauernde Radsprints durch. Das Resultat war überraschend: Beide Gruppen zeigten die gleichen gesundheitlichen Verbesserungen. Sehr kurze und hochintensive sportliche Übungen verbessern die Fitness genauso wie das zeitraubende traditionelle Ausdauertraining.",
+    "answer": [
+      "a) Sport ist gesund - wenn man einige wichtige Regeln beachtet",
+      "b) Griechische Sportler so erfolgreich wie nie zuvor",
+      "c) Fitness auch mit wenig Zeitaufwand erreichbar",
+      "d) Geprüfte Qualität für Babys",
+      "e) Bluthochdruck beschleunigt das Abnehmen",
+      "f) Sportbegeisterte Eltern und auch die Babys sind beim Joggen dabei",
+      "g) Täglich kurzes Sprints besser als langes Ausdauertraining",
+      "h) Ein Leistungssport für jedes Alter",
+      "i) Unüberschaubares Angebot an Kinderwagen überfordert junge Eltern",
+      "j) Autoindustrie: In Zukunft Mobilität ohne Grenzen"
+    ],
+    "correct": "c",
+    "id": 73,
+    "correct_position": 3,
+    "source_file": "data3.json"
+  },
+  {
+    "group_name": "SPORT IST GESUND (Marathon & Sức khỏe)",
+    "text": "Text 4: Mehr Bewegung als Ausgleich für zu langes Sitzen im Büro ist angesagt, um Übergewicht, Bluthochdruck und Herz-Kreislauf-Erkrankungen vorzubeugen. Gerade für Einsteiger gibt es jedoch einige Grundregeln, die beachtet werden müssen, will man gesundheitliche Schäden vermeiden. Die ersten Trainingseinheiten sollen nicht länger als 20 bis 30 Minuten dauern und zweimal pro Woche durchgeführt werden. Der Puls sollte nie den Wert 200 minus Lebensalter überschreiten. Außerdem gilt: Je höher der Pulsschlag, desto weniger Fett wird verbrannt.",
+    "answer": [
+      "a) Sport ist gesund - wenn man einige wichtige Regeln beachtet",
+      "b) Griechische Sportler so erfolgreich wie nie zuvor",
+      "c) Fitness auch mit wenig Zeitaufwand erreichbar",
+      "d) Geprüfte Qualität für Babys",
+      "e) Bluthochdruck beschleunigt das Abnehmen",
+      "f) Sportbegeisterte Eltern und auch die Babys sind beim Joggen dabei",
+      "g) Täglich kurzes Sprints besser als langes Ausdauertraining",
+      "h) Ein Leistungssport für jedes Alter",
+      "i) Unüberschaubares Angebot an Kinderwagen überfordert junge Eltern",
+      "j) Autoindustrie: In Zukunft Mobilität ohne Grenzen"
+    ],
+    "correct": "a",
+    "id": 74,
+    "correct_position": 1,
+    "source_file": "data3.json"
+  },
+  {
+    "group_name": "SPORT IST GESUND (Marathon & Sức khỏe)",
+    "text": "Text 5: Viele frischgebackene Eltern stehen einem riesigen Angebot an Kinderwagen gegenüber. Doch welcher ist der richtige? Experten raten, beim Kauf auf ein paar Dinge zu achten. Erstens sollte die Matratze nicht zu weich sein. Zweitens sollten die Räder gefedert sein. Ein hoher Wagen schützt die Babys vor dem Auspuff. Vom TÜV geprüfte Kinderwagen erhalten ein Prüfzeichen. Damit haben die Eltern eine gewisse Sicherheit, dass der Kinderwagen nicht zu einem Sicherheitsrisiko für ihr Kind werden kann.",
+    "answer": [
+      "a) Sport ist gesund - wenn man einige wichtige Regeln beachtet",
+      "b) Griechische Sportler so erfolgreich wie nie zuvor",
+      "c) Fitness auch mit wenig Zeitaufwand erreichbar",
+      "d) Geprüfte Qualität für Babys",
+      "e) Bluthochdruck beschleunigt das Abnehmen",
+      "f) Sportbegeisterte Eltern und auch die Babys sind beim Joggen dabei",
+      "g) Täglich kurzes Sprints besser als langes Ausdauertraining",
+      "h) Ein Leistungssport für jedes Alter",
+      "i) Unüberschaubares Angebot an Kinderwagen überfordert junge Eltern",
+      "j) Autoindustrie: In Zukunft Mobilität ohne Grenzen"
+    ],
+    "correct": "d",
+    "id": 75,
+    "correct_position": 4,
+    "source_file": "data3.json"
+  },
+  {
+    "group_name": "ÖSTERREICH MÄRKTE (Các khu chợ Áo)",
+    "text": "Text 1: Das Lesemagazin MENU hat eine Umfrage zu den populärsten Märkten in Österreich durchgeführt. Als klarer Sieger ging der Markt am Domplatz von St. Pölten hervor. Dieser ist berühmt für sein ganzjähriges Einkaufsvergnügen. Als Nahversorger für die Innenstadt trägt er erheblich zur Lebensqualität der Bevölkerung bei. Auf Platz zwei und drei folgten zwei burgenländische Märkte, nämlich der Markt der Erde in Parndorf und der Regionalmarkt in den ehemaligen Stallungen von Schloss Esterhazy in Eisenstadt.",
+    "answer": [
+      "a) Erneuerungskur für einen alten Markt",
+      "b) Junge Influencer werben für Bioprodukte",
+      "c) Neues Buch über einen Wiener Architekten erschienen",
+      "d) Österreichs beliebteste Marktplätze",
+      "e) Schreiben im Internet für die Karriere",
+      "f) Schulung zum Erfolg im Beruf",
+      "g) Seminar: Produkte erfolgreich verkaufen",
+      "h) Warum immer mehr Menschen auf Märkten einkaufen",
+      "i) Wenn Blogger Firmengeheimnisse verraten",
+      "j) Wissenswertes über Wiens größten innerstädtischen Markt"
+    ],
+    "correct": "d",
+    "id": 76,
+    "correct_position": 4,
+    "source_file": "data3.json"
+  },
+  {
+    "group_name": "ÖSTERREICH MÄRKTE (Các khu chợ Áo)",
+    "text": "Text 2: Qualifikationen und Berufserfahrung sind zwar wichtige Kriterien für den erfolgreichen Aufstieg auf der Karriereleiter, doch ohne gutes Selbstmarketing werden Sie auf halbem Wege stehenbleiben. Das ist letztlich genauso wie beim Verkauf eines Produktes: Es reicht nicht, dass ein Produkt gut ist, es muss auch gut beworben werden. Während Marketing das Produkt vorteilhaft am Markt platzieren möchte, verfolgt man beim Selbstmarketing das Ziel, seine Persönlichen und Stärken bewusst hervorzuheben. Wie Sie das richtige Maß finden, erfahren Sie in einem Seminar.",
+    "answer": [
+      "a) Erneuerungskur für einen alten Markt",
+      "b) Junge Influencer werben für Bioprodukte",
+      "c) Neues Buch über einen Wiener Architekten erschienen",
+      "d) Österreichs beliebteste Marktplätze",
+      "e) Schreiben im Internet für die Karriere",
+      "f) Schulung zum Erfolg im Beruf",
+      "g) Seminar: Produkte erfolgreich verkaufen",
+      "h) Warum immer mehr Menschen auf Märkten einkaufen",
+      "i) Wenn Blogger Firmengeheimnisse verraten",
+      "j) Wissenswertes über Wiens größten innerstädtischen Markt"
+    ],
+    "correct": "f",
+    "id": 77,
+    "correct_position": 6,
+    "source_file": "data3.json"
+  },
+  {
+    "group_name": "ÖSTERREICH MÄRKTE (Các khu chợ Áo)",
+    "text": "Text 3: Der Wiener Naschmarkt gehört zu Österreichs beliebtesten Märkten. Mit einer Fläche von mehr als zwei Hektar ist er der größte Markt in der Innenstadt. Schon 1780 handelten Bauern dort mit Milchprodukten. Von 1910 an wurden mehr als 120 fixe Marktstände im einheitlichen Stil von Otto Wagner geplant und errichtet. Heute ist der Naschmarkt eine begehrte Wiener Sehenswürdigkeit. Nun erzählt ein neuer Reiseführer die Geschichte des Naschmarktes, reich illustriert mit alten Aufnahmen.",
+    "answer": [
+      "a) Erneuerungskur für einen alten Markt",
+      "b) Junge Influencer werben für Bioprodukte",
+      "c) Neues Buch über einen Wiener Architekten erschienen",
+      "d) Österreichs beliebteste Marktplätze",
+      "e) Schreiben im Internet für die Karriere",
+      "f) Schulung zum Erfolg im Beruf",
+      "g) Seminar: Produkte erfolgreich verkaufen",
+      "h) Warum immer mehr Menschen auf Märkten einkaufen",
+      "i) Wenn Blogger Firmengeheimnisse verraten",
+      "j) Wissenswertes über Wiens größten innerstädtischen Markt"
+    ],
+    "correct": "j",
+    "id": 78,
+    "correct_position": 10,
+    "source_file": "data3.json"
+  },
+  {
+    "group_name": "ÖSTERREICH MÄRKTE (Các khu chợ Áo)",
+    "text": "Text 4: Wer bloggt, zeigt neben Fachkompetenz auch Kreativität. Das schätzen auch Arbeitgeber. Wer einen Blog professionell betreibt, kann seine fachlichen Kompetenzen präsentieren und gleichzeitig seinen Ideenreichtum unter Beweis stellen. Doch auch die Darstellung eines Hobbys zeigt, dass der Bewerber aktiv und kreativ ist. Experten raten daher Bloggerinnen und Bloggern, in ihren Bewerbungsunterlagen gezielt darauf hinzuweisen. Doch Achtung: Bloggen während der Arbeitszeit und das Schreiben über Firmeninterna sind natürlich tabu.",
+    "answer": [
+      "a) Erneuerungskur für einen alten Markt",
+      "b) Junge Influencer werben für Bioprodukte",
+      "c) Neues Buch über einen Wiener Architekten erschienen",
+      "d) Österreichs beliebteste Marktplätze",
+      "e) Schreiben im Internet für die Karriere",
+      "f) Schulung zum Erfolg im Beruf",
+      "g) Seminar: Produkte erfolgreich verkaufen",
+      "h) Warum immer mehr Menschen auf Märkten einkaufen",
+      "i) Wenn Blogger Firmengeheimnisse verraten",
+      "j) Wissenswertes über Wiens größten innerstädtischen Markt"
+    ],
+    "correct": "e",
+    "id": 79,
+    "correct_position": 5,
+    "source_file": "data3.json"
+  },
+  {
+    "group_name": "ÖSTERREICH MÄRKTE (Các khu chợ Áo)",
+    "text": "Text 5: Bis Herbst soll ein neues Marktkonzept für den altehrwürdigen Salzburger Grünmarkt vorliegen. Damit der Markt für Besucherinnen und Besucher wieder attraktiver wird, setzt die zuständige Stelle im Magistrat auf Nachhaltigkeit. Biologische Lebensmittel aus nachhaltiger Produktion, im Idealfall aus der Region, sollen den Markt wieder zu einem Fixpunkt in der Altstadt werden lassen. Obwohl die Stadt die Verkaufsstände vor einigen Jahren aufwändig hatte restaurieren lassen, verzeichneten die Händler zuletzt einen deutlichen Rückgang an Kundschaft.",
+    "answer": [
+      "a) Erneuerungskur für einen alten Markt",
+      "b) Junge Influencer werben für Bioprodukte",
+      "c) Neues Buch über einen Wiener Architekten erschienen",
+      "d) Österreichs beliebteste Marktplätze",
+      "e) Schreiben im Internet für die Karriere",
+      "f) Schulung zum Erfolg im Beruf",
+      "g) Seminar: Produkte erfolgreich verkaufen",
+      "h) Warum immer mehr Menschen auf Märkten einkaufen",
+      "i) Wenn Blogger Firmengeheimnisse verraten",
+      "j) Wissenswertes über Wiens größten innerstädtischen Markt"
+    ],
+    "correct": "a",
+    "id": 80,
+    "correct_position": 1,
+    "source_file": "data3.json"
+  },
+  {
+    "group_name": "NACHRICHTEN & MEDIEN (Tin tức & Truyền thông)",
+    "text": "Text 1: Die meisten Menschen verbinden den Begriff Barrierefreiheit mit dem Zugang zu Gebäuden. Dabei betrifft Barrierefreiheit viel mehr Bereiche unseres Alltags, so zum Beispiel auch die Informations- und Kommunikationstechnologie. Die APA, die Austria Presse Agentur, hat deshalb einen Nachrichtendienst in einfacher und leicht verständlicher Sprache ins Leben gerufen. Er wendet sich an Menschen die Lese- oder Lernschwierigkeiten haben oder die die deutsche Sprache noch nicht so gut beherrschen.",
+    "answer": [
+      "a) Viele Trampoline haben erhebliche Sicherheitsmängel",
+      "b) Traditionelle Nachrichtenmedien immer noch gefragt",
+      "c) Soziale Medien ersetzen alte Informationsquellen",
+      "d) Schüler bereiten Nachrichtensendungen vor",
+      "e) Mit Nachrichten im Unterricht arbeiten",
+      "f) Medienkonsum fördert ungesunde Lebensweise",
+      "g) Kritik an der Nachrichtensprache",
+      "h) Jugendliche konsumieren mehr Fett und Zucker",
+      "i) Informationen leichter verstehen",
+      "j) Fachleute warnen vor unsachgemäßer Nutzung von Sprunggeräten"
+    ],
+    "correct": "i",
+    "id": 81,
+    "correct_position": 9,
+    "source_file": "data3.json"
+  },
+  {
+    "group_name": "NACHRICHTEN & MEDIEN (Tin tức & Truyền thông)",
+    "text": "Text 2: Die WHO, die Weltgesundheitsorganisation warnt vor den Folgen ungesunder Werbung im Internet. Kinder und Jugendliche treffen beim Nutzen der Sozialen Medien häufig auf Anzeigen für ungesunde Lebensmittel wie Süßigkeiten oder salzige und fettreiche Snacks. So werden Übergewicht und damit zusammenhängende Krankheiten im Erwachsenenalter gefördert. Die WHO weist außerdem auf die Gefahr von Bewegungsmangel im Zusammenhang mit den Neuen Medien hin.",
+    "answer": [
+      "a) Viele Trampoline haben erhebliche Sicherheitsmängel",
+      "b) Traditionelle Nachrichtenmedien immer noch gefragt",
+      "c) Soziale Medien ersetzen alte Informationsquellen",
+      "d) Schüler bereiten Nachrichtensendungen vor",
+      "e) Mit Nachrichten im Unterricht arbeiten",
+      "f) Medienkonsum fördert ungesunde Lebensweise",
+      "g) Kritik an der Nachrichtensprache",
+      "h) Jugendliche konsumieren mehr Fett und Zucker",
+      "i) Informationen leichter verstehen",
+      "j) Fachleute warnen vor unsachgemäßer Nutzung von Sprunggeräten"
+    ],
+    "correct": "f",
+    "id": 82,
+    "correct_position": 6,
+    "source_file": "data3.json"
+  },
+  {
+    "group_name": "NACHRICHTEN & MEDIEN (Tin tức & Truyền thông)",
+    "text": "Text 3: Schülerinnen und Schüler sollen im Schulunterricht auch den Umgang mit Nachrichten lernen. Das forderten kürzlich in Wein die Teilnehmenden an einer Konferenz zur politischen Bildung von Jugendlichen. Das Ziel dabei ist, jungen Menschen den kritischen Umgang mit den Inhalten und der Präsentation von Nachrichten beizubringen. Schülerinnen und Schüler können Nachrichtensendungen zur eigenen Arbeit nutzen oder gemeinsam in der Klasse besprechen. Die Konferenz nannte auch gleich konkrete Fragen für die Analyse von Nachrichtensendungen.",
+    "answer": [
+      "a) Viele Trampoline haben erhebliche Sicherheitsmängel",
+      "b) Traditionelle Nachrichtenmedien immer noch gefragt",
+      "c) Soziale Medien ersetzen alte Informationsquellen",
+      "d) Schüler bereiten Nachrichtensendungen vor",
+      "e) Mit Nachrichten im Unterricht arbeiten",
+      "f) Medienkonsum fördert ungesunde Lebensweise",
+      "g) Kritik an der Nachrichtensprache",
+      "h) Jugendliche konsumieren mehr Fett und Zucker",
+      "i) Informationen leichter verstehen",
+      "j) Fachleute warnen vor unsachgemäßer Nutzung von Sprunggeräten"
+    ],
+    "correct": "e",
+    "id": 83,
+    "correct_position": 5,
+    "source_file": "data3.json"
+  },
+  {
+    "group_name": "NACHRICHTEN & MEDIEN (Tin tức & Truyền thông)",
+    "text": "Text 4: Mit dem Trampolin den Körper in Schwung bringen - für viele Menschen ist das Sprunggerät eine gute Möglichkeit. Orthopäden weisen auf die extrem hohe Unfallgefahr hin. Die Ärzteschaft möchte Kindern und Eltern keineswegs die Freude am Trampolinspringen verderben. Vielmehr möchte sie dazu aufrufen, einige Sicherheitsregeln zu befolgen, mit denen sich Unfälle leicht vermeiden lassen. Eine harte, ebene Stellfläche und ein Sicherheitsnetz sind dabei unverzichtbare Voraussetzungen.",
+    "answer": [
+      "a) Viele Trampoline haben erhebliche Sicherheitsmängel",
+      "b) Traditionelle Nachrichtenmedien immer noch gefragt",
+      "c) Soziale Medien ersetzen alte Informationsquellen",
+      "d) Schüler bereiten Nachrichtensendungen vor",
+      "e) Mit Nachrichten im Unterricht arbeiten",
+      "f) Medienkonsum fördert ungesunde Lebensweise",
+      "g) Kritik an der Nachrichtensprache",
+      "h) Jugendliche konsumieren mehr Fett und Zucker",
+      "i) Informationen leichter verstehen",
+      "j) Fachleute warnen vor unsachgemäßer Nutzung von Sprunggeräten"
+    ],
+    "correct": "j",
+    "id": 84,
+    "correct_position": 10,
+    "source_file": "data3.json"
+  },
+  {
+    "group_name": "NACHRICHTEN & MEDIEN (Tin tức & Truyền thông)",
+    "text": "Text 5: Die Klage, dass Jugendliche und junge Erwachsene kein Interesse mehr an Nachrichten haben, ist unbegründet. Demnach lesen oder hören in Österreich nahezu 50% der Personen unter 30 Jahren täglich Nachrichten. Viele der Befragten gaben an, dass sie sich nicht auf die Inhalte der Sozialen Medien verlassen möchten, da ihre Glaubwürdigkeit oft angezweifelt wird. Den klassischen Medien wird hingegen eher geglaubt.",
+    "answer": [
+      "a) Viele Trampoline haben erhebliche Sicherheitsmängel",
+      "b) Traditionelle Nachrichtenmedien immer noch gefragt",
+      "c) Soziale Medien ersetzen alte Informationsquellen",
+      "d) Schüler bereiten Nachrichtensendungen vor",
+      "e) Mit Nachrichten im Unterricht arbeiten",
+      "f) Medienkonsum fördert ungesunde Lebensweise",
+      "g) Kritik an der Nachrichtensprache",
+      "h) Jugendliche konsumieren mehr Fett und Zucker",
+      "i) Informationen leichter verstehen",
+      "j) Fachleute warnen vor unsachgemäßer Nutzung von Sprunggeräten"
+    ],
+    "correct": "b",
+    "id": 85,
+    "correct_position": 2,
+    "source_file": "data3.json"
+  },
+  {
+    "group_name": "SPIELZEUG (Đồ chơi)",
+    "text": "Text 1: Die erste Kösener Puppenfabrik wurde 1912 von Käthe Kruse gegründet. Dort werden noch wie früher Plüschtiere einzeln angefertigt, rund 80.000 jährlich. Die Plüschtiere entstehen nicht in Fließbandproduktion, sondern werden einzeln zusammengenäht. Jedem Entwurf gehen ausführliche anatomische Beobachtungen und Studien in der Natur und im Zoo voraus. Nur so gelingt es, die charakteristischen Merkmale der Tiere authentisch abzubilden.",
+    "answer": [
+      "a) Alte spiele stärken das Miteinander",
+      "b) Dinge zum Anfassen bleiben beliebt",
+      "c) Je mehr Spielsachen, desto größer die Kreativität",
+      "d) Kleine Züge mit langer Geschichte",
+      "e) Massenfertigung von Kuscheltieren",
+      "f) Naturgetreue Handarbeit für das Kinderzimmer",
+      "g) Technik Spielzeug von früher wieder im Handel",
+      "h) Überfluss im Kinderzimmer",
+      "i) Viele Computerspiele kommen schnell aus der Modernen",
+      "j) Warum sich leser von Büchern abwenden"
+    ],
+    "correct": "e",
+    "id": 86,
+    "correct_position": 5,
+    "source_file": "data3.json"
+  },
+  {
+    "group_name": "SPIELZEUG (Đồ chơi)",
+    "text": "Text 2: Die Modelleisenbahn hat auch im Computerzeitalter ihre Anziehungskraft nicht verloren. Bis heute bringt sie die Augen von großen und kleinen Eisenbahnfans zum Leuchten. 1891 rollte die erste Uhrwerkeisenbahn zum Aufziehen über die Gleise, und mit ihr begann der Aufstieg der Firma Märklin zum führenden Hersteller von Spielzeugeisenbahnen. Einige Jahre später entwickelte man daraus die elektrische Modelleisenbahn, wie sie noch immer zu kaufen ist. Diese faszinierte Generationen technikbegeisterter Fans und wurde zum Sammelobjekt.",
+    "answer": [
+      "a) Alte spiele stärken das Miteinander",
+      "b) Dinge zum Anfassen bleiben beliebt",
+      "c) Je mehr Spielsachen, desto größer die Kreativität",
+      "d) Kleine Züge mit langer Geschichte",
+      "e) Massenfertigung von Kuscheltieren",
+      "f) Naturgetreue Handarbeit für das Kinderzimmer",
+      "g) Technik Spielzeug von früher wieder im Handel",
+      "h) Überfluss im Kinderzimmer",
+      "i) Viele Computerspiele kommen schnell aus der Modernen",
+      "j) Warum sich leser von Büchern abwenden"
+    ],
+    "correct": "d",
+    "id": 87,
+    "correct_position": 4,
+    "source_file": "data3.json"
+  },
+  {
+    "group_name": "SPIELZEUG (Đồ chơi)",
+    "text": "Text 3: Gedruckten Büchern wurde vor einigen Jahren von Experten ein schnelles Ende vorausgesagt. Doch schon wenig später stiegen deren Verkaufszahlen überraschend an. Vieles deutet darauf hin, dass sich Sachen, die man selbst in die Hand nehmen kann, doch nicht so leicht von digitalen Inhalten verdrängen lassen. Zum Beispiel sind Papierkalender nicht aus den Geschäften verschwunden und die Schallplatte findet trotz der Verbreitung von Streaming Angeboten viele Käufer. Gegenstände wecken Erinnerungen - das werden sie digitalen Produkten immer voraushaben.",
+    "answer": [
+      "a) Alte spiele stärken das Miteinander",
+      "b) Dinge zum Anfassen bleiben beliebt",
+      "c) Je mehr Spielsachen, desto größer die Kreativität",
+      "d) Kleine Züge mit langer Geschichte",
+      "e) Massenfertigung von Kuscheltieren",
+      "f) Naturgetreue Handarbeit für das Kinderzimmer",
+      "g) Technik Spielzeug von früher wieder im Handel",
+      "h) Überfluss im Kinderzimmer",
+      "i) Viele Computerspiele kommen schnell aus der Modernen",
+      "j) Warum sich leser von Büchern abwenden"
+    ],
+    "correct": "b",
+    "id": 88,
+    "correct_position": 2,
+    "source_file": "data3.json"
+  },
+  {
+    "group_name": "SPIELZEUG (Đồ chơi)",
+    "text": "Text 4: Immer neue Spielekonsolen, Spielformate und Apps drängen auf den elektronischen Spielemarkt und dennoch haben Brettspiele nie an Bedeutung verloren. Die Hersteller vermelden sogar Jahr für Jahr steigende Umsätze. Was aber macht den Zauber des klassischen analogen Brettspiels aus? Beim gemeinsamen Spiel genießen die Mitspieler besondere Momente der Zusammengehörigkeit. Das Spielen in analogen statt digitalen Welten steigert also Zufriedenheit und Gemeinschaftsgefühl.",
+    "answer": [
+      "a) Alte spiele stärken das Miteinander",
+      "b) Dinge zum Anfassen bleiben beliebt",
+      "c) Je mehr Spielsachen, desto größer die Kreativität",
+      "d) Kleine Züge mit langer Geschichte",
+      "e) Massenfertigung von Kuscheltieren",
+      "f) Naturgetreue Handarbeit für das Kinderzimmer",
+      "g) Technik Spielzeug von früher wieder im Handel",
+      "h) Überfluss im Kinderzimmer",
+      "i) Viele Computerspiele kommen schnell aus der Modernen",
+      "j) Warum sich leser von Büchern abwenden"
+    ],
+    "correct": "a",
+    "id": 89,
+    "correct_position": 1,
+    "source_file": "data3.json"
+  },
+  {
+    "group_name": "SPIELZEUG (Đồ chơi)",
+    "text": "Text 5: Jahr für Jahr gehört der Umsatz der Spielzeughersteller. Und so sind die Schränke und Spielzeugkisten der lieben Kleinen voll mit Puppen, Kuscheltieren und Autos. Doch das hat auch unerwünschte Folgen. 'Wenn ein Kind zu viel Spielzeug hat, wird sich seine Phantasie nicht weiterentwickeln', warnt Spielforscher Jens Junge. Es komme für die Kinder gar nicht so sehr darauf an, womit sie spielen, sondern vor allem mit wem. Das gemeinsame Spiel mit Freunden sei für Kinder sowieso am wichtigsten.",
+    "answer": [
+      "a) Alte spiele stärken das Miteinander",
+      "b) Dinge zum Anfassen bleiben beliebt",
+      "c) Je mehr Spielsachen, desto größer die Kreativität",
+      "d) Kleine Züge mit langer Geschichte",
+      "e) Massenfertigung von Kuscheltieren",
+      "f) Naturgetreue Handarbeit für das Kinderzimmer",
+      "g) Technik Spielzeug von früher wieder im Handel",
+      "h) Überfluss im Kinderzimmer",
+      "i) Viele Computerspiele kommen schnell aus der Modernen",
+      "j) Warum sich leser von Büchern abwenden"
+    ],
+    "correct": "h",
+    "id": 90,
+    "correct_position": 8,
+    "source_file": "data3.json"
+  }
+,
+  {
+    "group_name": "KAFFEE & HANDWERK (Cà phê & Thủ công)",
+    "text": "Text 1: Eppingen liegt etwa auf halbem Weg zwischen Karlsruhe und Heilbronn. Die Altstadt des Städtchens ist ein einziges Museum: Über 100 Fachwerkhäuser können hier bewundert werden. Die bekanntesten davon sind das 'Baumannsche Haus' und die 'Alte Universität', heute ein Museum. Im heutigen Museum kann man die Fachwerkbaukunst studieren. Eppingen ist auch Ausgangspunkt zahlreicher Wanderwege.",
+    "answer": [
+      "a) Altes Handwerk und alte Technik anschaulich präsentiert",
+      "b) Attraktive Kleinstadt - touristischer Geheimtipp",
+      "c) Ein Altes Kloster als Feuerwache",
+      "d) Eine Universität mit langer Geschichte",
+      "e) Eliteschule für Schriftsteller",
+      "f) Entdeckung und Verbreitung des Kaffees",
+      "g) Kaffee macht die Leute süß",
+      "h) Klösterliche Strenge für berühmte Schüler",
+      "i) Mehr Ziegenmilch dank Energy-Drink",
+      "j) Ohne Kaffee geht hier nichts"
+    ],
+    "correct": "b",
+    "id": 91,
+    "correct_position": 2,
+    "source_file": "data4.json"
+  },
+  {
+    "group_name": "KAFFEE & HANDWERK (Cà phê & Thủ công)",
+    "text": "Text 2: Das erste Kaffehaus in Leipzig, 'Zum arabischen Coffee-Baum', öffnete 1685 seine Pforten. Seitdem ist der Kaffee in Sachsen zum beliebten Getränk geworden. 'Kaffeesachsen' wurden früher die Bewohner des Landes scherzhaft genannt. Bevorzugt wird der Kaffee heiß und süß getrunken. Süße Ergänzungen wie Dresdner Stollen gehören zum Kaffee wie das Tüpfelchen zum 'i'. Dabei wird das Gebäck auf echt sächsische Art 'gedibbscht', das heißt: Es wird in den Kaffee getunkt.",
+    "answer": [
+      "a) Altes Handwerk und alte Technik anschaulich präsentiert",
+      "b) Attraktive Kleinstadt - touristischer Geheimtipp",
+      "c) Ein Altes Kloster als Feuerwache",
+      "d) Eine Universität mit langer Geschichte",
+      "e) Eliteschule für Schriftsteller",
+      "f) Entdeckung und Verbreitung des Kaffees",
+      "g) Kaffee macht die Leute süß",
+      "h) Klösterliche Strenge für berühmte Schüler",
+      "i) Mehr Ziegenmilch dank Energy-Drink",
+      "j) Ohne Kaffee geht hier nichts"
+    ],
+    "correct": "g",
+    "id": 92,
+    "correct_position": 7,
+    "source_file": "data4.json"
+  },
+  {
+    "group_name": "KAFFEE & HANDWERK (Cà phê & Thủ công)",
+    "text": "Text 3: Das Kloster Maulbronn wurde 1147 gegründet. Im 16. Jahrhundert wurde es zum Internat umfunktioniert. Kloster Maulbronn war besonders wegen seiner Klosterschule bekannt, die von namhaften Persönlichkeiten besucht wurde: Johannes Kepler lernte hier Latein und Mathematik, der Schriftsteller Hermann Hesse litt bekanntlich sehr unter der eisernen Disziplin und Härte, die hier nach seiner Meinung vorherrschte.",
+    "answer": [
+      "a) Altes Handwerk und alte Technik anschaulich präsentiert",
+      "b) Attraktive Kleinstadt - touristischer Geheimtipp",
+      "c) Ein Altes Kloster als Feuerwache",
+      "d) Eine Universität mit langer Geschichte",
+      "e) Eliteschule für Schriftsteller",
+      "f) Entdeckung und Verbreitung des Kaffees",
+      "g) Kaffee macht die Leute süß",
+      "h) Klösterliche Strenge für berühmte Schüler",
+      "i) Mehr Ziegenmilch dank Energy-Drink",
+      "j) Ohne Kaffee geht hier nichts"
+    ],
+    "correct": "h",
+    "id": 93,
+    "correct_position": 8,
+    "source_file": "data4.json"
+  },
+  {
+    "group_name": "KAFFEE & HANDWERK (Cà phê & Thủ công)",
+    "text": "Text 4: Auf einer Anhöhe oberhalb des Bodensees liegt das ehemalige Zisterzienserkloster Salem. Innerhalb der weitläufigen Klosteranlage befinden sich heute mehrere Museen. Im Feuerwehrmuseum findet der interessierte Besucher alte Feuerwehrwagen. Im Weinbaumuseum bekommt man einen Überblick über die Weinproduktion. In den angrenzenden Gebäuden kann man zuschauen, wie noch in Handarbeit Musikinstrumente gebaut werden, Glas geblasen oder Goldschmuck hergestellt wird.",
+    "answer": [
+      "a) Altes Handwerk und alte Technik anschaulich präsentiert",
+      "b) Attraktive Kleinstadt - touristischer Geheimtipp",
+      "c) Ein Altes Kloster als Feuerwache",
+      "d) Eine Universität mit langer Geschichte",
+      "e) Eliteschule für Schriftsteller",
+      "f) Entdeckung und Verbreitung des Kaffees",
+      "g) Kaffee macht die Leute süß",
+      "h) Klösterliche Strenge für berühmte Schüler",
+      "i) Mehr Ziegenmilch dank Energy-Drink",
+      "j) Ohne Kaffee geht hier nichts"
+    ],
+    "correct": "a",
+    "id": 94,
+    "correct_position": 1,
+    "source_file": "data4.json"
+  },
+  {
+    "group_name": "KAFFEE & HANDWERK (Cà phê & Thủ công)",
+    "text": "Text 5: Vermutlich vor fast 900 Jahren sollen die Menschen herausgefunden haben, was es mit dem Kaffee auf sich hat. Eine Legende erzählt von einem jemenitischen Ziegenhirten, dessen Ziegen sich nach dem Genuss der roten Beeren eines bestimmten Strauches merkwürdig lebendig und aufgedreht benommen haben sollen. Nach mehreren Experimenten habe man dann herausgefunden, dass die Beeren, wenn man sie trocknet und dann mit heißem Wasser aufkocht, am besten schmecken. Der Kaffee war erfunden.",
+    "answer": [
+      "a) Altes Handwerk und alte Technik anschaulich präsentiert",
+      "b) Attraktive Kleinstadt - touristischer Geheimtipp",
+      "c) Ein Altes Kloster als Feuerwache",
+      "d) Eine Universität mit langer Geschichte",
+      "e) Eliteschule für Schriftsteller",
+      "f) Entdeckung und Verbreitung des Kaffees",
+      "g) Kaffee macht die Leute süß",
+      "h) Klösterliche Strenge für berühmte Schüler",
+      "i) Mehr Ziegenmilch dank Energy-Drink",
+      "j) Ohne Kaffee geht hier nichts"
+    ],
+    "correct": "f",
+    "id": 95,
+    "correct_position": 6,
+    "source_file": "data4.json"
+  },
+  {
+    "group_name": "BENZIN & VERKEHR (Xăng dầu & Giao thông)",
+    "text": "Text 1: Aussteigen, tanken, wegfahren: Wenn die Benzinpreise steigen, ist wieder Hochsaison bei den Benzindieben. Früh morgens und abends schlagen Sie besonders gerne zu. Auch am Monatsende, wenn das Geld knapp wird, steigt die Zahl der Benzindiebstähle. Doch sparen lässt sich durch Benzinklau nicht. Fast alle Täter werden von der Polizei gefasst. Tankwart Kurt Jochimsen aus Emden zeig uns einen Fall aus seiner großen Videosammlung.",
+    "answer": [
+      "a) Benzingeld sparen: Tipp vom Tankwart",
+      "b) Die wichtigsten Erste-Hilfe-Ratschläge",
+      "c) Einmal die Welt als Ganzes sehen",
+      "d) Einmal um die Welt ohne einen Tropfen Benzin",
+      "e) Fliegen statt fahren",
+      "f) Innerdeutsche Reisen besonders beliebt",
+      "g) Frau im All",
+      "h) Schweizer nutzen Solartaxis",
+      "i) Steigende Spritpreise: die Tricks der Autofahrer",
+      "j) Die richtige Unfallversicherung"
+    ],
+    "correct": "i",
+    "id": 96,
+    "correct_position": 9,
+    "source_file": "data4.json"
+  },
+  {
+    "group_name": "BENZIN & VERKEHR (Xăng dầu & Giao thông)",
+    "text": "Text 2: Viele Autofahrer, die in einen Unfall verwickelt sind, sind so aufgeregt, dass sie vergessen, was zu tun ist. Der Versicherungsexperte Klaus Lenhoff gibt die wichtigsten Tipps: 1. Unfallstelle absichern. 2. Rettung aus dem Gefahrenbereich. 3. Rettungskräfte informieren (Ruf 110 oder 112). Dabei an 'die fünf W's' denken. 4. Verletzten Hilfe leisten. 5. Lokalisierung auf der Autobahn. 6. Beweismittel sichern. 7. Verkehrsfluss wiederherstellen. 8. Name, Anschrift und Telefonnummern von Zeugen notieren. 9. Vorsicht bei Aussagen. 10. Versicherung des Unfallgegners ermitteln.",
+    "answer": [
+      "a) Benzingeld sparen: Tipp vom Tankwart",
+      "b) Die wichtigsten Erste-Hilfe-Ratschläge",
+      "c) Einmal die Welt als Ganzes sehen",
+      "d) Einmal um die Welt ohne einen Tropfen Benzin",
+      "e) Fliegen statt fahren",
+      "f) Innerdeutsche Reisen besonders beliebt",
+      "g) Frau im All",
+      "h) Schweizer nutzen Solartaxis",
+      "i) Steigende Spritpreise: die Tricks der Autofahrer",
+      "j) Die richtige Unfallversicherung"
+    ],
+    "correct": "b",
+    "id": 97,
+    "correct_position": 2,
+    "source_file": "data4.json"
+  },
+  {
+    "group_name": "BENZIN & VERKEHR (Xăng dầu & Giao thông)",
+    "text": "Text 3: Hast du schon mal mit dem Gedanken gespielt, Pilotin zu werden? Monique Bellin ist Pilotin. 'Es hat mich schon immer fasziniert, dass es mit Hilfe technischer Mittel möglich ist, die Schwerkraft zu überwinden und die Welt aus der Vogelperspektive zu betrachten.' Hat sie noch Träume? 'Aber ja!', sagt Monique Belling: 'Mit einem Shuttle ins Weltall fliegen, um die Erde als Kugel zu sehen und das Gefühl absoluter Schwerelosigkeit zu erleben'.",
+    "answer": [
+      "a) Benzingeld sparen: Tipp vom Tankwart",
+      "b) Die wichtigsten Erste-Hilfe-Ratschläge",
+      "c) Einmal die Welt als Ganzes sehen",
+      "d) Einmal um die Welt ohne einen Tropfen Benzin",
+      "e) Fliegen statt fahren",
+      "f) Innerdeutsche Reisen besonders beliebt",
+      "g) Frau im All",
+      "h) Schweizer nutzen Solartaxis",
+      "i) Steigende Spritpreise: die Tricks der Autofahrer",
+      "j) Die richtige Unfallversicherung"
+    ],
+    "correct": "c",
+    "id": 98,
+    "correct_position": 3,
+    "source_file": "data4.json"
+  },
+  {
+    "group_name": "BENZIN & VERKEHR (Xăng dầu & Giao thông)",
+    "text": "Text 4: Der Schweizer Louis Palmer hat eine Weltumrundung mit seinem 'Solartaxi' fast abgeschlossen. 'Nun habe ich fast den ganzen Planeten umrundet, ohne einen Tropfen Benzin zu brauchen'. Die Batterien des bis zu 90 Stundenkilometer schnelle Solarmobils können Energie für eine Reichweite von 400 km speichern. Palmer war mit seinem dreirädrigen 'Taxi' im Juli in Luzern gestartet. Er zieht einen Anhänger mit sechs Quadratmetern Solarzellen hinter sich her und die Sonnenenergie treibst das Gefährt an.",
+    "answer": [
+      "a) Benzingeld sparen: Tipp vom Tankwart",
+      "b) Die wichtigsten Erste-Hilfe-Ratschläge",
+      "c) Einmal die Welt als Ganzes sehen",
+      "d) Einmal um die Welt ohne einen Tropfen Benzin",
+      "e) Fliegen statt fahren",
+      "f) Innerdeutsche Reisen besonders beliebt",
+      "g) Frau im All",
+      "h) Schweizer nutzen Solartaxis",
+      "i) Steigende Spritpreise: die Tricks der Autofahrer",
+      "j) Die richtige Unfallversicherung"
+    ],
+    "correct": "d",
+    "id": 99,
+    "correct_position": 4,
+    "source_file": "data4.json"
+  },
+  {
+    "group_name": "BENZIN & VERKEHR (Xăng dầu & Giao thông)",
+    "text": "Text 5: Die Bundesregierung und ihre Spitzenbeamten sind auf Dienstreisen gern mit dem Flugzeug unterwegs - aber nicht nur, wenn es um Fernreisen geht, sondern auch bei kurzen Inlandsreisen. Wie aus der Antwort des Innenministeriums hervorgeht, gab die Bundesregierung im letzten Jahr 7,7 Millionen Euro für innerdeutsche Flugreisen aus. Fahrkarten der Bahn hingegen schlugen lediglich mit 3,2 Millionen zu Buche. Der Vergleich mit anderen Jahren zeigt aber, dass sich die meisten Politiker bemühen, immer häufiger vom Flugzeug auf die Bahn umzusteigen.",
+    "answer": [
+      "a) Benzingeld sparen: Tipp vom Tankwart",
+      "b) Die wichtigsten Erste-Hilfe-Ratschläge",
+      "c) Einmal die Welt als Ganzes sehen",
+      "d) Einmal um die Welt ohne einen Tropfen Benzin",
+      "e) Fliegen statt fahren",
+      "f) Innerdeutsche Reisen besonders beliebt",
+      "g) Frau im All",
+      "h) Schweizer nutzen Solartaxis",
+      "i) Steigende Spritpreise: die Tricks der Autofahrer",
+      "j) Die richtige Unfallversicherung"
+    ],
+    "correct": "f",
+    "id": 100,
+    "correct_position": 6,
+    "source_file": "data4.json"
+  },
+  {
+    "group_name": "FOTOGRAFIE (Nhiếp ảnh)",
+    "text": "Text 1: Der Buchtitel erinnert an eine Horrorgeschichte: 'Die Nacht'. Aber dem Autor Paul Bogart geht es nicht um Fantasiewelten, sondern um sehr reale Dinge. Das Thema des Autors ist die nächtliche Finsternis. Wer erlebt noch eine dunkle Nacht? Großstadtbewohner eher nicht. Paul Bogart erläutert, warum künstliches Licht so weit verbreitet ist, und betrachtet dies sehr kritisch. Denn der Autor hält nicht viel davon, dass es heute kaum noch völlig dunkel ist.",
+    "answer": [
+      "a) Bilder einer bedeutenden Künstlerin",
+      "b) Das Ende der Dunkelheit",
+      "c) Die bemerkenswerte Karriere eines Fotografen",
+      "d) Ein Fotograf auf Reisen",
+      "e) Eine Fotografin dreht einen Film",
+      "f) Entwicklungsgeschichte der Lampen",
+      "g) Erde, Mond und Sterne - wie man sie noch nie gesehen hat",
+      "h) Familienfotos berühmter Persönlichkeiten",
+      "i) Gelungene Einführung in die moderne Fotografie",
+      "j) Mit Profis eine neue Foto-Technik erlernen"
+    ],
+    "correct": "b",
+    "id": 101,
+    "correct_position": 2,
+    "source_file": "data4.json"
+  },
+  {
+    "group_name": "FOTOGRAFIE (Nhiếp ảnh)",
+    "text": "Text 2: Fotos machen ist heute nicht schwer. Wer aber besondere und eindrucksvolle Bilder haben möchte, muss sich mit dem Thema Fotografie schon etwas intensiver befassen. Dietmar Spehrs neuer Fotografie-Ratgeber ist dabei ein gutes Hilfsmittel. Der Ratgeber versteht sich als Fotokurs für Ein- und Aufsteiger. Spehr setzt dabei auf Beispielbilder, Tabellen und Grafiken und schreibt so wenig wie möglich, aber so viel wie nötig. Von der Auswahl des Motivs über die richtige Kameraeinstellung bis hin zur optimierenden Nachbearbeitung am Computer wird alles Wissenswerte vermittelt.",
+    "answer": [
+      "a) Bilder einer bedeutenden Künstlerin",
+      "b) Das Ende der Dunkelheit",
+      "c) Die bemerkenswerte Karriere eines Fotografen",
+      "d) Ein Fotograf auf Reisen",
+      "e) Eine Fotografin dreht einen Film",
+      "f) Entwicklungsgeschichte der Lampen",
+      "g) Erde, Mond und Sterne - wie man sie noch nie gesehen hat",
+      "h) Familienfotos berühmter Persönlichkeiten",
+      "i) Gelungene Einführung in die moderne Fotografie",
+      "j) Mit Profis eine neue Foto-Technik erlernen"
+    ],
+    "correct": "i",
+    "id": 102,
+    "correct_position": 9,
+    "source_file": "data4.json"
+  },
+  {
+    "group_name": "FOTOGRAFIE (Nhiếp ảnh)",
+    "text": "Text 3: Bilder der Fotografin Annie Leibovitz sind ab kommendem Samstag im Kunsthaus Wien zu sehen. Die Ausstellung besticht durch ihre umfangreiche Bildauswahl. Zum einen kann man zahlreiche Portraits berühmter Schauspieler, Politiker oder Musiker bestaunen. Zum anderen sieht man Bilder aus dem privaten Fotoalbum der Künstlerin. Um die Fotografien besser kennenzulernen, können Besucher einen ca. 1,5 Stunden langen Film über die Karriere von Annie Leibovitz sehen. Eines ist nach der Ausstellung und dem Film klar: Annie Leibovitz zählt zu den bedeutendsten Fotografinnen des 20. und beginnenden 21. Jahrhunderts.",
+    "answer": [
+      "a) Bilder einer bedeutenden Künstlerin",
+      "b) Das Ende der Dunkelheit",
+      "c) Die bemerkenswerte Karriere eines Fotografen",
+      "d) Ein Fotograf auf Reisen",
+      "e) Eine Fotografin dreht einen Film",
+      "f) Entwicklungsgeschichte der Lampen",
+      "g) Erde, Mond und Sterne - wie man sie noch nie gesehen hat",
+      "h) Familienfotos berühmter Persönlichkeiten",
+      "i) Gelungene Einführung in die moderne Fotografie",
+      "j) Mit Profis eine neue Foto-Technik erlernen"
+    ],
+    "correct": "a",
+    "id": 103,
+    "correct_position": 1,
+    "source_file": "data4.json"
+  },
+  {
+    "group_name": "FOTOGRAFIE (Nhiếp ảnh)",
+    "text": "Text 4: Die Abkürzung TWAN klingt nach einem neuen Computerprogramm, aber tatsächlich steht sie für eine neue fotografische Methode, die der Iraner Babak Amin Tafreshi entwickelt hat. Diese neue Methode führt zu atemberaubenden Ergebnissen: Noch nie hat man die Sterne so eindrucksvoll über den Landschaften der Erde gesehen wie auf den Bildern in diesem Buch. Viele der gezeigten Orte und Landschaften sind bekannte Motive, hier aber wirken sie doch vollkommen anders. 'Fotografieren im TWAN-Stil heißt, bei fortgeschrittener Dämmerung oder Dunkelheit Aufnahmen zu machen'.",
+    "answer": [
+      "a) Bilder einer bedeutenden Künstlerin",
+      "b) Das Ende der Dunkelheit",
+      "c) Die bemerkenswerte Karriere eines Fotografen",
+      "d) Ein Fotograf auf Reisen",
+      "e) Eine Fotografin dreht einen Film",
+      "f) Entwicklungsgeschichte der Lampen",
+      "g) Erde, Mond und Sterne - wie man sie noch nie gesehen hat",
+      "h) Familienfotos berühmter Persönlichkeiten",
+      "i) Gelungene Einführung in die moderne Fotografie",
+      "j) Mit Profis eine neue Foto-Technik erlernen"
+    ],
+    "correct": "g",
+    "id": 104,
+    "correct_position": 7,
+    "source_file": "data4.json"
+  },
+  {
+    "group_name": "FOTOGRAFIE (Nhiếp ảnh)",
+    "text": "Text 5: Er gehörte zu den ganz Großen seines Fachs: Andreas Feininger. Eine neue Biografie erzählt die Lebensgeschichte des weltberühmten Fotografen. Die Autoren zeigen den Weg des 1906 in Paris geborenen Fotografen von der Kindheit in Berlin über die Jahre in Weimar und Dessau bis hin zum Leben in Hamburg, Stockholm und schließlich New York. Eigentlich war Andreas Feininger gelernter Architekt. Als Feininger 1933 nach Stockholm auswandert, macht er aus der Not eine Tugend: Er macht seine Leidenschaft, die Fotografie, zum Broterwerb.",
+    "answer": [
+      "a) Bilder einer bedeutenden Künstlerin",
+      "b) Das Ende der Dunkelheit",
+      "c) Die bemerkenswerte Karriere eines Fotografen",
+      "d) Ein Fotograf auf Reisen",
+      "e) Eine Fotografin dreht einen Film",
+      "f) Entwicklungsgeschichte der Lampen",
+      "g) Erde, Mond und Sterne - wie man sie noch nie gesehen hat",
+      "h) Familienfotos berühmter Persönlichkeiten",
+      "i) Gelungene Einführung in die moderne Fotografie",
+      "j) Mit Profis eine neue Foto-Technik erlernen"
+    ],
+    "correct": "c",
+    "id": 105,
+    "correct_position": 3,
+    "source_file": "data4.json"
+  },
+  {
+    "group_name": "NASE & GERUCH (Mũi & Khứu giác)",
+    "text": "Text 1: 'Die Nase', so der plastische Chirurg Professor Henrik Menke, 'sitzt mitten im Gesicht. Zu große Abweichungen von der Norm beeinträchtigen den ganzen Menschen'. Der Chirurg lehnt es ab, am Mängelwesen Mensch alles chirurgisch Machbare auszuführen. Keinem unter 18 würde er die Nase operieren - es sei denn, sie ist durch einen Unfall oder eine Krankheit verunstaltet. Er lehnt es auch ab, mit Videoanimation zu arbeiten, weil die Realität eine andere ist.",
+    "answer": [
+      "a) Doping für Drogenspürhunde",
+      "b) Durch den Geruchssinn die Welt neu erfahren",
+      "c) Elefanten mit dem feinsten Näschen",
+      "d) Erst schmecken, dann riechen",
+      "e) Mit vierbeinigen Spürnasen gegen den Drogenschmuggel",
+      "f) Nasenkorrektur für jedermann",
+      "g) Neue Therapie für Allergikernasen",
+      "h) Schönheitsoperationen nicht um jeden Preis",
+      "i) Selbstreinigung für unser Riechorgan",
+      "j) Tierische Riechorgane unterschiedlich ausgeprägt"
+    ],
+    "correct": "h",
+    "id": 106,
+    "correct_position": 8,
+    "source_file": "data4.json"
+  },
+  {
+    "group_name": "NASE & GERUCH (Mũi & Khứu giác)",
+    "text": "Text 2: Der Riechsinn ist unser ursprünglichster Sinn - sagt Matthias Schenk vom Schloss Freudenberg. Wer ihn schärfen will, ist im dort unterbrachten 'Erfahrungsfeld der Sinne' an der richtigen Adresse. 'Es entsteht eine neue Welt, sogar ein ganz neuer Kosmos, wenn man sich mit der Nase beschäftigt'. Der Nase kommt im 'Erfahrungsfeld der Sinne' eine zentrale Rolle zu. Schließlich sei der Geruchssinn gehirngeschichtlich der älteste Sinn.",
+    "answer": [
+      "a) Doping für Drogenspürhunde",
+      "b) Durch den Geruchssinn die Welt neu erfahren",
+      "c) Elefanten mit dem feinsten Näschen",
+      "d) Erst schmecken, dann riechen",
+      "e) Mit vierbeinigen Spürnasen gegen den Drogenschmuggel",
+      "f) Nasenkorrektur für jedermann",
+      "g) Neue Therapie für Allergikernasen",
+      "h) Schönheitsoperationen nicht um jeden Preis",
+      "i) Selbstreinigung für unser Riechorgan",
+      "j) Tierische Riechorgane unterschiedlich ausgeprägt"
+    ],
+    "correct": "b",
+    "id": 107,
+    "correct_position": 2,
+    "source_file": "data4.json"
+  },
+  {
+    "group_name": "NASE & GERUCH (Mũi & Khứu giác)",
+    "text": "Text 3: Mit Drogen kennt sich Falko aus. Der sechs Jahre alte Schäferhund sucht für den Zoll nach Kokain, Haschisch und Heroin. Hunde riechen bis zu eine Million mal besser als Menschen. Schnüffler wie Falko können 'stereo' riechen, das heißt, ihre Nase kann zwischen rechts und links unterscheiden. Spürhunde erkennen deshalb auch die Richtung eines Geruchs. Werden bei der Ausbildung noch alle Drogen zusammengepackt, so schafft es Falko, sie beim Kofferschnüffeln dann einzeln wahrzunehmen.",
+    "answer": [
+      "a) Doping für Drogenspürhunde",
+      "b) Durch den Geruchssinn die Welt neu erfahren",
+      "c) Elefanten mit dem feinsten Näschen",
+      "d) Erst schmecken, dann riechen",
+      "e) Mit vierbeinigen Spürnasen gegen den Drogenschmuggel",
+      "f) Nasenkorrektur für jedermann",
+      "g) Neue Therapie für Allergikernasen",
+      "h) Schönheitsoperationen nicht um jeden Preis",
+      "i) Selbstreinigung für unser Riechorgan",
+      "j) Tierische Riechorgane unterschiedlich ausgeprägt"
+    ],
+    "correct": "e",
+    "id": 108,
+    "correct_position": 5,
+    "source_file": "data4.json"
+  },
+  {
+    "group_name": "NASE & GERUCH (Mũi & Khứu giác)",
+    "text": "Text 4: Beim Menschen ist das Sehen der Sinn Nummer eins, gefolgt vom Hören. Ganz anders sieht es bei vielen Tieren aus. 'Hunde sind Riechweltmeister'. Die längste Nase der Welt hat der Elefant. 'Das Riechen ist allerdings Nebensache beim Elefanten ist die Nase zum Werkzeug geworden'. Interessant sind auch die Nasen der Spinnen, die in den Beinen stecken. Schlangen nehmen über die Zunge Gerüche auf. Auch Haie riechen und schmecken Blut über Kilometer.",
+    "answer": [
+      "a) Doping für Drogenspürhunde",
+      "b) Durch den Geruchssinn die Welt neu erfahren",
+      "c) Elefanten mit dem feinsten Näschen",
+      "d) Erst schmecken, dann riechen",
+      "e) Mit vierbeinigen Spürnasen gegen den Drogenschmuggel",
+      "f) Nasenkorrektur für jedermann",
+      "g) Neue Therapie für Allergikernasen",
+      "h) Schönheitsoperationen nicht um jeden Preis",
+      "i) Selbstreinigung für unser Riechorgan",
+      "j) Tierische Riechorgane unterschiedlich ausgeprägt"
+    ],
+    "correct": "j",
+    "id": 109,
+    "correct_position": 10,
+    "source_file": "data4.json"
+  },
+  {
+    "group_name": "NASE & GERUCH (Mũi & Khứu giác)",
+    "text": "Text 5: Niesen ist eine Reaktion auf die Umwelt. Unwillkürlich wird ein Reflex ausgelöst, der die Nase 'säubern' soll. Es kommt zu einem explosionsartigen Ausstoßen der Luft durch die Nase - dem Niesen. Dabei kann die Luft leicht eine Geschwindigkeit von 150 bis 160 Stundenkilometern erreichen. Allergiker niesen oft serienweise, bis der letzte Reiz aus der Nase entfernt ist. Der Körper will, dass möglichst viel Luft durch die Nase und möglichst wenig durch den Mund entweicht, daher verschließt die Zunge der Luft teilweise den Weg.",
+    "answer": [
+      "a) Doping für Drogenspürhunde",
+      "b) Durch den Geruchssinn die Welt neu erfahren",
+      "c) Elefanten mit dem feinsten Näschen",
+      "d) Erst schmecken, dann riechen",
+      "e) Mit vierbeinigen Spürnasen gegen den Drogenschmuggel",
+      "f) Nasenkorrektur für jedermann",
+      "g) Neue Therapie für Allergikernasen",
+      "h) Schönheitsoperationen nicht um jeden Preis",
+      "i) Selbstreinigung für unser Riechorgan",
+      "j) Tierische Riechorgane unterschiedlich ausgeprägt"
+    ],
+    "correct": "i",
+    "id": 110,
+    "correct_position": 9,
+    "source_file": "data4.json"
+  },
+  {
+    "group_name": "LEHRER & GRUNDSCHULEN (Giáo viên & Trường tiểu học)",
+    "text": "Text 1: Berlin wird in 10 Jahren rund 5.000 Lehrkräfte weniger brauchen als derzeit. Die Gewerkschaft Erziehung und Wissenschaft (GEW) befürchtet zugleich, dass bis zu diesem Zeitpunkt zu wenig Nachwuchskräfte ausgebildet werden und es deshalb zu einer dramatischer Unterversorgung kommt. Die GEW steuert die Hauptstadt bei der Personalausstattung der Schulen auf ein Fiasko zu, weil mehr als 10.000 Lehrkräfte aus Altersgründen in den Ruhestand gehen.",
+    "answer": [
+      "a) An deutschen Grundschulen sind männliche Lehrkräfte selten",
+      "b) Bildungsexperten warnen: Deutsche Lehrer sind schlecht ausgebildet",
+      "c) Bildungsforscher: Lehrermangel wird in Deutschland nicht eintreten",
+      "d) Die Zahl der männlichen Lehrkräfte an Grundschulen nimmt zu",
+      "e) Experten befürchten zunehmenden Lehrermangel in Deutschland",
+      "f) Gewerkschaft erwartet Lehrermangel in Berlin",
+      "g) GEW befürchtet Abwanderung von gut ausgebildeten Lehrkräften aus Berlin",
+      "h) Immer mehr Berliner wandern aus",
+      "i) Immer weniger Frauen machen ein Grundschullehrer-Studium",
+      "j) Vorausschauende Politiker verhindern Lehrermangel in Berlin"
+    ],
+    "correct": "f",
+    "id": 111,
+    "correct_position": 6,
+    "source_file": "data4.json"
+  },
+  {
+    "group_name": "LEHRER & GRUNDSCHULEN (Giáo viên & Trường tiểu học)",
+    "text": "Text 2: Wer sich in Berlin um eine Stelle als Lehrer bewirbt, muss hart im Nehmen sein. 'Während man in Hamburg respektvoll behandelt wird, rechnen Vertreter der Berliner Schulverwaltung den Bewerbern vor, wie teuer Lehrer sind.' Maria Schütz hat das gute Angebot aus Hamburg einer unsicheren Zukunft in Berlin vorgezogen. Die Lehrergewerkschaft GEW ist besorgt, dass Berlin auf diese Weise viele gut qualifizierte Lehrer an andere Bundesländer verlieren könnte.",
+    "answer": [
+      "a) An deutschen Grundschulen sind männliche Lehrkräfte selten",
+      "b) Bildungsexperten warnen: Deutsche Lehrer sind schlecht ausgebildet",
+      "c) Bildungsforscher: Lehrermangel wird in Deutschland nicht eintreten",
+      "d) Die Zahl der männlichen Lehrkräfte an Grundschulen nimmt zu",
+      "e) Experten befürchten zunehmenden Lehrermangel in Deutschland",
+      "f) Gewerkschaft erwartet Lehrermangel in Berlin",
+      "g) GEW befürchtet Abwanderung von gut ausgebildeten Lehrkräften aus Berlin",
+      "h) Immer mehr Berliner wandern aus",
+      "i) Immer weniger Frauen machen ein Grundschullehrer-Studium",
+      "j) Vorausschauende Politiker verhindern Lehrermangel in Berlin"
+    ],
+    "correct": "g",
+    "id": 112,
+    "correct_position": 7,
+    "source_file": "data4.json"
+  },
+  {
+    "group_name": "LEHRER & GRUNDSCHULEN (Giáo viên & Trường tiểu học)",
+    "text": "Text 3: Die Hilferufe aus den Schulen wollen nicht verstummen: Schüler klagen über ständigen Lehrerwechsel, Eltern über Stundenausfall. Der Verband Bildung und Erziehung (VBE) rechnet in den nächsten 15 Jahren mit einem 'gewaltigen Lehrermangel' in Deutschland. Für 100 pensionierte Lehrer kämen jedoch nur 50 neue Kollegen. Der Lehrernotstand kommt nicht überraschend, Forscher sagten ihn längst voraus.",
+    "answer": [
+      "a) An deutschen Grundschulen sind männliche Lehrkräfte selten",
+      "b) Bildungsexperten warnen: Deutsche Lehrer sind schlecht ausgebildet",
+      "c) Bildungsforscher: Lehrermangel wird in Deutschland nicht eintreten",
+      "d) Die Zahl der männlichen Lehrkräfte an Grundschulen nimmt zu",
+      "e) Experten befürchten zunehmenden Lehrermangel in Deutschland",
+      "f) Gewerkschaft erwartet Lehrermangel in Berlin",
+      "g) GEW befürchtet Abwanderung von gut ausgebildeten Lehrkräften aus Berlin",
+      "h) Immer mehr Berliner wandern aus",
+      "i) Immer weniger Frauen machen ein Grundschullehrer-Studium",
+      "j) Vorausschauende Politiker verhindern Lehrermangel in Berlin"
+    ],
+    "correct": "e",
+    "id": 113,
+    "correct_position": 5,
+    "source_file": "data4.json"
+  },
+  {
+    "group_name": "LEHRER & GRUNDSCHULEN (Giáo viên & Trường tiểu học)",
+    "text": "Text 4: Bildungspolitiker wollen Abiturienten scharenweise in den Lehrerberuf locken. Doch das Versprechen vom sicheren Job lässt sich womöglich nicht einlösen. Die Arbeitsgruppe Bildungsforschung unter der Leitung des Wissenschaftlers Klaus Klemm kommt in ihrem Bericht zu einem ganz anderen Ergebnis. Die Forschungsgruppe errechnete, dass es zu einer insgesamt ausgeglichenen Bilanz zwischen Nachfrage und Angebot auf dem Lehrer-Arbeitsmarkt kommen werde. 'Wenn sich die Einstellungspolitik nicht ändert, dürften wir sogar einen Lehrerüberschuss bekommen', sagte Klemm.",
+    "answer": [
+      "a) An deutschen Grundschulen sind männliche Lehrkräfte selten",
+      "b) Bildungsexperten warnen: Deutsche Lehrer sind schlecht ausgebildet",
+      "c) Bildungsforscher: Lehrermangel wird in Deutschland nicht eintreten",
+      "d) Die Zahl der männlichen Lehrkräfte an Grundschulen nimmt zu",
+      "e) Experten befürchten zunehmenden Lehrermangel in Deutschland",
+      "f) Gewerkschaft erwartet Lehrermangel in Berlin",
+      "g) GEW befürchtet Abwanderung von gut ausgebildeten Lehrkräften aus Berlin",
+      "h) Immer mehr Berliner wandern aus",
+      "i) Immer weniger Frauen machen ein Grundschullehrer-Studium",
+      "j) Vorausschauende Politiker verhindern Lehrermangel in Berlin"
+    ],
+    "correct": "c",
+    "id": 114,
+    "correct_position": 3,
+    "source_file": "data4.json"
+  },
+  {
+    "group_name": "LEHRER & GRUNDSCHULEN (Giáo viên & Trường tiểu học)",
+    "text": "Text 5: Mädchen haben tendenziell bessere Noten und stellen 56 Prozent der Abiturienten. Dagegen sind zwei Drittel der Schulabbrecher und drei Viertel der Sonderschüler Jungen. An der Grundschule sind Männer eine Rarität. Im Schuljahr 2006/2007 liegt der Frauenanteil an den Grundschullehrern bei 86,9 Prozent. Im Extremfall kann das bedeuten, dass Jungen bis zum Alter von 10 oder 12 Jahren ausschließlich von Frauen betreut und unterrichtet werden. 'In den wichtigen frühen Jahren fehlen den Jungen männliche Vorbilder', so die Familienministerin.",
+    "answer": [
+      "a) An deutschen Grundschulen sind männliche Lehrkräfte selten",
+      "b) Bildungsexperten warnen: Deutsche Lehrer sind schlecht ausgebildet",
+      "c) Bildungsforscher: Lehrermangel wird in Deutschland nicht eintreten",
+      "d) Die Zahl der männlichen Lehrkräfte an Grundschulen nimmt zu",
+      "e) Experten befürchten zunehmenden Lehrermangel in Deutschland",
+      "f) Gewerkschaft erwartet Lehrermangel in Berlin",
+      "g) GEW befürchtet Abwanderung von gut ausgebildeten Lehrkräften aus Berlin",
+      "h) Immer mehr Berliner wandern aus",
+      "i) Immer weniger Frauen machen ein Grundschullehrer-Studium",
+      "j) Vorausschauende Politiker verhindern Lehrermangel in Berlin"
+    ],
+    "correct": "a",
+    "id": 115,
+    "correct_position": 1,
+    "source_file": "data4.json"
+  },
+  {
+    "group_name": "JUGEND FORSCHT & GESUNDHEIT (Nghiên cứu trẻ & Sức khỏe)",
+    "text": "Text 1: Die Zahlen wirken auf dem ersten Blick dramatisch: 15 Prozent der Kinder sind übergewichtig. Der Ernährungswissenschaftler Timo Schmidt meint, es fehle vor allem an Praxis-Erfahrungen in der Küche. Besonders erschreckend findet Schmidt, dass viele Kinder Lebensmittel einfach nicht mehr erkennen. So standen im Kochstudio beispielsweise Erdbeeren auf dem Tisch, die dann für Tomaten gehalten wurden. Und eine gelbe Zucchini wird gerne mal alles Banane bezeichnet. 'Was fehlt, ist die Praxis'.",
+    "answer": [
+      "a) Jugend forscht - auch auf dem Meer",
+      "b) Jugend engagiert sich für den Umweltschutz",
+      "c) Kochen für Eltern und Kinder",
+      "d) Mehr Gewalt auf Schulhöfen",
+      "e) Psychoterror an der Schule",
+      "f) Schiffsreise für Jugendliche",
+      "g) Starker Wettbewerb um Schüler",
+      "h) Von der Diät zur Krankheit",
+      "i) Wenn Lernen krank macht",
+      "j) Wenn aus Erdbeeren Tomaten werden"
+    ],
+    "correct": "j",
+    "id": 116,
+    "correct_position": 10,
+    "source_file": "data4.json"
+  },
+  {
+    "group_name": "JUGEND FORSCHT & GESUNDHEIT (Nghiên cứu trẻ & Sức khỏe)",
+    "text": "Text 2: Immer mehr Mädchen leiden an schweren Essstörungen - und das, obwohl Ärzte und Fachleute seit Jahren vor den negativen Folgen des Schlankheitswahns warnen. Die Kinder- und Jugendpsychiatrie in Hannover schlägt Alarm. 'Wir Wissen längst, dass dünn zu sein weder gesund noch lebensverlängernd ist', sagt Kuznik. Mit einer harmlosen Diät fängt es meist an, mit einer schweren Krankheit kann es enden.",
+    "answer": [
+      "a) Jugend forscht - auch auf dem Meer",
+      "b) Jugend engagiert sich für den Umweltschutz",
+      "c) Kochen für Eltern und Kinder",
+      "d) Mehr Gewalt auf Schulhöfen",
+      "e) Psychoterror an der Schule",
+      "f) Schiffsreise für Jugendliche",
+      "g) Starker Wettbewerb um Schüler",
+      "h) Von der Diät zur Krankheit",
+      "i) Wenn Lernen krank macht",
+      "j) Wenn aus Erdbeeren Tomaten werden"
+    ],
+    "correct": "h",
+    "id": 117,
+    "correct_position": 8,
+    "source_file": "data4.json"
+  },
+  {
+    "group_name": "JUGEND FORSCHT & GESUNDHEIT (Nghiên cứu trẻ & Sức khỏe)",
+    "text": "Text 3: Energiesparlampen, umweltfreundliche Elektrogeräte, Bio-Nagellack - sieht man sich die Themen an, mit denen sich die Teilnehmer des 46. Regionalwettbewerbs 'Jugend forscht' beschäftigt haben, wird vor allem eines klar: Das ökologische Bewusstsein hat die Klassenzimmer erreicht. In der Rubrik Arbeitswelt ermittelten die Abiturientinnen die Ökobilanz von Gartengeräten. 'Wir haben festgestellt, dass Laubbläser mit Benzinmotor nicht nur große Mengen Kohlenstoffdioxid produzieren, sie vernichten auch Würmer'.",
+    "answer": [
+      "a) Jugend forscht - auch auf dem Meer",
+      "b) Jugend engagiert sich für den Umweltschutz",
+      "c) Kochen für Eltern und Kinder",
+      "d) Mehr Gewalt auf Schulhöfen",
+      "e) Psychoterror an der Schule",
+      "f) Schiffsreise für Jugendliche",
+      "g) Starker Wettbewerb um Schüler",
+      "h) Von der Diät zur Krankheit",
+      "i) Wenn Lernen krank macht",
+      "j) Wenn aus Erdbeeren Tomaten werden"
+    ],
+    "correct": "b",
+    "id": 118,
+    "correct_position": 2,
+    "source_file": "data4.json"
+  },
+  {
+    "group_name": "JUGEND FORSCHT & GESUNDHEIT (Nghiên cứu trẻ & Sức khỏe)",
+    "text": "Text 4: Für drei Schüler aus Diepholz ist ein Traum wahr geworden. Als Meeresforscher auf See arbeiten sie an einem eigenen Forschungsprojekt auf dem Schiff 'Aldebaran'. Sie nehmen am Meereswettbewerb 'Forschen auf See' teil. Ihr Thema: die Verschmutzung der Nordsee mit winzigen Plastikteilchen. Mit ihren Untersuchungen wollen sie die Aufmerksamkeit auf das Problem lenken. Die Proben sind zwar noch nicht ausgewertet, die ersten Plastikteile haben die Jugendlichen aber schon gefunden.",
+    "answer": [
+      "a) Jugend forscht - auch auf dem Meer",
+      "b) Jugend engagiert sich für den Umweltschutz",
+      "c) Kochen für Eltern und Kinder",
+      "d) Mehr Gewalt auf Schulhöfen",
+      "e) Psychoterror an der Schule",
+      "f) Schiffsreise für Jugendliche",
+      "g) Starker Wettbewerb um Schüler",
+      "h) Von der Diät zur Krankheit",
+      "i) Wenn Lernen krank macht",
+      "j) Wenn aus Erdbeeren Tomaten werden"
+    ],
+    "correct": "a",
+    "id": 119,
+    "correct_position": 1,
+    "source_file": "data4.json"
+  },
+  {
+    "group_name": "JUGEND FORSCHT & GESUNDHEIT (Nghiên cứu trẻ & Sức khỏe)",
+    "text": "Text 5: Mobbing ist kein neues Phänomen. Es ist auch in Schulen weitverbreitet. Da spricht zum Beispiel eine Lehrerin vor der Klasse negativ über eine Schülerin. Oder die Mitschüler lachen oder lassen beleidigende Bemerkungen fallen, wenn ein bestimmter Schüler sich zu Wort meldet. Häufig sind die Erwachsenen ratlos oder schauen weg, während die Opfer die Schuld bei sich selbst suchen. Lehrkräfte sind meist überrascht, wenn man sie auf Mobbing in einer Klasse anspricht, denn die Schikanen geschehen oft zu subtil.",
+    "answer": [
+      "a) Jugend forscht - auch auf dem Meer",
+      "b) Jugend engagiert sich für den Umweltschutz",
+      "c) Kochen für Eltern und Kinder",
+      "d) Mehr Gewalt auf Schulhöfen",
+      "e) Psychoterror an der Schule",
+      "f) Schiffsreise für Jugendliche",
+      "g) Starker Wettbewerb um Schüler",
+      "h) Von der Diät zur Krankheit",
+      "i) Wenn Lernen krank macht",
+      "j) Wenn aus Erdbeeren Tomaten werden"
+    ],
+    "correct": "e",
+    "id": 120,
+    "correct_position": 5,
+    "source_file": "data4.json"
+  }
+,
+  {
+    "group_name": "LICHT & STROM (Ánh sáng & Điện)",
+    "text": "Text 1: Heute machen die elektrische Beleuchtung die Nacht fast zum Tag. Vor der Erfindung der Elektrizität war das anders. Der Arbeitsalltag der Menschen wurde vom Tageslicht bestimmt. Das Museum für Dorfkultur in Weinheim zeigt in einer Sonderausstellung, wie sich das Landleben früher nach Einbruch der Dunkelheit abspielte. Man erfährt zum Beispiel, wie man vor Erfindung des Streichholzes Feuer entfachte.",
+    "answer": [
+      "a) Der Wald als neues Zuhause",
+      "b) Die Auswirkungen künstlichen Lichts",
+      "c) Landbewohner fordern besseren öffentlichen Nahverkehr",
+      "d) Plötzlich geht das Licht aus - was tun bei Stromeausfall?",
+      "e) Stadtbewohner entdecken das Landleben",
+      "f) Stadtbewohner leben umweltfreundlicher",
+      "g) Trend: Großstädter machen Urlaub im Wald",
+      "h) Warum Licht für unser Wohlbefinden wichtig ist",
+      "i) Was tun, wenn es Nacht wird? Lichtquellen vergangener Zeiten",
+      "j) Wohnungsnot in Metropolen"
+    ],
+    "correct": "i",
+    "id": 121,
+    "correct_position": 9,
+    "source_file": "data5.json"
+  },
+  {
+    "group_name": "LICHT & STROM (Ánh sáng & Điện)",
+    "text": "Text 2: Jahrelang zog es vor allem junge Berufstätige in die Großstädte. Doch seit einiger Zeit beobachten Forscher eine gegenläufige Bewegung: Immer mehr Menschen kehren den Metropolen den Rücken und lassen sich im Umland nieder - wegen der Ruhe und der günstigeren Preise. Die Wissenschaftler sprechen schon von einer Trendwende, die sich vor allem in den Ballungszentren Berlin, Hamburg, München, Frankfurt und Stuttgart abzeichnet.",
+    "answer": [
+      "a) Der Wald als neues Zuhause",
+      "b) Die Auswirkungen künstlichen Lichts",
+      "c) Landbewohner fordern besseren öffentlichen Nahverkehr",
+      "d) Plötzlich geht das Licht aus - was tun bei Stromeausfall?",
+      "e) Stadtbewohner entdecken das Landleben",
+      "f) Stadtbewohner leben umweltfreundlicher",
+      "g) Trend: Großstädter machen Urlaub im Wald",
+      "h) Warum Licht für unser Wohlbefinden wichtig ist",
+      "i) Was tun, wenn es Nacht wird? Lichtquellen vergangener Zeiten",
+      "j) Wohnungsnot in Metropolen"
+    ],
+    "correct": "e",
+    "id": 122,
+    "correct_position": 5,
+    "source_file": "data5.json"
+  },
+  {
+    "group_name": "LICHT & STROM (Ánh sáng & Điện)",
+    "text": "Text 3: Satellitenbilder der Erde bei Nacht zeigen ein strahlendes Lichtermeer. Die Städte sind nachts hell erleuchtet - nicht immer jedoch zum Wohle von Mensch und Umwelt: Denn zu viel Licht hat Folgen für Menschen und Tiere. An Straßenlaternen verenden jede Nacht Milliarden von Insekten. Wissenschaftler sprechen bereits von einer massiven Lichtverschmutzung.",
+    "answer": [
+      "a) Der Wald als neues Zuhause",
+      "b) Die Auswirkungen künstlichen Lichts",
+      "c) Landbewohner fordern besseren öffentlichen Nahverkehr",
+      "d) Plötzlich geht das Licht aus - was tun bei Stromeausfall?",
+      "e) Stadtbewohner entdecken das Landleben",
+      "f) Stadtbewohner leben umweltfreundlicher",
+      "g) Trend: Großstädter machen Urlaub im Wald",
+      "h) Warum Licht für unser Wohlbefinden wichtig ist",
+      "i) Was tun, wenn es Nacht wird? Lichtquellen vergangener Zeiten",
+      "j) Wohnungsnot in Metropolen"
+    ],
+    "correct": "b",
+    "id": 123,
+    "correct_position": 2,
+    "source_file": "data5.json"
+  },
+  {
+    "group_name": "LICHT & STROM (Ánh sáng & Điện)",
+    "text": "Text 4: Vor zehn Jahren lebten Dirk und Antje Sebens noch in Mannheim. Dann kauften sie sich ein altes Forsthaus im Wald. Heute versuchen die beiden, so autark wie möglich zu leben. Die Solaranlage auf dem Dach liefert Strom, eigenes Holz die Wärme, der Brunnen vor dem Haus das Wasser. Die absolute Dunkelheit draußen in der Nacht war am Anfang sehr ungewohnt.",
+    "answer": [
+      "a) Der Wald als neues Zuhause",
+      "b) Die Auswirkungen künstlichen Lichts",
+      "c) Landbewohner fordern besseren öffentlichen Nahverkehr",
+      "d) Plötzlich geht das Licht aus - was tun bei Stromeausfall?",
+      "e) Stadtbewohner entdecken das Landleben",
+      "f) Stadtbewohner leben umweltfreundlicher",
+      "g) Trend: Großstädter machen Urlaub im Wald",
+      "h) Warum Licht für unser Wohlbefinden wichtig ist",
+      "i) Was tun, wenn es Nacht wird? Lichtquellen vergangener Zeiten",
+      "j) Wohnungsnot in Metropolen"
+    ],
+    "correct": "a",
+    "id": 124,
+    "correct_position": 1,
+    "source_file": "data5.json"
+  },
+  {
+    "group_name": "LICHT & STROM (Ánh sáng & Điện)",
+    "text": "Text 5: Wer verbringt nicht gerne sein Wochenende fernab der Stadt? Viele zieht es gleich ganz aufs Land. Doch dort braucht man meist ein Auto. Forscher haben errechnet, dass wir bis zu 87 Prozent der Emissionen aus unserer Alltagsmobilität einsparen können, wenn wir in verkehrstechnisch günstiger Lage wohnen, also am besten in der Stadt. Auch das Argument, das Wohnen auf dem Land sei günstiger, überzeugt immer weniger.",
+    "answer": [
+      "a) Der Wald als neues Zuhause",
+      "b) Die Auswirkungen künstlichen Lichts",
+      "c) Landbewohner fordern besseren öffentlichen Nahverkehr",
+      "d) Plötzlich geht das Licht aus - was tun bei Stromeausfall?",
+      "e) Stadtbewohner entdecken das Landleben",
+      "f) Stadtbewohner leben umweltfreundlicher",
+      "g) Trend: Großstädter machen Urlaub im Wald",
+      "h) Warum Licht für unser Wohlbefinden wichtig ist",
+      "i) Was tun, wenn es Nacht wird? Lichtquellen vergangener Zeiten",
+      "j) Wohnungsnot in Metropolen"
+    ],
+    "correct": "f",
+    "id": 125,
+    "correct_position": 6,
+    "source_file": "data5.json"
+  },
+  {
+    "group_name": "WOHNEN & PFLANZEN (Nhà cửa & Cây cối)",
+    "text": "Text 1 (Feng Shui): Feng Shui - wörtlich: Wind Wasser - ist die taoistische Lehre vom Leben im Einklang mit der Umgebung. Wohnen mit Feng Shui bedeutet ein Gleichgewicht herzustellen beginnend bei der Auswahl des Grundstücks, der Anordnung von Türen und Fenstern und der Gestaltung der Wohnräume.",
+    "answer": [
+      "a) Farben in der Wohnung als Therapie",
+      "b) Pflanzen machen den Wohnraum gesünder",
+      "c) Zimmerpflanzen sind selten krank",
+      "d) Möbel als Energiequellen der Zukunft",
+      "e) Gesünder durch kräftige, leuchtende Farben in der Wohnung",
+      "f) Farbberatung durch den Gärtner oder die Floristin",
+      "g) Wohnen in Harmonie mit den Kräften der Natur",
+      "h) Kräuter als Zimmerpflanzen",
+      "i) Kräuter bringen Farbe in Wohnräume",
+      "j) Zimmerpflanzen sorgen für gute Stimmung bei Menschen"
+    ],
+    "correct": "g",
+    "id": 126,
+    "correct_position": 7,
+    "source_file": "data5.json"
+  },
+  {
+    "group_name": "WOHNEN & PFLANZEN (Nhà cửa & Cây cối)",
+    "text": "Text 2 (Colors): Farben haben eine stärkere Wirkung auf Menschen, als viele vermuten. Der Einfluss der Farben ist sogar so groß, dass er für therapeutische Zwecke genutzt wird. Ist der Raum nämlich in knalligem Rot gestrichen, entsteht schnell eine unruhige oder aggressive Atmosphäre. Weiß gestrichene Wände lassen sich aber mit allen Möbeln kombinieren und schaffen so leicht eine gemütliche Atmosphäre.",
+    "answer": [
+      "a) Farben in der Wohnung als Therapie",
+      "b) Pflanzen machen den Wohnraum gesünder",
+      "c) Zimmerpflanzen sind selten krank",
+      "d) Möbel als Energiequellen der Zukunft",
+      "e) Gesünder durch kräftige, leuchtende Farben in der Wohnung",
+      "f) Farbberatung durch den Gärtner oder die Floristin",
+      "g) Wohnen in Harmonie mit den Kräften der Natur",
+      "h) Kräuter als Zimmerpflanzen",
+      "i) Kräuter bringen Farbe in Wohnräume",
+      "j) Zimmerpflanzen sorgen für gute Stimmung bei Menschen"
+    ],
+    "correct": "a",
+    "id": 127,
+    "correct_position": 1,
+    "source_file": "data5.json"
+  },
+  {
+    "group_name": "WOHNEN & PFLANZEN (Nhà cửa & Cây cối)",
+    "text": "Text 3 (Humidity): Die relative Luftfeuchtigkeit sollte in Wohnräumen nie dauerhaft unter 30% oder über 70% liegen. In den meisten Wohnräumen ist die Luft zu trocken. Zentralheizungen und Klimaanlagen trocknen die Luft aus und wirbeln Staub, Keime und Schadstoffe auf. Gegen üble Gerüche und zu hohe Lufttrockenheit helfen am besten Pflanzen. Sie geben Wasserdampf an die Umgebung ab und sorgen für ein gutes Raumklima.",
+    "answer": [
+      "a) Farben in der Wohnung als Therapie",
+      "b) Pflanzen machen den Wohnraum gesünder",
+      "c) Zimmerpflanzen sind selten krank",
+      "d) Möbel als Energiequellen der Zukunft",
+      "e) Gesünder durch kräftige, leuchtende Farben in der Wohnung",
+      "f) Farbberatung durch den Gärtner oder die Floristin",
+      "g) Wohnen in Harmonie mit den Kräften der Natur",
+      "h) Kräuter als Zimmerpflanzen",
+      "i) Kräuter bringen Farbe in Wohnräume",
+      "j) Zimmerpflanzen sorgen für gute Stimmung bei Menschen"
+    ],
+    "correct": "b",
+    "id": 128,
+    "correct_position": 2,
+    "source_file": "data5.json"
+  },
+  {
+    "group_name": "WOHNEN & PFLANZEN (Nhà cửa & Cây cối)",
+    "text": "Text 4 (Herbs): Frische Kräuter machen jedes Essen zum Genuss. Man braucht keinen großen Garten, um sich aromatische Gewürzpflanzen selbst ziehen zu können. Die meisten dieser Kräuter gedeihen nämlich auch im Blumentopf auf dem Balkon oder auf der Fensterbank. Wegen der Lufttrockenheit in den Wohnungen müssen sie viel häufiger gegossen werden als Freilandpflanzen, auch sind sie weniger widerstandsfähig gegen Schädlinge und Pflanzenkrankheiten.",
+    "answer": [
+      "a) Farben in der Wohnung als Therapie",
+      "b) Pflanzen machen den Wohnraum gesünder",
+      "c) Zimmerpflanzen sind selten krank",
+      "d) Möbel als Energiequellen der Zukunft",
+      "e) Gesünder durch kräftige, leuchtende Farben in der Wohnung",
+      "f) Farbberatung durch den Gärtner oder die Floristin",
+      "g) Wohnen in Harmonie mit den Kräften der Natur",
+      "h) Kräuter als Zimmerpflanzen",
+      "i) Kräuter bringen Farbe in Wohnräume",
+      "j) Zimmerpflanzen sorgen für gute Stimmung bei Menschen"
+    ],
+    "correct": "h",
+    "id": 129,
+    "correct_position": 8,
+    "source_file": "data5.json"
+  },
+  {
+    "group_name": "WOHNEN & PFLANZEN (Nhà cửa & Cây cối)",
+    "text": "Text 5 (Mood): Bei der Wohnraumgestaltung lässt sich viel erreichen mit der richtigen Auswahl der Zimmerpflanzen. Es müssen nicht nur grünblättrige Gummibäume oder Palmen sein. Blühpflanzen auf der Fensterbank können die Bewohner in gute Laune versetzen. Grünpflanzen beruhigen zudem und man fühlt sich beim Anblick der Natur in der eigenen Wohnung einfach ruhiger und ausgeglichener.",
+    "answer": [
+      "a) Farben in der Wohnung als Therapie",
+      "b) Pflanzen machen den Wohnraum gesünder",
+      "c) Zimmerpflanzen sind selten krank",
+      "d) Möbel als Energiequellen der Zukunft",
+      "e) Gesünder durch kräftige, leuchtende Farben in der Wohnung",
+      "f) Farbberatung durch den Gärtner oder die Floristin",
+      "g) Wohnen in Harmonie mit den Kräften der Natur",
+      "h) Kräuter als Zimmerpflanzen",
+      "i) Kräuter bringen Farbe in Wohnräume",
+      "j) Zimmerpflanzen sorgen für gute Stimmung bei Menschen"
+    ],
+    "correct": "j",
+    "id": 130,
+    "correct_position": 10,
+    "source_file": "data5.json"
+  },
+  {
+    "group_name": "UMWELT & TAUSCHEN (Môi trường & Trao đổi)",
+    "text": "Text 1: Sie sind eine gut funktionierende Gemeinschaft mit einer Vision: Schon seit den 80er Jahren leben Mitglieder des Tauschrings Harmelsdorf e.V. vor, wie man nachhaltig mit Ressourcen umgehen kann. Tauschen, nicht wegwerfen ist das Motto. Ob Küchengeräte, Bücher oder auch Kleidungsstücke: Was ungenutzt ist, findet bei jemandem Verwendung. Getauscht werden nicht nur Güter, sondern auch Dienstleistungen.",
+    "answer": [
+      "a) Gemeinsam kaputte Geräte retten",
+      "b) Kaufsucht überwinden - diese Möglichkeiten gibt es",
+      "c) Neue Besitzer für nicht mehr gebrauchte Gegenstände",
+      "d) Reparatur alter Haushaltsgeräte lohnt oft nicht",
+      "e) Rücksendungen verderben Online-Händlern das Geschäft",
+      "f) Rücksendungen verringern: Händler hoffen auf Lösungen",
+      "g) Studie zeigt, welche Geschenke glücklich machen",
+      "h) Verein mit Preis für Umweltschutz ausgezeichnet",
+      "i) Volle Einkaufstüten machen nur kurze Zeit Freude",
+      "j) Wer Engagement zeigt, steigert sein Glücksgefühl"
+    ],
+    "correct": "c",
+    "id": 131,
+    "correct_position": 3,
+    "source_file": "data5.json"
+  },
+  {
+    "group_name": "UMWELT & TAUSCHEN (Môi trường & Trao đổi)",
+    "text": "Text 2: Man gönnt sich ja sonst nichts. Und schon ist die Einkaufstüte voll und das Konto leer. 'Ein Einkauf kann sich ähnlich anfühlen wie eine Belohnung', sagt der Psychologe Daniel Stüber. Denn dabei würden Glückshormone ausgeschüttet. Doch die Ernüchterung folge oft schnell. Denn wer später merkt, wie teuer das alles gewesen ist, schüttet Stresshormone aus. Langfristig lässt sich so die eigene Lebenszufriedenheit nicht steigern.",
+    "answer": [
+      "a) Gemeinsam kaputte Geräte retten",
+      "b) Kaufsucht überwinden - diese Möglichkeiten gibt es",
+      "c) Neue Besitzer für nicht mehr gebrauchte Gegenstände",
+      "d) Reparatur alter Haushaltsgeräte lohnt oft nicht",
+      "e) Rücksendungen verderben Online-Händlern das Geschäft",
+      "f) Rücksendungen verringern: Händler hoffen auf Lösungen",
+      "g) Studie zeigt, welche Geschenke glücklich machen",
+      "h) Verein mit Preis für Umweltschutz ausgezeichnet",
+      "i) Volle Einkaufstüten machen nur kurze Zeit Freude",
+      "j) Wer Engagement zeigt, steigert sein Glücksgefühl"
+    ],
+    "correct": "i",
+    "id": 132,
+    "correct_position": 9,
+    "source_file": "data5.json"
+  },
+  {
+    "group_name": "UMWELT & TAUSCHEN (Môi trường & Trao đổi)",
+    "text": "Text 3: Geklickt gekauft, zurückgeschickt: Kunden nutzen im Online-Handel gerne die Möglichkeit, Waren kostenlos zurückzusenden. Die Kosten für die Retouren trägt der Anbieter. Rücksendungen werden sich nie ganz vermeiden lassen. Dennoch ist es möglich, dass sich ihre Anzahl in Zukunft senken lässt. Dies wünschen natürlich auch die Online-Verkäufer und suchen nach neuen Möglichkeiten: etwa detailliertere Produktinformationen oder neue Technologien, die die individuellen Maße der Kunden ermitteln.",
+    "answer": [
+      "a) Gemeinsam kaputte Geräte retten",
+      "b) Kaufsucht überwinden - diese Möglichkeiten gibt es",
+      "c) Neue Besitzer für nicht mehr gebrauchte Gegenstände",
+      "d) Reparatur alter Haushaltsgeräte lohnt oft nicht",
+      "e) Rücksendungen verderben Online-Händlern das Geschäft",
+      "f) Rücksendungen verringern: Händler hoffen auf Lösungen",
+      "g) Studie zeigt, welche Geschenke glücklich machen",
+      "h) Verein mit Preis für Umweltschutz ausgezeichnet",
+      "i) Volle Einkaufstüten machen nur kurze Zeit Freude",
+      "j) Wer Engagement zeigt, steigert sein Glücksgefühl"
+    ],
+    "correct": "f",
+    "id": 133,
+    "correct_position": 6,
+    "source_file": "data5.json"
+  },
+  {
+    "group_name": "UMWELT & TAUSCHEN (Môi trường & Trao đổi)",
+    "text": "Text 4: Keine Lust mehr auf die Konsum-Gesellschaft? Dann könnte es ein erster Schritt sein, den Lieblingspulli zu stopfen statt zu entsorgen. In sogenannten Repair-Cafés können defekte Gegenstände unter fachkundiger Anleitung wieder instandgesetzt werden. 'Damit schonen wir die Umwelt und den Geldbeutel', erklärt Thomas Rederitz. Repair-Cafés verstehen sich als Initiative gegen die Wegwerf-mentalität.",
+    "answer": [
+      "a) Gemeinsam kaputte Geräte retten",
+      "b) Kaufsucht überwinden - diese Möglichkeiten gibt es",
+      "c) Neue Besitzer für nicht mehr gebrauchte Gegenstände",
+      "d) Reparatur alter Haushaltsgeräte lohnt oft nicht",
+      "e) Rücksendungen verderben Online-Händlern das Geschäft",
+      "f) Rücksendungen verringern: Händler hoffen auf Lösungen",
+      "g) Studie zeigt, welche Geschenke glücklich machen",
+      "h) Verein mit Preis für Umweltschutz ausgezeichnet",
+      "i) Volle Einkaufstüten machen nur kurze Zeit Freude",
+      "j) Wer Engagement zeigt, steigert sein Glücksgefühl"
+    ],
+    "correct": "a",
+    "id": 134,
+    "correct_position": 1,
+    "source_file": "data5.json"
+  },
+  {
+    "group_name": "UMWELT & TAUSCHEN (Môi trường & Trao đổi)",
+    "text": "Text 5: Viele Menschen sind erstaunlich großzügig: Sie machen anderen gern Geschenke, spenden Geld für gute Zwecke oder opfern Zeit für ehrenamtliche Tätigkeiten. Eine Studie konnte nun zeigen, dass die Antwort vielleicht ganz einfach ist: Großzügigkeit mache eben glücklich. Dies fanden Forscher der Universität Lübeck heraus. Dieses enge Verknüpfung zwischen großzügigem Verhalten und Glücksgefühl zeige sich auch in Gehirn.",
+    "answer": [
+      "a) Gemeinsam kaputte Geräte retten",
+      "b) Kaufsucht überwinden - diese Möglichkeiten gibt es",
+      "c) Neue Besitzer für nicht mehr gebrauchte Gegenstände",
+      "d) Reparatur alter Haushaltsgeräte lohnt oft nicht",
+      "e) Rücksendungen verderben Online-Händlern das Geschäft",
+      "f) Rücksendungen verringern: Händler hoffen auf Lösungen",
+      "g) Studie zeigt, welche Geschenke glücklich machen",
+      "h) Verein mit Preis für Umweltschutz ausgezeichnet",
+      "i) Volle Einkaufstüten machen nur kurze Zeit Freude",
+      "j) Wer Engagement zeigt, steigert sein Glücksgefühl"
+    ],
+    "correct": "j",
+    "id": 135,
+    "correct_position": 10,
+    "source_file": "data5.json"
+  },
+  {
+    "group_name": "HANDY & FOTO (Điện thoại & Ảnh)",
+    "text": "Text 1: Viele Menschen verursachen sie ein mulmiges Gefühl: Die meisten Schnurlos-Telefone strahlen auch dann, wenn man gar nicht telefoniert. Vor allem DECT-Geräte sind deshalb in die Kritik geraten. Allmählich bieten Hersteller Geräte an, die 'bedingt strahlungsarm' sind. Stehen diese Telefone auf der Ladestation wird die Sendeleistung abgeschaltet oder radikal vermindert.",
+    "answer": [
+      "A. Neue Kinderhandys auf den Markt gebracht",
+      "B. Profi-Tipps für bessere Urlaubsbilder",
+      "C. Moderne schnurlose Geräte vermindern die Strahlenbelastung",
+      "D. Mehr Mut zum Fotografieren!",
+      "E. Handy im Ausland: aufpassen und tricksen!",
+      "F. Kinder-Überwachung für Eltern per Handy wird geplant",
+      "G. Tipps zum Telefonieren mit weniger Strahlung",
+      "H. Der neue Euro-Tarif",
+      "I. Handy-TV zur Fußball-WM 2006",
+      "J. Mobiler Fernsehgenuss wird zum Alltag"
+    ],
+    "correct": "C",
+    "id": 136,
+    "correct_position": 3,
+    "source_file": "data5.json"
+  },
+  {
+    "group_name": "HANDY & FOTO (Điện thoại & Ảnh)",
+    "text": "Text 2: Wenn Kinder ein Handy haben, dann ist das schön und gut. Doch was, wenn der Filius nicht dran geht? Das schreit nach Kontrolle. Und genau die will Motorolas CEO Edward Zander den Eltern über ihre Kinder geben: Sie sollen jederzeit wissen, wo sie sind. Handys mit entsprechender Zensur Software seien bereits in Vorbereitung.",
+    "answer": [
+      "A. Neue Kinderhandys auf den Markt gebracht",
+      "B. Profi-Tipps für bessere Urlaubsbilder",
+      "C. Moderne schnurlose Geräte vermindern die Strahlenbelastung",
+      "D. Mehr Mut zum Fotografieren!",
+      "E. Handy im Ausland: aufpassen und tricksen!",
+      "F. Kinder-Überwachung für Eltern per Handy wird geplant",
+      "G. Tipps zum Telefonieren mit weniger Strahlung",
+      "H. Der neue Euro-Tarif",
+      "I. Handy-TV zur Fußball-WM 2006",
+      "J. Mobiler Fernsehgenuss wird zum Alltag"
+    ],
+    "correct": "F",
+    "id": 137,
+    "correct_position": 6,
+    "source_file": "data5.json"
+  },
+  {
+    "group_name": "HANDY & FOTO (Điện thoại & Ảnh)",
+    "text": "Text 3: Wer unter Palmen liegt, greift gern zum Handy. Doch trotz neuer Preisobergrenzen bleibt das ein teurer Spaß! Bis 30. Juli müssen alle europäischen Mobilfunkanbieter den neuen, Eurotarif' anbieten. Er gilt in allen EU-Staaten und schreibt Preislimits von maximal 49 Cent/Min. für eigene Anrufe bzw. maximal 24 Cent für ankommende Gespräche vor. Die Verbraucherzentrale erklärt, wie Sie richtig wählen. Tipps: Prepaid-Karte und SMS schreiben.",
+    "answer": [
+      "A. Neue Kinderhandys auf den Markt gebracht",
+      "B. Profi-Tipps für bessere Urlaubsbilder",
+      "C. Moderne schnurlose Geräte vermindern die Strahlenbelastung",
+      "D. Mehr Mut zum Fotografieren!",
+      "E. Handy im Ausland: aufpassen und tricksen!",
+      "F. Kinder-Überwachung für Eltern per Handy wird geplant",
+      "G. Tipps zum Telefonieren mit weniger Strahlung",
+      "H. Der neue Euro-Tarif",
+      "I. Handy-TV zur Fußball-WM 2006",
+      "J. Mobiler Fernsehgenuss wird zum Alltag"
+    ],
+    "correct": "E",
+    "id": 138,
+    "correct_position": 5,
+    "source_file": "data5.json"
+  },
+  {
+    "group_name": "HANDY & FOTO (Điện thoại & Ảnh)",
+    "text": "Text 4: Manche Momente muss man einfach festhalten mit einem Foto. Schon mit normalen Digitalkameras lassen sich wunderbare Bilder schießen - mit ein paar Tricks. Abwechslungsreiche Motivwahl: Variieren Sie verschiedene Personen und Orte. Nähe und Distanz: Spielen Sie mit der Nähe zum Objekt. Perspektive und Technik: Nehmen Sie sich Zeit für Porträt- und Landschaftsaufnahmen. Licht und Schatten: Nutzen Sie Vormittags- und Spätnachmittagsstunden, weil das Licht dann besonders weich ist.",
+    "answer": [
+      "A. Neue Kinderhandys auf den Markt gebracht",
+      "B. Profi-Tipps für bessere Urlaubsbilder",
+      "C. Moderne schnurlose Geräte vermindern die Strahlenbelastung",
+      "D. Mehr Mut zum Fotografieren!",
+      "E. Handy im Ausland: aufpassen und tricksen!",
+      "F. Kinder-Überwachung für Eltern per Handy wird geplant",
+      "G. Tipps zum Telefonieren mit weniger Strahlung",
+      "H. Der neue Euro-Tarif",
+      "I. Handy-TV zur Fußball-WM 2006",
+      "J. Mobiler Fernsehgenuss wird zum Alltag"
+    ],
+    "correct": "B",
+    "id": 139,
+    "correct_position": 2,
+    "source_file": "data5.json"
+  },
+  {
+    "group_name": "HANDY & FOTO (Điện thoại & Ảnh)",
+    "text": "Text 5: Es gibt in Deutschland wohl kaum eine bessere Chance für die Einführung von Handy-TV als die Fußball-WM 2006. Doch ein rechtzeitiger Start ist ungewiss. Drei Standards kämpfen darum, das erste deutsche Mobilfernsehen zu sein. In Korea gehört der mobile Fernsehgenuss zum Alltag. Bis zu zwei Stunden täglich schauen Besitzer der kleinen TV-Handys dort unterwegs auf die Mini-Mattscheibe. Handy-TV wird die Fernsehbranche verändern.",
+    "answer": [
+      "A. Neue Kinderhandys auf den Markt gebracht",
+      "B. Profi-Tipps für bessere Urlaubsbilder",
+      "C. Moderne schnurlose Geräte vermindern die Strahlenbelastung",
+      "D. Mehr Mut zum Fotografieren!",
+      "E. Handy im Ausland: aufpassen und tricksen!",
+      "F. Kinder-Überwachung für Eltern per Handy wird geplant",
+      "G. Tipps zum Telefonieren mit weniger Strahlung",
+      "H. Der neue Euro-Tarif",
+      "I. Handy-TV zur Fußball-WM 2006",
+      "J. Mobiler Fernsehgenuss wird zum Alltag"
+    ],
+    "correct": "I",
+    "id": 140,
+    "correct_position": 9,
+    "source_file": "data5.json"
+  },
+  {
+    "group_name": "SÜSSIGKEITEN & THERMEN (Đồ ngọt & Spa)",
+    "text": "Text 1: Bonbons machen Kinder glücklich, und ihre Geschichte reicht weit zurück. Bereits vor über 1.000 Jahren gab es in China, Griechenland und im Römischen Reich Süßigkeiten aus Honig, Blüten und Früchten. Wer mehr über Bonbons erfahren möchte, sollte das Bonbon-Museum in Vaihingen an der Enz besuchen. Dort befindet sich die seit 1828 bestehende Bonbonfabrik Jung.",
+    "answer": [
+      "A. Für unterwegs: Leckereien im Zugrestaurant",
+      "B. In der Stadt der warmen Quellen",
+      "C. Irrtum: Süßes macht doch nicht glücklich",
+      "D. Mitmach-Museum: Bonbons selbst herstellen",
+      "E. Naschen statt wegwerfen",
+      "F. Neues Thermalbad in Rom",
+      "G. Reisen: Die beliebtesten Thermalbäder",
+      "H. Süßwaren mit langer Tradition",
+      "I. Wasser, Wärme, Wellness - antike Badefreuden",
+      "J. Zucker sorgt für Stimmungshoch"
+    ],
+    "correct": "H",
+    "id": 141,
+    "correct_position": 8,
+    "source_file": "data5.json"
+  },
+  {
+    "group_name": "SÜSSIGKEITEN & THERMEN (Đồ ngọt & Spa)",
+    "text": "Text 2: Am Frankfurter Hauptbahnhof können Reisende einen besonderen Snack genießen: Ein 'Ret-Tomat', ein Automat mit abgelaufenen oder bald ablaufenden Schokoriegeln, Chips und anderen Leckereien. Diese Produkte werden günstiger angeboten. Mit diesem Service will die Bahn Ressourcen schützen und auf Lebensmittelverschwendung aufmerksam machen.",
+    "answer": [
+      "A. Für unterwegs: Leckereien im Zugrestaurant",
+      "B. In der Stadt der warmen Quellen",
+      "C. Irrtum: Süßes macht doch nicht glücklich",
+      "D. Mitmach-Museum: Bonbons selbst herstellen",
+      "E. Naschen statt wegwerfen",
+      "F. Neues Thermalbad in Rom",
+      "G. Reisen: Die beliebtesten Thermalbäder",
+      "H. Süßwaren mit langer Tradition",
+      "I. Wasser, Wärme, Wellness - antike Badefreuden",
+      "J. Zucker sorgt für Stimmungshoch"
+    ],
+    "correct": "E",
+    "id": 142,
+    "correct_position": 5,
+    "source_file": "data5.json"
+  },
+  {
+    "group_name": "SÜSSIGKEITEN & THERMEN (Đồ ngọt & Spa)",
+    "text": "Text 3: Die römischen Thermen galten als besondere Prestigebauten, da sie mehrere Badebecken sowie Schwitz- und Dampfbäder boten. Doch sie waren nicht nur Orte der Entspannung, sondern auch wichtige Treffpunkte des gesellschaftlichen Lebens. Der Besuch in einer Therme war eine der beliebtesten Freizeitaktivitäten im alten Rom. Römische Badehäuser waren bekannt für ihren Luxus, mit Mosaikböden und Marmordekorationen.",
+    "answer": [
+      "A. Für unterwegs: Leckereien im Zugrestaurant",
+      "B. In der Stadt der warmen Quellen",
+      "C. Irrtum: Süßes macht doch nicht glücklich",
+      "D. Mitmach-Museum: Bonbons selbst herstellen",
+      "E. Naschen statt wegwerfen",
+      "F. Neues Thermalbad in Rom",
+      "G. Reisen: Die beliebtesten Thermalbäder",
+      "H. Süßwaren mit langer Tradition",
+      "I. Wasser, Wärme, Wellness - antike Badefreuden",
+      "J. Zucker sorgt für Stimmungshoch"
+    ],
+    "correct": "I",
+    "id": 143,
+    "correct_position": 9,
+    "source_file": "data5.json"
+  },
+  {
+    "group_name": "SÜSSIGKEITEN & THERMEN (Đồ ngọt & Spa)",
+    "text": "Text 4: Der Griff zu Süßigkeiten ist weltweit verbreitet, da viele glauben, sie könnten die Stimmung aufhellen oder die Konzentration verbessern. Doch eine Studie zeigt, dass Zucker kaum einen positiven Einfluss auf die Laune hat. Im Gegenteil: Laut Konstantin Georgiou von der Humboldt-Universität sorgt Zucker eher dafür, dass wir uns schlechter fühlen.",
+    "answer": [
+      "A. Für unterwegs: Leckereien im Zugrestaurant",
+      "B. In der Stadt der warmen Quellen",
+      "C. Irrtum: Süßes macht doch nicht glücklich",
+      "D. Mitmach-Museum: Bonbons selbst herstellen",
+      "E. Naschen statt wegwerfen",
+      "F. Neues Thermalbad in Rom",
+      "G. Reisen: Die beliebtesten Thermalbäder",
+      "H. Süßwaren mit langer Tradition",
+      "I. Wasser, Wärme, Wellness - antike Badefreuden",
+      "J. Zucker sorgt für Stimmungshoch"
+    ],
+    "correct": "C",
+    "id": 144,
+    "correct_position": 3,
+    "source_file": "data5.json"
+  },
+  {
+    "group_name": "SÜSSIGKEITEN & THERMEN (Đồ ngọt & Spa)",
+    "text": "Text 5: Wellness und der Besuch von Kurorten und Thermalbädern haben in Ungarn eine lange Tradition. Besonders bekannt ist Budapest, das mit 123 Thermalquellen die größte Kurstadt Europas ist und zugleich als einzige Hauptstadt eines Landes auch ein berühmtes Kurbad beherbergt. In Budapest gibt es mehr als 20 Bäder, von denen viele historisch und architektonisch von großer Bedeutung sind.",
+    "answer": [
+      "A. Für unterwegs: Leckereien im Zugrestaurant",
+      "B. In der Stadt der warmen Quellen",
+      "C. Irrtum: Süßes macht doch nicht glücklich",
+      "D. Mitmach-Museum: Bonbons selbst herstellen",
+      "E. Naschen statt wegwerfen",
+      "F. Neues Thermalbad in Rom",
+      "G. Reisen: Die beliebtesten Thermalbäder",
+      "H. Süßwaren mit langer Tradition",
+      "I. Wasser, Wärme, Wellness - antike Badefreuden",
+      "J. Zucker sorgt für Stimmungshoch"
+    ],
+    "correct": "B",
+    "id": 145,
+    "correct_position": 2,
+    "source_file": "data5.json"
+  },
+  {
+    "group_name": "SCHLAFEN & LICHT (Giấc ngủ & Ánh sáng)",
+    "text": "Text 1: Im Winter ziehen sich viele Tiere in den Winterschlaf zurück, um Energie zu sparen. Während dieser Zeit wird ihr Stoffwechsel langsamer, und ihre Körpertemperatur sinkt. Dies hilft ihnen, über einen längeren Zeitraum ohne Nahrung auszukommen. Beispiele für Tiere, die Winterschlaf halten, sind Igel, Fledermäuse und Murmeltiere.",
+    "answer": [
+      "a) Tiere nutzen Energiesparmodus",
+      "b) Tageslicht fördert Lernfähigkeit",
+      "c) Schlafrhythmus ist wichtig für die Gesundheit",
+      "d) Nächtliches Wandern baut Stress ab",
+      "e) Arbeitzeiten an Sonnenrhythmus anpassen",
+      "f) Dunkelheit ist wichtig für die Melatoninproduktion",
+      "g) Schlafen ist die beste Medizin",
+      "h) Der Zug ist der beste Ort zum Schlafen",
+      "i) Forscher erfordert weniger Zeit Arbeit",
+      "j) Melatonin reguliert den Schlaf-Wach Rhythmus"
+    ],
+    "correct": "a",
+    "id": 146,
+    "correct_position": 1,
+    "source_file": "data5.json"
+  },
+  {
+    "group_name": "SCHLAFEN & LICHT (Giấc ngủ & Ánh sáng)",
+    "text": "Text 2: Laut einer Studie der Universität Leipzig fördert natürliches Licht die Lernfähigkeit von Schülern. Klassenzimmer mit viel Tageslicht sorgen dafür, dass die Schüler aufmerksamer und konzentrierter sind. Die Forscher stellten außerdem fest, dass ausreichend Licht die Stimmung hebt und das Lernklima verbessert.",
+    "answer": [
+      "a) Tiere nutzen Energiesparmodus",
+      "b) Tageslicht fördert Lernfähigkeit",
+      "c) Schlafrhythmus ist wichtig für die Gesundheit",
+      "d) Nächtliches Wandern baut Stress ab",
+      "e) Arbeitzeiten an Sonnenrhythmus anpassen",
+      "f) Dunkelheit ist wichtig für die Melatoninproduktion",
+      "g) Schlafen ist die beste Medizin",
+      "h) Der Zug ist der beste Ort zum Schlafen",
+      "i) Forscher erfordert weniger Zeit Arbeit",
+      "j) Melatonin reguliert den Schlaf-Wach Rhythmus"
+    ],
+    "correct": "b",
+    "id": 147,
+    "correct_position": 2,
+    "source_file": "data5.json"
+  },
+  {
+    "group_name": "SCHLAFEN & LICHT (Giấc ngủ & Ánh sáng)",
+    "text": "Text 3: Ein regelmäßiger Schlafrhythmus ist wichtig für die Gesundheit. Während des Schlafs produziert unser Körper das Hormon Melatonin, das den Schlaf-Wach Rhythmus reguliert. Melatonin unterstützt den Körper dabei, sich zu entspannen, und sorgt für eine erholsame Nacht. Ein gestörter Schlafrhythmus kann jedoch zu Gesundheitsproblemen führen.",
+    "answer": [
+      "a) Tiere nutzen Energiesparmodus",
+      "b) Tageslicht fördert Lernfähigkeit",
+      "c) Schlafrhythmus ist wichtig für die Gesundheit",
+      "d) Nächtliches Wandern baut Stress ab",
+      "e) Arbeitzeiten an Sonnenrhythmus anpassen",
+      "f) Dunkelheit ist wichtig für die Melatoninproduktion",
+      "g) Schlafen ist die beste Medizin",
+      "h) Der Zug ist der beste Ort zum Schlafen",
+      "i) Forscher erfordert weniger Zeit Arbeit",
+      "j) Melatonin reguliert den Schlaf-Wach Rhythmus"
+    ],
+    "correct": "c",
+    "id": 148,
+    "correct_position": 3,
+    "source_file": "data5.json"
+  },
+  {
+    "group_name": "SCHLAFEN & LICHT (Giấc ngủ & Ánh sáng)",
+    "text": "Text 4: In den letzten Jahren ist das nächtliche Wandern in der Natur zu einer beliebten Freizeitaktivität geworden. Gesundheitsexperten empfehlen, diese Praxis nicht zu verbieten, da sie positive Auswirkungen auf die körperliche und geistige Gesundheit hat. Nachts zu wandern hilft, Stress abzubauen, die Sinne zu schärfen und die Verbindung zur Natur zu stärken.",
+    "answer": [
+      "a) Tiere nutzen Energiesparmodus",
+      "b) Tageslicht fördert Lernfähigkeit",
+      "c) Schlafrhythmus ist wichtig für die Gesundheit",
+      "d) Nächtliches Wandern baut Stress ab",
+      "e) Arbeitzeiten an Sonnenrhythmus anpassen",
+      "f) Dunkelheit ist wichtig für die Melatoninproduktion",
+      "g) Schlafen ist die beste Medizin",
+      "h) Der Zug ist der beste Ort zum Schlafen",
+      "i) Forscher erfordert weniger Zeit Arbeit",
+      "j) Melatonin reguliert den Schlaf-Wach Rhythmus"
+    ],
+    "correct": "d",
+    "id": 149,
+    "correct_position": 4,
+    "source_file": "data5.json"
+  },
+  {
+    "group_name": "SCHLAFEN & LICHT (Giấc ngủ & Ánh sáng)",
+    "text": "Text 5: Professor Dr. Thoma Münch von der Universität Freiburg führte eine Studie durch, die den Zusammenhang zwischen Arbeitszeiten, Tageslicht und der Gesundheit von Arbeitnehmern untersuchte. Die Ergebnisse zeigten, dass Menschen, die ihre Arbeitszeiten besser an den natürlichen Sonnenrhythmus anpassen, weniger unter Schlafstörungen und chronischer Müdigkeit leiden. Der Kontakt mit natürlichem Licht reguliert den Hormonhaushalt, insbesondere die Produktion von Melatonin und Serotonin.",
+    "answer": [
+      "a) Tiere nutzen Energiesparmodus",
+      "b) Tageslicht fördert Lernfähigkeit",
+      "c) Schlafrhythmus ist wichtig für die Gesundheit",
+      "d) Nächtliches Wandern baut Stress ab",
+      "e) Arbeitzeiten an Sonnenrhythmus anpassen",
+      "f) Dunkelheit ist wichtig für die Melatoninproduktion",
+      "g) Schlafen ist die beste Medizin",
+      "h) Der Zug ist der beste Ort zum Schlafen",
+      "i) Forscher erfordert weniger Zeit Arbeit",
+      "j) Melatonin reguliert den Schlaf-Wach Rhythmus"
+    ],
+    "correct": "e",
+    "id": 150,
+    "correct_position": 5,
+    "source_file": "data5.json"
+  }
+]
