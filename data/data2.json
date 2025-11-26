@@ -9,7 +9,7 @@
       "C) in Deutschland und in Schweden."
     ],
     "correct": "B",
-    "id": 6,
+    "id": 1,
     "correct_position": 2,
     "source_file": "Lesen Teil 2 letzte update 2025.pdf"
   },
@@ -23,7 +23,7 @@
       "C) Löcher im städtischen Haushalt zu stopfen."
     ],
     "correct": "A",
-    "id": 7,
+    "id": 2,
     "correct_position": 1,
     "source_file": "Lesen Teil 2 letzte update 2025.pdf"
   },
@@ -37,7 +37,7 @@
       "C) konnten nur Münzen annehmen."
     ],
     "correct": "C",
-    "id": 8,
+    "id": 3,
     "correct_position": 3,
     "source_file": "Lesen Teil 2 letzte update 2025.pdf"
   },
@@ -51,7 +51,7 @@
       "C) sind flexibel im Hinblick auf die Art der Bezahlung."
     ],
     "correct": "C",
-    "id": 9,
+    "id": 4,
     "correct_position": 3,
     "source_file": "Lesen Teil 2 letzte update 2025.pdf"
   },
@@ -65,13 +65,16 @@
       "C) werden die höchsten Parkgebühren verlangt."
     ],
     "correct": "C",
-    "id": 10,
+    "id": 5,
     "correct_position": 3,
     "source_file": "Lesen Teil 2 letzte update 2025.pdf"
   },
+
+
+
   {
     "group_name": "Wie unsere Kaufentscheidungen beeinflusst werden (Quyết định mua hàng bị ảnh hưởng thế nào)",
-    "text": "Haben Sie schon einmal darüber nachgedacht, warum Sie manche Dinge kaufen und andere nicht? Warum Sie etwas einkaufen, das Sie gar nicht brauchen, obwohl Sie eigentlich aus einem ganz anderen Grund ins Geschäft gegangen sind? Die Ursache dafür liegt in unserem Körper. Er steuert unsere Entscheidungen viel stärker asl bisher gedacht. Neue Forschungen setzen sich mit diesem Zusammenhang zwischen Körper, Kaufverhalten und Umweltbedingungen auseinander. Nachdem Forscher Studenten über Filme und ihr Fernsehverhalten befragt hatten, fanden Sie Beweise dafür, dass gefühlte Kälte (zum Beispiel im Winter) ein Bedürfnis nach psychologischer Wärme hervorruft. Vorangegangene Studien hatten sich mit der Psychologie der Liebe beschäftigt. Dabei konnte gezeigt werden, dass verliebte Menschen sehr häufig das Gefühl feuchter Hände, gesteigertes Herzklopfen und beschleunigte Atmung wahrnehmen. Das alles sind Anzeichen, die auch mit körperlich erlebter Wärme zusammenhängen. Wenn uns kalt ist, beeinflusst daher unser Bedürfnis nach Wärme zum Beispiel den Kauf von romantischen Filmen auf DVD. Um diesen Zusammenhang zu belegen, manipulierten Forscher in einer Reihe von Experimenten entweder die Temperatur von Tee oder die Raumtemperatur. Kalter Tee oder eine niedrige Raumtemperatur sorgten dafür, dass die Teilnehmer Romantikfilme reizvoller fanden. Dieser Effekt trat unabhängig von Geschlecht und Alter bei allen Menschen auf. Wenn Hersteller also romantische DVDs herausgeben oder Reiseveranstalter \"kuschelige Angebote für Zwei\" verkaufen wollen, sollten sie damit bis zum Herbst oder Winter warten. Das Bedürfnis der Käufer nach diesen Waren ist dann ungleich größer. Aber wenn die Verkaufsräume eines Kaufhauses kühl klimatisiert sind, werden \"wärmende\" Angebote wie zum Beispiel Tee auch im Sommer mehr gekauft. Andere Forschungen befassen sich mit dem Zusammenhang von Menge und Preis. Beim Erstellen von attraktiven Angeboten und Werbeveranstaltungen machen sich regelmäßig Menschen aus unterschiedlichen Bereichen, wie Marketing und Vertrieb, Gedanken über den richtigen Preis und die passenden Werbe-Botschaften. Bisher wenig beachtet wurde die Reihenfolge der Angabe von Preis und Menge. Neue Studien zeigen, dass Konsumenten auf Angebote extrem unterschiedlich reagieren, je nachdem, ob ihnen bei Sonderangeboten zuerst der Preis oder zuerst die Menge genannt wird. Eine neue Studie untersuchte nun die Reaktionen der Konsumenten auf genau diese Reihenfolge. Die Information über eine große Menge vor die Preisinformation zu setzen scheint deutlich reizvoller auf Konsumenten zu wirken als den Preis vor der Menge zu nennen. Außerdem wurde untersucht, was passiert, wenn die Packungen groß oder klein sind und wenn die Preise pro Stück leicht auszurechnen sind. Wenn die Packung groß und der Stückpreis schwierig auszurechnen ist, zeigen sich die Konsumenten eher bereit, die Packung zu kaufen, wenn zuerst die Menge genannt wird. Außerdem sind sie dann der Meinung, dass ein solches Angebot einen guten Einkauf darstelle. Wenn allerdings der Preis zuerst dargestellt wird oder er ein Vielfaches der Stückzahl ausmacht und somit leicht auszurechnen ist (z. B. 5 DVDs für 50 €), tritt das genaue Gegenteil ein. Dies liegt unter anderem daran, dass das menschliche Gehirn Schwierigkeiten hat, große Zahlen zu verarbeiten. Unter Zeitdruck ercheinen uns dann sogar vermeintlich einfache Berechnungen als schwierig. Dann nutzen wir hauptsächlich die erste Information, die wir wahrnehmen, um so den Kauf und seine Vorteile oder Nachteile für uns zu bewerten. Als Kunde begegnen wir also großen Packungen, bei denen zuerst die Menge mitgeteilt wird, und glauben, dass dies ein günstiges Angebot ist. Mit dem neuen Wissen über die Forschungsergebnisse sollten wir aber zumindest ab und zu beim Kauf von größeren Packungen innehalten und noch einmal überlegen, ob es sich wirklich um ein guten Angebot handelt. Aus der Perspektive der Geschäfte muss die Schlussfolgerung allerdings wie folgt lauten: Große Angebote zusammenstellen und erst mit der Menge und dann mit dem Preis werben. Dass diese Strategie funktioniert, lässt sich Tag für Tag im Supermarkt beobachten.",
+    "text": "Haben Sie schon einmal darüber nachgedacht, warum Sie manche Dinge kaufen und andere nicht? Warum Sie etwas einkaufen, das Sie gar nicht brauchen, obwohl Sie eigentlich aus einem ganz anderen Grund ins Geschäft gegangen sind? Die Ursache dafür liegt in unserem Körper. Er steuert unsere Entscheidungen viel stärker asl bisher gedacht. Neue Forschungen setzen sich mit diesem Zusammenhang zwischen Körper, Kaufverhalten und Umweltbedingungen auseinander. Nachdem Forscher Studenten über Filme und ihr Fernsehverhalten befragt hatten, fanden Sie Beweise dafür, dass gefühlte Kälte (zum Beispiel im Winter) ein Bedürfnis nach psychologischer Wärme hervorruft. Vorangegangene Studien hatten sich mit der Psychologie der Liebe beschäftigt. Dabei konnte gezeigt werden, dass verliebte Menschen sehr häufig das Gefühl feuchter Hände, gesteigertes Herzklopfen und beschleunigte Atmung wahrnehmen. Das alles sind Anzeichen, die auch mit körperlich erlebter Wärme zusammenhängen. Wenn uns kalt ist, beeinflusst daher unser Bedürfnis nach Wärme zum Beispiel den Kauf von romantischen Filmen auf DVD. Um diesen Zusammenhang zu belegen, manipulierten Forscher in einer Reihe von Experimenten entweder die Temperatur von Tee oder die Raumtemperatur. Kalter Tee oder eine niedrige Raumtemperatur sorgten dafür, dass die Teilnehmer Romantikfilme reizvoller fanden. Dieser Effekt trat unabhängig von Geschlecht und Alter bei allen Menschen auf. Wenn Hersteller also romantische DVDs herausgeben oder Reiseveranstalter 'kuschelige Angebote für Zwei' verkaufen wollen, sollten sie damit bis zum Herbst oder Winter warten. Das Bedürfnis der Käufer nach diesen Waren ist dann ungleich größer. Aber wenn die Verkaufsräume eines Kaufhauses kühl klimatisiert sind, werden 'wärmende' Angebote wie zum Beispiel Tee auch im Sommer mehr gekauft. Andere Forschungen befassen sich mit dem Zusammenhang von Menge und Preis. Beim Erstellen von attraktiven Angeboten und Werbeveranstaltungen machen sich regelmäßig Menschen aus unterschiedlichen Bereichen, wie Marketing und Vertrieb, Gedanken über den richtigen Preis und die passenden Werbe-Botschaften. Bisher wenig beachtet wurde die Reihenfolge der Angabe von Preis und Menge. Neue Studien zeigen, dass Konsumenten auf Angebote extrem unterschiedlich reagieren, je nachdem, ob ihnen bei Sonderangeboten zuerst der Preis oder zuerst die Menge genannt wird. Eine neue Studie untersuchte nun die Reaktionen der Konsumenten auf genau diese Reihenfolge. Die Information über eine große Menge vor die Preisinformation zu setzen scheint deutlich reizvoller auf Konsumenten zu wirken als den Preis vor der Menge zu nennen. Außerdem wurde untersucht, was passiert, wenn die Packungen groß oder klein sind und wenn die Preise pro Stück leicht auszurechnen sind. Wenn die Packung groß und der Stückpreis schwierig auszurechnen ist, zeigen sich die Konsumenten eher bereit, die Packung zu kaufen, wenn zuerst die Menge genannt wird. Außerdem sind sie dann der Meinung, dass ein solches Angebot einen guten Einkauf darstelle. Wenn allerdings der Preis zuerst dargestellt wird oder er ein Vielfaches der Stückzahl ausmacht und somit leicht auszurechnen ist (z. B. 5 DVDs für 50 €), tritt das genaue Gegenteil ein. Dies liegt unter anderem daran, dass das menschliche Gehirn Schwierigkeiten hat, große Zahlen zu verarbeiten. Unter Zeitdruck ercheinen uns dann sogar vermeintlich einfache Berechnungen als schwierig. Dann nutzen wir hauptsächlich die erste Information, die wir wahrnehmen, um so den Kauf und seine Vorteile oder Nachteile für uns zu bewerten. Als Kunde begegnen wir also großen Packungen, bei denen zuerst die Menge mitgeteilt wird, und glauben, dass dies ein günstiges Angebot ist. Mit dem neuen Wissen über die Forschungsergebnisse sollten wir aber zumindest ab und zu beim Kauf von größeren Packungen innehalten und noch einmal überlegen, ob es sich wirklich um ein guten Angebot handelt. Aus der Perspektive der Geschäfte muss die Schlussfolgerung allerdings wie folgt lauten: Große Angebote zusammenstellen und erst mit der Menge und dann mit dem Preis werben. Dass diese Strategie funktioniert, lässt sich Tag für Tag im Supermarkt beobachten.",
     "question": "Es liegen Untersuchungen darüber vor,",
     "answer": [
       "A) wie stark die Entscheidungen den Körper steuern.",
@@ -137,6 +140,1726 @@
     "correct": "C",
     "id": 10,
     "correct_position": 3,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+
+
+  {
+    "group_name": "Die Deutschen und ihre Ernährung (Người Đức và chế độ dinh dưỡng)",
+    "text": "Bei den Deutschen wächst das Bewusstsein für ihre gesunde Ernährung. Das geht aus einer kürzlich veröffentlichten Studie hervor, bei der 1000 Erwachsene in Deutschland zu ihrem Essverhalten befragt wurden. In dieser Untersuchung antworteten 45% der Befragten auf die Frage, worauf es ihnen bei ihrer Ernährung ankommt, dass sie vor allem gesund essen möchten. Damit steht laut der Studie erstmals das Kriterium 'gesund' vor 'lecker'. In der vorhergehenden Umfrage war das Kriterium 'lecker' den Befragten noch am wichtigsten. Dennoch bleibt der Geschmack ein wichtiges Kriterium: für immerhin 41% aller Befragten kommt es beim Essen auf den Genuss an. Im Vergleich zur Voruntersuchung sind die beiden Kriterien 'Hauptsache schnell' und 'Hauptsache günstig' weniger wichtig geworden: Die Deutschen nehmen sich demnach etwas mehr Zeit für ihre Ernährung und sind auch eher bereit, mehr Geld für gute Lebensmittel auszugeben. Allerdings hat auch das Kriterium Kalorienarm an Bedeutung verloren. Nur mehr 5% gegenüber 9% in der Voruntersuchung denken bei der Wahl von Lebensmitteln an die schlanke Linie. Dazu passt, dass knapp die Hälfte der Befragten selbst angibt, übergewichtig zu sein, und sich sogar als stark übergewichtig bezeichnen. Gesundheitspsychologen führen das darauf zurück, dass häufig die Zeit für den Einkauf und die Zubereitung von frischen Lebensmitteln fehlt; die Menschen griffen dann aus Bequemlichkeit zu Fertiggerichten oder Snacks, die häufig zu viel Fett, Salz oder Zucker enthalten. Dabei ließen sich durch die Ernährung viele Risikofaktoren reduzieren, betonten die Experten. An mangelndem Wissen scheint das nicht zu liegen – nur ein Viertel der Befragten gab an, nicht genug über gesunde Ernährung zu wissen. Dennoch forderten einige Fachleute bessere Verbraucherinformationen. Sie warfen der Bundesregierung vor, es fehle offensichtlich an dem politischen Willen, sich mit der Branche anzulegen. Die gesunde Wahl werde unnötig schwer gemacht. Ein Großteil der Erfrischungsgetränke sei überzuckert, die Kennzeichnung von Fett, Zucker und Salz sei eine Zumutung, und selbst Süßigkeiten würden wie gesunde Produkte beworben. Deshalb sehen diese Fachleute die Industrie und Politik in der Pflicht. Ihr Argument lautet, das Problem sei nicht, ob vegetarische Produkte Wurst oder Frikadelle heißen dürfen, sondern ob der Verbraucher weiß, was an Zutatenstoffen in seiner vermeintlich gesunden Alternative steckt. Die Studienergebnisse zeigen, dass es im Umgang mit Lebensmitteln erhebliche Unterschiede zwischen den Altersgruppen gibt. So herrscht bei Jüngeren eine vergleichsweise starke Wegwerfmentalität. Bei 14% der 18- bis 25-Jährigen landet häufig oder sogar sehr häufig Essen im Müll. Nur bei jedem zweiten aus dieser Altersgruppe passiert das selten oder nie. Bei den Älteren ab Mitte 60 entsorgen dagegen 60% selten oder nie Lebensmittel in den Müll. Insgesamt wirft mehr als jeder dritte Deutsche regelmäßig Lebensmittel weg. Auch der Fleischkonsum unterscheidet sich je nach Altersgruppe: Unter den 18- bis 29-Jährigen ist der Anteil jener, die auf Fleisch verzichten, höher als in der Gesamtbevölkerung. 10% bezeichnen sich als Vegetarier und 2% als Veganer. In Deutschland bezeichnen sich 10% der Menschen als Flexitarier, Flexitarier kaufen meist selbst weder Fleisch noch Wurst, lehnen es aber auch nicht vollständig ab, wenn es ihnen angeboten wird. Bioprodukte spielen mittlerweile eine große Rolle. Von den Befragten gaben 40% an, bevorzugt Lebensmittel mit Bio-Siegel zu kaufen; vor einigen Jahren gab nur ein Drittel der Befragten an, im Geschäft zu biologisch hergestellten Lebensmitteln zu greifen.",
+    "question": "Die meisten Befragten finden, dass das Essen",
+    "answer": [
+      "A) früher besser war.",
+      "B) gesund sein sollte.",
+      "C) vor allem gut schmecken muss."
+    ],
+    "correct": "B",
+    "id": 11,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Die Deutschen und ihre Ernährung (Người Đức và chế độ dinh dưỡng)",
+    "text": "(Tiếp tục nội dung bài đọc Ernährung)",
+    "question": "Das Kriterium kalorienarm",
+    "answer": [
+      "A) ist für die Hälfte der Befragten wichtig.",
+      "B) steht bei Übergewichtigen an erster Stelle.",
+      "C) war früher wichtiger."
+    ],
+    "correct": "C",
+    "id": 12,
+    "correct_position": 3,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Die Deutschen und ihre Ernährung (Người Đức và chế độ dinh dưỡng)",
+    "text": "(Tiếp tục nội dung bài đọc Ernährung)",
+    "question": "Experten glauben, dass Menschen ungesund essen, weil",
+    "answer": [
+      "A) ihnen Fett und Zucker gut schmecken.",
+      "B) sie sich nicht genug informieren.",
+      "C) zu viele ungesunde Lebensmittel auf dem Markt sind."
+    ],
+    "correct": "C",
+    "id": 13,
+    "correct_position": 3,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Die Deutschen und ihre Ernährung (Người Đức và chế độ dinh dưỡng)",
+    "text": "(Tiếp tục nội dung bài đọc Ernährung)",
+    "question": "Das Wegwerfen von Lebensmitteln",
+    "answer": [
+      "A) findet ein Drittel der Befragten in Ordnung.",
+      "B) lehnen jüngere Menschen vollkommen ab.",
+      "C) passiert bei älteren Menschen fast nie."
+    ],
+    "correct": "C",
+    "id": 14,
+    "correct_position": 3,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Die Deutschen und ihre Ernährung (Người Đức và chế độ dinh dưỡng)",
+    "text": "(Tiếp tục nội dung bài đọc Ernährung)",
+    "question": "Der Fleischkonsum",
+    "answer": [
+      "A) ist nicht in allen Altersgruppen gleich.",
+      "B) kommt für dreizehn Prozent der Jugendlichen nicht in Frage.",
+      "C) nimmt mit dem Alter zu."
+    ],
+    "correct": "A",
+    "id": 15,
+    "correct_position": 1,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+
+
+
+  {
+    "group_name": "Verpackungen im Supermarkt: Geht's auch ohne? (Bao bì trong siêu thị: Có thể không dùng được không?)",
+    "text": "Auf dem Weg zum Supermarkt klappern bei manchen Kunden im Ruhrpott und in Baden-Württemberg seit kurzem die Plastikdosen in den Einkaufstaschen. Noch sind sie leer, denn die Kunden können sich nun an der Frischetheke Wurst und Käse in die mitgebrachte Dose packen lassen. Dieser Trend, der inzwischen auch von konventionellen Supermärkten aufgegriffen wird, wurde von den sogenannten 'Unverpackt-Läden' angestoßen, in denen man Lebensmittel in eigene Behälter füllen kann. Mittlerweile gibt es mehr als 50 dieser vollständig verpackungsfreien Geschäfte, in Deutschland meist in den Großstädten. Doch noch ist der Einkauf in diesen Läden oft teurer, da die Händler nicht zu den gleichen günstigen Konditionen einkaufen können wie die Großmärkte. Der Vorteil: Die Waren sind meist bio und tragen unverpackt zur Reduzierung des Plastikmülls bei. Außerdem nimmt man für gewöhnlich nur so viel mit, wie man tatsächlich braucht, und verschwendet weniger Lebensmittel. Dieses Konzept interessiert zwar immer mehr Leute, die gerne ihren täglichen Müll verringern würden. Für viele sind Aufwand und Kosten aber bisher noch zu hoch. Also beginnt der Verzicht auf Plastik im Kleinen. Von einer Dokumentation über einen Unverpackt-Laden in Berlin hat sich auch Kaufmann Dieter Hieber inspirieren lassen. Er ist Inhaber von zwölf Supermärkten in Baden-Württemberg. Im vorigen Jahr hat er sich vorgenommen, in seinen Supermärkten Alternativen zu Plastikverpackungen anzubieten. In der Obst- und Gemüseecke sollen die Kunden ihre Einkäufe künftig in recycelten Netzen verstauen können und das Brot darf man in den eigenen Jutebeutel packen. Ware von der Frischetheke kann der Kunde in seine eigene mitgebrachte Dose einpacken lassen. 'Ich habe noch nicht für alles eine Patentlösung', sagt Hieber, 'Aber ich möchte unbedingt in verschiedenen Bereichen plastikfreie Mehrweg-Verpackungen anbieten'. Der Weg ist jedoch weit, wenn Lebensmittel wieder in ihrer ursprünglichen Form angeboten werden sollen. Als Hieber die Ideen seinen Mitarbeitern vorstellte, waren diese zunächst schwer davon zu überzeugen: Das erlauben die Hygienebestimmungen nicht, wandten sie ein. Tatsächlich gibt es bundesweit aber gar keine einheitliche Empfehlung dazu, ob und in welcher Form die Dosen der Kunden angenommen werden dürfen. Ideen müssen individuell mit der örtlich zuständigen Lebensmittelüberwachung besprochen werden. 'Die Lebensmittelunternehmen sind selbst verantwortlich für die Hygiene in ihren Märkten', sagt eine Mitarbeiterin der Lebensmittelüberwachung im Kreis Wesel. Wie gut das Verfahren in der Praxis funktioniert, muss die Erfahrung zeigen. Für Hieber ist der Verzicht auf Plastikmüll eher eine Frage der Überzeugung als des Gewinns. Obwohl die Reaktionen auf seine Vorhaben fast ausschließlich positiv waren, wird das Angebot noch kaum genutzt. Es ist nicht nur ein Kampf gegen Plastik, sondern auch ein Kampf gegen die Bequemlichkeit der Kunden. Von mehreren Tausend Kunden reichen am Tag nur fünf bis zehn ihre Plastikbox über die Theke. Er überlegt, künftig zusätzlich Mehrwegbehälter im Pfandsystem anzubieten. Der Einkauf ohne Verpackung wird also doch nicht flächendeckend möglich sein, da er auch längerfristig nicht leicht umzusetzen ist. Der Kompromiss heißt zumeist: Verpackungen reduzieren. Und es bleibt festzustellen: Ob unverpackt eingekauft wird, hängt vor allem von der Kundschaft ab.",
+    "question": "Unverpackte Waren werden",
+    "answer": [
+      "A) in Großmärkten zu günstigen Bedingungen verkauft.",
+      "B) nur in speziellen Läden verkauft.",
+      "C) von den Kunden meist vollständig verbraucht."
+    ],
+    "correct": "C",
+    "id": 16,
+    "correct_position": 3,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Verpackungen im Supermarkt: Geht's auch ohne? (Bao bì trong siêu thị: Có thể không dùng được không?)",
+    "question": "Supermarktinhaber Dieter Hieber",
+    "answer": [
+      "A) konnte seine Angestellten sofort mit seinen Ideen begeistern.",
+      "B) möchte mehr umweltfreundliche Verpackungen verwenden.",
+      "C) will in seinen Supermärkten auf Einwegverpackungen ganz verzichten."
+    ],
+    "correct": "B",
+    "id": 17,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Verpackungen im Supermarkt: Geht's auch ohne? (Bao bì trong siêu thị: Có thể không dùng được không?)",
+    "question": "Die Verwendung von Frischhaltedosen in Supermärkten",
+    "answer": [
+      "A) ist eigentlich aus hygienischen Gründen verboten.",
+      "B) könnte eine praktikable Möglichkeit sein, Müll zu vermeiden.",
+      "C) wird genau durch gesetzliche Vorgaben geregelt."
+    ],
+    "correct": "B",
+    "id": 18,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Verpackungen im Supermarkt: Geht's auch ohne? (Bao bì trong siêu thị: Có thể không dùng được không?)",
+    "question": "Hiebers Angebot, Mehrwegbehälter zu nutzen,",
+    "answer": [
+      "A) ist nun dank eines Bonussystems erfolgreicher.",
+      "B) nehmen Kunden auch bei spontanen Einkäufen an.",
+      "C) rief allgemeine Zustimmung hervor."
+    ],
+    "correct": "C",
+    "id": 19,
+    "correct_position": 3,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Verpackungen im Supermarkt: Geht's auch ohne? (Bao bì trong siêu thị: Có thể không dùng được không?)",
+    "question": "Das verpackungsfreie Einkaufen wird",
+    "answer": [
+      "A) bald in allen Supermärkten Realität sein.",
+      "B) künftig von allen Verbrauchern genutzt werden.",
+      "C) sich nur langsam durchsetzen."
+    ],
+    "correct": "C",
+    "id": 20,
+    "correct_position": 3,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  }
+,
+  {
+    "group_name": "Der Fluch der Informationszeitalters (Lời nguyền của thời đại thông tin/Trí nhớ)",
+    "text": "Melanie Hoffmann ist Gedächtnistrainerin. Seit fast zehn Jahren bietet sie nun schon Seminare an Volkshochschulen, in Altenheimen, in Banken, Industriebetrieben an, in denen die Seminarteilnehmer lernen sollen, wie sie Informationen besser im Gedächtnis behalten. Suma Hartmann ist 30 Jahre alt, Bürokauffrau und eine von Melanie Hoffmanns Seminarteilnehmerinnen. 'An meinem Arbeitsplatz bekomme ich ständig Massen von neuen Informationen: Texte, die zu lesen sind, Termine, Anrufe, Anfragen von Kunden, Kurzinfos von Kollegen: Diese Informationsflut zu bewältigen und möglichst nichts zu vergessen, ist fast ausgeschlossen', so Hartmann. Wie ihr geht es vielen Menschen in unserer Informationsgesellschaft – und das quer durch alle Altersstufen: vom Schüler bis zum Rentner. Sie fühlen sich den Anforderungen an ihr Gedächtnis nicht mehr gewachsen, und daher besuchen sie Trainingskurse wie die von Melanie Hoffmann. Während jeder Sekunde, die Suma Hartmann im Trainingsseminar, am Arbeitsplatz oder zu Hause verbringt, nimmt sie über ihre 'Eingangskanäle' – die Augen, die Ohren, die Nase, den Mund, die Haut – um die zwei Millionen kleinste Informationen unbewusst auf. Würde sie sich all diese Informationen bewusst merken wollen, wäre – wenn man die Sprache der Computerwelt zu Hilfe nimmt – innerhalb kürzester Zeit 'der Speicher voll'. Damit dies nicht passiert, vergisst man fast alle Informationseinheiten innerhalb der nächsten 20 Sekunden wieder – und schafft damit Platz für neue Informationen. Erst nach etwa 20 Minuten behalten wir etwas auf lange Zeit. Dann haben die Nervenzellen im Gehirn eine neue Verbindung hergestellt, eine Synapse gebildet – und wir behalten etwas, statt es gleich wieder zu vergessen. Die Trainerin Melanie Hoffmann sagt: 'Starke Sinneseindrücke, die mit Emotionen behaftet sind, behält man ebenso wie das, was interessant ist.' In unserer heutigen Informationsgesellschaft ist es wichtig, die auf uns einströmende Informationsflut zu bündeln. Daten und Begriffe zu gruppieren, sie an Bildern oder Gegenständen festzumachen und sich so 'Eselsbrücken' zu bauen, die dabei helfen, mehr im Gedächtnis zu behalten. Suma Hartmann 'sortiert' jetzt im Geiste alle wichtigen Informationen in bestimmte Schubladen ihres Aktenschrankes in ihrem Büro. 'Ich habe mir Zahlensymbole ausgedacht, mit denen ich die neuen Informationen bildlich verknüpfe: Die Eins wird zur Kerze, die Zwei zum Schwan usw.. Wenn ich nun nicht vergessen möchte, um zwei Uhr eine bestimmte Konferenz vorzubereiten, denke ich mir meine Konferenzmappe im Schnabel des Schwans. Und es funktioniert: Ich vergesse viel weniger'.",
+    "question": "Melanie Hoffmanns Seminare besuchen",
+    "answer": [
+      "A) ausschließlich Frauen, die im Büro arbeiten.",
+      "B) junge und alte Menschen gleichermaßen.",
+      "C) überwiegend alte Menschen."
+    ],
+    "correct": "B",
+    "id": 21,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Der Fluch der Informationszeitalters (Lời nguyền của thời đại thông tin/Trí nhớ)",
+    "text": "(Tiếp tục nội dung bài đọc Gedächtnistraining)",
+    "question": "Die Teilnehmer besuchen Frau Hoffmanns Seminar, weil sie",
+    "answer": [
+      "A) das Gefühl haben, dass ihr Gedächtnis schlechter wird.",
+      "B) immer mehr vergessen.",
+      "C) sich von den vielen Informationen überfordert fühlen."
+    ],
+    "correct": "C",
+    "id": 22,
+    "correct_position": 3,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Der Fluch der Informationszeitalters (Lời nguyền của thời đại thông tin/Trí nhớ)",
+    "text": "(Tiếp tục nội dung bài đọc Gedächtnistraining)",
+    "question": "Jeder Mensch",
+    "answer": [
+      "A) kann sich alle erdenklichen Geräusche und Gerüche merken.",
+      "B) kann über einen Zeitraum von 20 Minuten alles behalten.",
+      "C) vergisst die meisten Informationen innerhalb kürzester Zeit."
+    ],
+    "correct": "C",
+    "id": 23,
+    "correct_position": 3,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Der Fluch der Informationszeitalters (Lời nguyền của thời đại thông tin/Trí nhớ)",
+    "text": "(Tiếp tục nội dung bài đọc Gedächtnistraining)",
+    "question": "Besonders gut kann man sich",
+    "answer": [
+      "A) als Kind etwas merken.",
+      "B) an Daten und Begriffe erinnern.",
+      "C) emotional aufgeladene Situationen merken."
+    ],
+    "correct": "C",
+    "id": 24,
+    "correct_position": 3,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Der Fluch der Informationszeitalters (Lời nguyền của thời đại thông tin/Trí nhớ)",
+    "text": "(Tiếp tục nội dung bài đọc Gedächtnistraining)",
+    "question": "Suma Hartmann",
+    "answer": [
+      "A) lehrt andere, wie man sich 'Eselsbrücken' ausdenkt.",
+      "B) verbindet Informationen mit Bildern.",
+      "C) verwendet für ihre Aktenablage nur Tiersymbole."
+    ],
+    "correct": "B",
+    "id": 25,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+
+
+  {
+    "group_name": "Familienglück oder Generationskonflikte? (Hạnh phúc gia đình hay mâu thuẫn thế hệ?)",
+    "text": "In der öffentlichen Beschreibung kennt man die Familie oft als Problemzone. Bestsellerautoren suggerieren der Öffentlichkeit, Eltern seien zum Erziehen heute kaum noch in der Lage; Berichte über steigende Scheidungsraten, Verwahrlosung und Jugendkriminalität verstärken ebenfalls den Eindruck, um die Familien sei es nicht gut bestellt. Tatsächlich hat sich Erziehung in den letzten Jahrzehnten grundlegend gewandelt. In vielerlei Hinsicht allerdings eher zum Guten als zum Schlechten. Wie lebt es sich heute in der Familie? Ausgesprochen gut, in den meisten Fällen sogar recht kuschelig. Das legen zumindest Umfragen und Statistiken über die Familienwirklichkeit nahe. Sie zeigen ein erfreulich positives Bild, nach dem sich die Familie in den vergangenen Jahrzehnten sehr gut entwickelt hat. Das gilt für die materiellen Bedingungen, in denen die meisten Eltern und Kinder heute leben, wie auch für das Ansehen, das die Familie in der Gesellschaft genießt. Den größten Fortschritt habe aber das gemeinsame Zusammenleben gemacht, sagen Experten: 'Es gibt kaum noch wirkliche Konflikte zwischen den Generationen'. Dass heute 67 Prozent der 16-bis 29-Jährigen angeben, sie hätten eine glückliche Kindheit, während es bei den über 60-Jährigen nur 50 Prozent sind, kann zwar sicher nicht nur auf den Wandel der Erziehung zurückgeführt werden. Aber fast alle Jugendlichen geben heute an, dass sie ein gutes Verhältnis zu den Eltern haben. Genauso viele glauben, dass man eine Familie braucht, um wirklich glücklich leben zu können. Die Eltern sehen es übrigens kaum anders. Von ihnen berichten 74 Prozent von Harmonie, Wärme und Geborgenheit im Zusammenleben. Vor 40 Jahren fanden viele Jugendliche ihre Eltern noch spießig... Heute gleichen sich die Lebensstile und die Wertvorstellungen. So entspannt ist der Umgang zwischen Jung und Alt geworden. Gerade Großeltern haben noch nie zuvor für ihre Enkel eine so große Bedeutung. Mit den Lebenseinstellungen wandelten sich die Erziehungsvorstellungen. Erwachsene nehmen mehr Rücksicht auf die Bedürfnisse von Kindern. Statt eines autoritären Umgangs mit den Kindern pflegen die meisten Familien den Verhandlungsstil, wie es Pädagogen nennen. Besonders Väter profitieren von der neuen Nähe zu ihren Kindern. Mütter mit Kindern heute doppelt so häufig berufstätig sind wie noch vor 40 Jahren. Trotzdem haben sie nicht weniger Zeit für ihre Kinder, weil sie den Haushalt dank moderner Technik schneller erledigen. Heute ist es eine Dreiviertelstunde mehr als 1990. Auch der Eindruck, dass Familien sich nicht mehr täglich um den gedeckten Tisch versammeln, um sich untereinander auszutauschen, stimmt nicht. Heute dauern die bewusst inszenierten Zusammentreffen von Jung und Alt um Suppenschüssel oder Nudeltopf sogar länger als noch vor 20 Jahren.",
+    "question": "Etwa die Hälfte der Senioren über 60 gibt an, dass sie",
+    "answer": [
+      "A) ihre Kinder strenger erziehen würden.",
+      "B) die geänderten Erziehungsmethoden begrüßen.",
+      "C) als Kind glücklich waren."
+    ],
+    "correct": "C",
+    "id": 26,
+    "correct_position": 3,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Familienglück oder Generationskonflikte? (Hạnh phúc gia đình hay mâu thuẫn thế hệ?)",
+    "text": "(Tiếp tục nội dung bài đọc Familienglück)",
+    "question": "Die meisten Jugendlichen",
+    "answer": [
+      "A) verstehen sich mit ihren Eltern gut.",
+      "B) haben keine Meinung zu Erziehungsfragen.",
+      "C) denken, dass man auch ohne Familie glücklich sein kann."
+    ],
+    "correct": "A",
+    "id": 27,
+    "correct_position": 1,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Familienglück oder Generationskonflikte? (Hạnh phúc gia đình hay mâu thuẫn thế hệ?)",
+    "text": "(Tiếp tục nội dung bài đọc Familienglück)",
+    "question": "Heute gibt es zwischen Eltern und Kindern",
+    "answer": [
+      "A) Konflikte wegen unterschiedlicher Werte.",
+      "B) kaum Unterschiede in der Lebensart.",
+      "C) immer wieder Probleme wegen zu engen Wohnraums."
+    ],
+    "correct": "B",
+    "id": 28,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Familienglück oder Generationskonflikte? (Hạnh phúc gia đình hay mâu thuẫn thế hệ?)",
+    "text": "(Tiếp tục nội dung bài đọc Familienglück)",
+    "question": "Mütter haben heute mehr Zeit für ihre Kinder, weil",
+    "answer": [
+      "A) sie in der Arbeit weniger Stress haben.",
+      "B) Geräte die Hausarbeit leichter machen.",
+      "C) die Großeltern ihnen Arbeit abnehmen."
+    ],
+    "correct": "B",
+    "id": 29,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Familienglück oder Generationskonflikte? (Hạnh phúc gia đình hay mâu thuẫn thế hệ?)",
+    "text": "(Tiếp tục nội dung bài đọc Familienglück)",
+    "question": "In der Öffentlichkeit",
+    "answer": [
+      "A) wird der Wandel in der Erziehung nicht wahrgenommen.",
+      "B) ist das Thema Familie nicht interessant.",
+      "C) entsteht oft ein falsches Bild der Familie."
+    ],
+    "correct": "C",
+    "id": 30,
+    "correct_position": 3,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+
+
+  {
+    "group_name": "Ein Leben für den Kaffee (Một cuộc đời vì cà phê)",
+    "text": "Vor 50 Jahren gab es in der Hansestadt Bremen ungefähr 300 traditionelle Kaffeeröstereien. Diese importierten die Kaffeebohnen selbst, stellten den Kaffee tagefrisch her und verkauften ihn im eigenen Geschäft. Heute, da der Kaffee zumeist von internationalen Kaffeegesellschaften produziert und in Supermärkten verkauft wird, sind in Deutschland nur noch eine Handvoll Kleinröstereien übrig geblieben. Eine davon ist die Kaffeerösterei Münchhausen. Münchhausen importiert seinen Kaffee direkt von Kleinbauern in Lateinamerika. Dabei wird streng auf fairen Handel geachtet, das heißt, die Kaffeebauern werden für ihre anstrengende Arbeit angemessen entlohnt. Damit unterstützt der Importeur zugleich den Kaffeeanbau nach ökologischen Gesichtspunkten. Kaffee aus Großplantagen, oft mit Pestiziden und Insektiziden belastet, ist zwar billiger, aber Qualität und Reinheit des Kaffees werden bei der Kaffeerösterei Münchhausen ganz großgeschrieben. Der Kaffee wird nach alter Familientradition hergestellt. Täglich werden die Kaffeebohnen in kleinen Mengen frisch geröstet, gerade so viele, wie an einem Tag verkauft werden. Denn nur so behalten sie ihr Aroma und der Kaffee verliert nicht an Geschmack. Zuerst werden die Kaffeebohnen in der in den 50er Jahren angeschafften Rösttrommel ungefähr zehn Minuten lang bei Temperaturen von über 200 Grad Celsius geröstet. Dabei verlieren die Kaffeebohnen zwar ein Sechstel ihres Gewichts, ihr Volumen vergrößert sich aber gleichzeitig um etwa ein Drittel. Sind die Bohnen dunkel genug – sie dürfen genauso wenig zu dunkel sein, werden sie auf den Verlesetisch geschüttet, wo von Hand die guten von den schlechten Kaffeebohnen getrennt werden. Danach erst werden aus den gerösteten Kaffeebohnen verschiedene Mischungen hergestellt, die dann im Kontor, dem Geschäftsraum der Rösterei, fast ausschließlich an langjährige Stammkunden verkauft werden. Aber auch über das Internet vertreibt die Kaffeerösterei Münchhausen ihr Kaffeeangebot deutschlandweit. Bis zu seinem Tod kurz vor seinem dreiundneunzigsten Geburtstag führte August Münchhausen seinen Familienbetrieb, dann übernahm seine Tochter die Firma, inzwischen ist auch die Enkelin beteiligt. Die Frauen planen, aus der Kaffeerösterei ein Museum zu machen, um der Nachwelt die traditionelle Kunst des Kaffeeröstens zeigen zu können.",
+    "question": "In Deutschland",
+    "answer": [
+      "A) existiert eine Vielzahl von Kaffeeröstereien.",
+      "B) gibt es nur noch wenige traditionelle Kaffeeröstereien.",
+      "C) handeln nur noch internationale Gesellschaften mit Kaffee."
+    ],
+    "correct": "B",
+    "id": 31,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Ein Leben für den Kaffee (Một cuộc đời vì cà phê)",
+    "text": "(Tiếp tục nội dung bài đọc Kaffee)",
+    "question": "Für die Kaffeerösterei Münchhausen",
+    "answer": [
+      "A) ist es nicht von Bedeutung, ob der Kaffee von Kleinbauern oder Großplantagen kommt.",
+      "B) spielt der günstige Einkaufspreis eine wichtige Rolle.",
+      "C) steht eher die Qualität des Kaffees als der Preis im Vordergrund."
+    ],
+    "correct": "C",
+    "id": 32,
+    "correct_position": 3,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Ein Leben für den Kaffee (Một cuộc đời vì cà phê)",
+    "text": "(Tiếp tục nội dung bài đọc Kaffee)",
+    "question": "Kaffeebohnen",
+    "answer": [
+      "A) dürfen nach dem Rösten zwar zu dunkel sein, aber nicht zu hell.",
+      "B) können nach der Röstung ohne Geschmacksverlust lange Zeit gelagert werden.",
+      "C) müssen nach dem Rösten handverlesen werden, um eine gleichbleibend hohe Qualität zu gewährleisten."
+    ],
+    "correct": "C",
+    "id": 33,
+    "correct_position": 3,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Ein Leben für den Kaffee (Một cuộc đời vì cà phê)",
+    "text": "(Tiếp tục nội dung bài đọc Kaffee)",
+    "question": "Die gerösteten Kaffeebohnen werden",
+    "answer": [
+      "A) im Kontor nur an Stammkunden angegeben.",
+      "B) in Handarbeit gemischt.",
+      "C) zusätzlich online vermarktet."
+    ],
+    "correct": "C",
+    "id": 34,
+    "correct_position": 3,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Ein Leben für den Kaffee (Một cuộc đời vì cà phê)",
+    "text": "(Tiếp tục nội dung bài đọc Kaffee)",
+    "question": "In Zukunft wollen die Besitzer",
+    "answer": [
+      "A) die Kaffeerösterei in ein Museum umwandeln.",
+      "B) ein Museum über den Kaffeeanbau eröffnen.",
+      "C) keinen Röstkaffee mehr verkaufen."
+    ],
+    "correct": "A",
+    "id": 35,
+    "correct_position": 1,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+
+
+
+  {
+    "group_name": "Müdigkeit und juckende Augen - Arbeit in Großraumbüros (Mệt mỏi và ngứa mắt - Làm việc trong văn phòng lớn)",
+    "text": "Was wir Arbeitenden im Großraumbüro immer schon ahnten, haben Schweizer Forscher nun erstmals auf breiter wissenschaftlicher Basis nachgewiesen: Großraum ist schlecht. Zumindest für diejenigen, die im Großraum arbeiten müssen. Gut 1200 Beschäftigte aus unterschiedlichsten Berufen hat die Hochschule in Luzern befragt. Die Ergebnisse der Erhebung sind eindeutig. Beispiel Lärm: In Büros mit mehr als 16 Mitarbeitern fühlen sich 80% der Befragten regelmäßig durch Gespräche oder Telefonate gestört, in Zweierbüros sind es nicht mal 30%. Auch was die alltäglichen Büroprobleme betrifft, ist der Großraum von Nachteil. Einerlei, wonach die Forscher nun fragten, ob nach Müdigkeit, Schweregefühl im Kopf, juckende Augen oder verstopfte Nase – immer litten Mitarbeiter im Großraumbüro am stärksten. Wundert da, dass vier von zehn Großraumbeschäftigten mit ihrer Bürosituation im Allgemeinen 'sehr oder gar außerordentlich unzufrieden' sind? Zum Vergleich: Acht von zehn Arbeitnehmern mit Einzelbüro geben an, sie seien 'ziemlich, sehr oder fast 50% außerordentlich zufrieden'. 'Einzelbüros für alle' müsste die Lösung lauten, doch der Trend geht in die andere Richtung: Offene Raumstrukturen nehmen zu. Kritiker dieser Entwicklung sehen dahinter vor allem einen Grund: Arbeitgeber wollen die Mieten und Heizkosten niedrig halten. Aber zumindest ein Argument dürfte auch die Arbeitgeber interessieren: Der Schweizer Studie zufolge ist die Zahl der Krankheitstage bei Beschäftigten in Großraumbüros deutlich höher als bei anderen. Die deutsche Sehnsucht nach dem Einzelbüro: Das Einzelzimmer war fester Bestandteil der deutschen Bürokultur. Verglichen mit den Beschäftigten in anderen Ländern, sitzen wir sehr bequem. Deutsche Angestellte haben im internationalen Vergleich den meisten Platz: durchschnittlich 30 Quadratmeter Mietfläche pro Kopf. Im angelsächsischen Raum gibt es viel mehr Großraumbüros als bei uns. In London, wo Büroraum weltweit mit am teuersten ist, ist etwa eine Zusammenarbeit auf eine Fläche von 600 Quadratmetern und mehr ganz normal. Häufig teilen sich sogar mehrere Mitarbeiter einen Arbeitsplatz. Robert Menke erkennt auch in Deutschland 'in einigen Bereichen eine Amerikanisierung des Büroraumes'. Banken und Unternehmer im Telekommunikationssektor wären da vorne dabei. Doch das sind noch Ausnahmen. Nach wie vor arbeiten die meisten Angestellten entweder in kleinen Gruppen in etwas größeren Büros oder in 'Einzelzellen'. Laut der Studie überlegen zwar 40% der befragten Unternehmer, ihre Großraumflächen zu erweitern oder die Arbeitsplätze flexibel zu gestalten, aber 'richtige Großraumbüros gibt es eher selten', sagt Menke.",
+    "question": "Eine Studie aus der Schweiz...",
+    "answer": [
+      "A) belegt, dass die Mitarbeiter sich über Lärm im Großraumbüro beklagen.",
+      "B) brachte keine eindeutigen Ergebnisse zur Zufriedenheit mit unterschiedlichen Büroformen.",
+      "C) zeigt, dass Mitarbeiter in Großraumbüros seltener krank sind als andere."
+    ],
+    "correct": "A",
+    "id": 36,
+    "correct_position": 1,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Müdigkeit und juckende Augen - Arbeit in Großraumbüros (Mệt mỏi và ngứa mắt - Làm việc trong văn phòng lớn)",
+    "text": "(Tiếp tục nội dung bài đọc Großraumbüros)",
+    "question": "Großraumbüros...",
+    "answer": [
+      "A) reduzieren den Krankenstand.",
+      "B) sind kostengünstiger zu beheizen.",
+      "C) werden immer seltener."
+    ],
+    "correct": "B",
+    "id": 37,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Müdigkeit und juckende Augen - Arbeit in Großraumbüros (Mệt mỏi và ngứa mắt - Làm việc trong văn phòng lớn)",
+    "text": "(Tiếp tục nội dung bài đọc Großraumbüros)",
+    "question": "Die deutschen Angestellten...",
+    "answer": [
+      "A) bevorzugen Einzelbüros.",
+      "B) genießen eine individuell ausgewählte Büromöblierung.",
+      "C) leiden unter zu engen Einzelbüros."
+    ],
+    "correct": "A",
+    "id": 38,
+    "correct_position": 1,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Müdigkeit und juckende Augen - Arbeit in Großraumbüros (Mệt mỏi và ngứa mắt - Làm việc trong văn phòng lớn)",
+    "text": "(Tiếp tục nội dung bài đọc Großraumbüros)",
+    "question": "Die Arbeitsplatzfläche...",
+    "answer": [
+      "A) ist in Londoner Großraumbüros für den Chef größer als für andere Mitarbeiter.",
+      "B) schließt die gemeinsam genutzten Flächen aus.",
+      "C) wird in London oft unter mehreren Mitarbeitern aufgeteilt."
+    ],
+    "correct": "C",
+    "id": 39,
+    "correct_position": 3,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Müdigkeit und juckende Augen - Arbeit in Großraumbüros (Mệt mỏi và ngứa mắt - Làm việc trong văn phòng lớn)",
+    "text": "(Tiếp tục nội dung bài đọc Großraumbüros)",
+    "question": "Großraumbüros...",
+    "answer": [
+      "A) gibt es vor allem in Banken und Telekommunikationsunternehmen.",
+      "B) werden bald in 40% der deutschen Firmen eingeführt.",
+      "C) werden meist in Einzelzellen unterteilt."
+    ],
+    "correct": "A",
+    "id": 40,
+    "correct_position": 1,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+
+
+  {
+    "group_name": "Traumfrau und Traummann gesucht (Tìm kiếm người phụ nữ/đàn ông trong mơ)",
+    "text": "Den Partner für das Leben finden – für immer mehr Menschen wird dies offenbar immer schwieriger. Rund 31 Millionen Männer und Frauen in Deutschland, also mehr als ein Drittel der gesamten Bevölkerung, sind alleinstehend. Nicht dass Mann oder Frau wählerischer als in früheren Zeiten geworden wäre, es gibt scheinbar ganz einfach immer weniger Gelegenheiten, das Ziel einer Partnerschaft oder Ehe zu erreichen. Die Menschen haben einfach immer weniger Zeit, sich um ihre ganz natürlichen Wünsche zu kümmern. Viele arbeiten weit entfernt von ihrem Wohnort, wechseln die Arbeitsstätte in relativ kurzen Abständen, haben für das Privatleben ungünstige Arbeitszeiten mit wenig Freizeit, abgesehen vom alljährlichen Urlaub. Dazu kommt, dass eine beträchtliche Minderheit der Deutschen nicht bereit ist, sich längerfristig oder gar 'lebenslänglich' an einen bestimmten Partner zu binden. Immer mehr Menschen leben lieber mit ihren Lebensabschnittgefährten zusammen oder sie bevorzugen saisonale Kurzbeziehungen nach dem Muster 'öfter mal 'ne(n) Neue(n)'. Und immer mehr von denen, die eine Partnerschaft anstreben, versuchen ihren Liebsten oder ihre Liebste nicht auf Partys, Kirmesfesten oder in Cafés und Kneipen zu finden, wie das bei ihren Großeltern noch üblich war, sondern sie schauen ins Internet oder in Zeitungen, um über Partnerschafts- oder Heiratsannoncen fündig zu werden. In Deutschland gibt es viele Radioprogramme, in denen täglich Dutzende ihre Heiratsabsichten kundtun. An Wochenenden gibt es sogar Fernsehsendungen, in denen Partnersuchende mit anderen Partnersuchenden quasi verkuppelt werden. Doch wie muss solch eine Kontaktanzeige aussehen, damit sie auch von Erfolg gekrönt ist? Dieser Frage hat sich nun der Kommunikationsexperte Jörg Stimpfling an der Universität Stuttgart gewidmet und seit mehr als zehn Jahren Kontaktanzeigen in den verschiedensten Medien gesammelt und analysiert. Das Ergebnis der umfangreichen Forschung: Viele Anzeigen sind zu oberflächlich formuliert oder bedienen sich althergebrachter Stereotypen. So beschreiben sich Frauen mit Synonymen für Schönheit oder Attraktivität, Männer bieten Sicherheit oder Status an, überholt geglaubte Klischees finden sich in den meisten Fällen. Ebenso fällt die Neigung auf, sich schöner, besser zu präsentieren, als man wirklich ist, so als biete man ein Produkt in der Konsumwerbung an. Man könnte fast meinen, viele suchen sich selbst wie ihr eigenes Zwillingsbild. Jörg Stimpfling und seine Kollegen empfehlen Partner suchenden Singles daher, sich erst einmal selbst kennen zu lernen, bevor sie sich an zukünftige Partnerinnen oder Partner wenden. Nur wer über sich selbst Bescheid weiß, kann den Partner finden, der zu ihm passt. Und das Zwillingsbild im Spiegel ist leider kaum als idealer Partner geeignet.",
+    "question": "Viele Menschen in Deutschland sind unverheiratet, weil",
+    "answer": [
+      "A) die Ansprüche bei der Partnerwahl immer weiter steigen.",
+      "B) die Lebensumstände es erschweren, den Partner oder die Partnerin fürs Leben zu finden.",
+      "C) eine Mehrheit ohnehin lieber in zeitlich begrenzten Beziehungen lebt."
+    ],
+    "correct": "B",
+    "id": 41,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Traumfrau und Traummann gesucht (Tìm kiếm người phụ nữ/đàn ông trong mơ)",
+    "text": "(Tiếp tục nội dung bài đọc Partnersuche)",
+    "question": "Viele Singles suchen sich heute ihre Partner oder Partnerinnen",
+    "answer": [
+      "A) am Arbeitsplatz.",
+      "B) auf Festen.",
+      "C) in den Medien."
+    ],
+    "correct": "C",
+    "id": 42,
+    "correct_position": 3,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Traumfrau und Traummann gesucht (Tìm kiếm người phụ nữ/đàn ông trong mơ)",
+    "text": "(Tiếp tục nội dung bài đọc Partnersuche)",
+    "question": "Im Radio werden",
+    "answer": [
+      "A) an Samstagen und Sonntagen Partner vermittelt.",
+      "B) jeden Tag Heiratswünsche gesendet.",
+      "C) täglich Hochzeitsglückwünsche gesendet."
+    ],
+    "correct": "B",
+    "id": 43,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Traumfrau und Traummann gesucht (Tìm kiếm người phụ nữ/đàn ông trong mơ)",
+    "text": "(Tiếp tục nội dung bài đọc Partnersuche)",
+    "question": "In Kontaktanzeigen",
+    "answer": [
+      "A) beschreiben sich Partnersuchende oft im Rahmen konventioneller Rollenerwartungen.",
+      "B) suchen die meisten Männer moderne, attraktive Frauen.",
+      "C) werden recht häufig die passenden Partner fürs Leben gefunden."
+    ],
+    "correct": "A",
+    "id": 44,
+    "correct_position": 1,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Traumfrau und Traummann gesucht (Tìm kiếm người phụ nữ/đàn ông trong mơ)",
+    "text": "(Tiếp tục nội dung bài đọc Partnersuche)",
+    "question": "Wer eine Kontaktanzeige aufgibt, sollte",
+    "answer": [
+      "A) jemanden suchen mit möglichst ähnlichen Eigenschaften.",
+      "B) sich werbewirksam präsentieren können.",
+      "C) zunächst eine Selbstanalyse vornehmen."
+    ],
+    "correct": "C",
+    "id": 45,
+    "correct_position": 3,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+
+  {
+    "group_name": "Kreditkarten für Jugendliche (Thẻ tín dụng cho thanh thiếu niên)",
+    "text": "Wer kennt sie nicht: Kreditkarten, mit denen man in der heimischen Stadt oder während des Urlaubs einkaufen kann. Fast jeder hat eine, und alles scheint ganz einfach zu sein: Kein Wunder, dass auch immer mehr Kinder und Jugendliche eine eigene Kreditkarte haben wollen. Aber Eltern sorgen sich: Ist das nicht zu gefährlich? Um das Risiko einer Überschuldung zu vermeiden, bieten Banken und alle Sparkassen Jugendlichen eine besondere Art von Kreditkarten an: die sogenannte Prepaid-Kreditkarte. Eine Prepaid-Kreditkarte ist mit einem Prepaid-Handy vergleichbar. Man kann sie nur einsetzen, wenn man zuvor Geld auf die Karte geladen hat. Ist das Guthaben verbraucht, kann man mit der Karte nicht mehr bezahlen und am Automaten kein Geld mehr abheben. Der Vorteil liegt auf der Hand: 'Man kann nicht mehr Geld ausgeben, als man hat', sagt Andreas Gernt. Mit einer Prepaid-Kreditkarte kann daher niemand in die Schuldenfalle tappen. 'Für Kinder und Jugendliche auf Reisen ist die Prepaid-Kreditkarte eine überlegenswerte Option', sagt Gernt. Die daheimgebliebenen Eltern können Ihrem Kind von zu Hause aus Geld auf die Karte laden, wenn das Guthaben verbraucht ist. Zugleich können Sie die Kosten kontrollieren. Die Prepaid-Kreditkarte ist eine Ausgabenschranke für den Verbraucher, fasst Tanja Beller zusammen. So können Jugendliche den Umgang mit bargeldlosem Zahlungsverkehr lernen. Zugleich eignen sich die Karten aber auch für erwachsene Reisende mit einem größeren Sicherheitsbedürfnis. Die Prepaid-Karte bietet zwei Vorteile: Zum einen ist mit ihr das Reisebudget von Anfang an limitiert. Zum anderen sind damit auch die Verluste überschaubar, wenn die Karte gestohlen wird. Denn auch ein Dieb kann nur das Geld nutzen, das als Guthaben auf der Karte ist. Außerdem eignet sich die Prepaid Kreditkarte für Freiberufler und Selbständige oder allgemeiner gefasst für Menschen mit einem unregelmäßigen oder geringen Einkommen, die dadurch keine gute Bonität haben. Denn die Prepaid-Kreditkarten sind im Gegensatz zur klassischen Kreditkarte nicht direkt an ein Gehaltskonto gebunden. Das ermöglicht auch Geringverdienern Einkäufe im Internet. Zugleich schützt die Guthabenkarte vor allzu großen Verlusten durch Missbrauch im Netz. Bevor man sich aber für eine Prepaid-Karte entscheidet, sollte man ihre Akzeptanz überprüfen. Denn gerade Prepaid-Karten sind nicht in jedem Land als Zahlungsmittel gern gesehen. Außerdem sollte man die Gebühren genau vergleichen und auf versteckte Kosten achten. Die Stiftung Warentest hat für ihre Zeitschrift 'Finanztest' die Bedingungen und Kosten von 24 Prepaid-Kreditkarten für Erwachsene und Jugendliche getestet. Die Tester stellten fest: Die Karten sind nicht teurer als klassische Kreditkarten, und auch die Nutzungsgebühren unterscheiden sich kaum. Erwachsene bezahlen für Prepaid-Karten zwischen 29 und 39 Euro im Jahr. Karten für Jugendliche kosten im Jahr höchstens 22 Euro. Bei vielen Banken sind sie bis zum 18. oder 21. Geburtstag kostenlos. Für das Geldabheben am Automaten berechnen die Banken meist einen Mindestbetrag zwischen 5,00 € und 7,50 Euro.",
+    "question": "Eine Prepaid-Kreditkarte",
+    "answer": [
+      "A) gibt es für Jugendliche schon bei zahlreichen Geldinstituten.",
+      "B) können Jugendliche zusammen mit einer Handy-Prepaidkarte bekommen.",
+      "C) macht es möglich, mit dem Handy zu bezahlen."
+    ],
+    "correct": "A",
+    "id": 46,
+    "correct_position": 1,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Kreditkarten für Jugendliche (Thẻ tín dụng cho thanh thiếu niên)",
+    "text": "(Tiếp tục nội dung bài đọc Kreditkarten)",
+    "question": "Man hat Kontrolle über die Kosten,",
+    "answer": [
+      "A) da nur der Karteninhaber seine Karte aufladen darf.",
+      "B) denn die Eltern werden bei einer Aufladung benachrichtigt.",
+      "C) weil die Ausgaben durch das Guthaben begrenzt sind."
+    ],
+    "correct": "C",
+    "id": 47,
+    "correct_position": 3,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Kreditkarten für Jugendliche (Thẻ tín dụng cho thanh thiếu niên)",
+    "text": "(Tiếp tục nội dung bài đọc Kreditkarten)",
+    "question": "Die Prepaid-Kreditkarte ist besonders geeignet für",
+    "answer": [
+      "A) Angestellte mit einem guten Gehalt.",
+      "B) Jugendliche ohne festes Einkommen.",
+      "C) Menschen mit einem eigenen Bankkonto."
+    ],
+    "correct": "B",
+    "id": 48,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Kreditkarten für Jugendliche (Thẻ tín dụng cho thanh thiếu niên)",
+    "text": "(Tiếp tục nội dung bài đọc Kreditkarten)",
+    "question": "Prepaid-Karten",
+    "answer": [
+      "A) kosten ähnlich viel wie klassische Kreditkarten.",
+      "B) verursachen keine unerwarteten Kosten.",
+      "C) werden als Zahlungsmittel ebenso akzeptiert wie klassische Kreditkarten."
+    ],
+    "correct": "A",
+    "id": 49,
+    "correct_position": 1,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Kreditkarten für Jugendliche (Thẻ tín dụng cho thanh thiếu niên)",
+    "text": "(Tiếp tục nội dung bài đọc Kreditkarten)",
+    "question": "Bei Prepaid-Karten zahlen",
+    "answer": [
+      "A) Erwachsene ab 21 Jahren eine höhere Jahresgebühr als Jugendliche.",
+      "B) Jugendliche unter 18 Jahren nur die Nutzungsgebühr am Geldautomaten.",
+      "C) Kunden zwischen 18 und 21 Jahren noch nichts."
+    ],
+    "correct": "A",
+    "id": 50,
+    "correct_position": 1,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+
+  {
+    "group_name": "Krista, der tierische Star (Krista, ngôi sao động vật)",
+    "text": "Krista ist die schönste Kuh Deutschlands. Und jetzt auch noch ein Kinostar. Am letzten Donnerstag kam ein Film über die schwarz-weiß gefleckte Kuh und ihre Besitzer in einige norddeutsche Kinos. Wovon der Film handelt? Von Kristas Leben auf dem Hof der Familie Seeger in Bissel. Antje Schneider und Carsten Waldbauer sind Filmemacher. Vor einigen Jahren hatten sie die Idee, eine Dokumentation über Kühe zu machen, genauer gesagt über Holstein-Rinder. Die Holstein-Rinder sind eine der wichtigsten Rinderrassen weltweit, kommen aber trotz des deutschen Namens aus Nordamerika. Diese Kühe werden überwiegend als Milchvieh gehalten. Die Holstein-Rinder sind so verbreitet, dass sie inzwischen andere Rassen fast vollständig verdrängt haben. Das gilt vor allem für die vielen Bauernhöfe in Deutschland, die ausschließlich Milch produzieren. Doch als die beiden Filmemacher mit den Dreharbeiten beginnen wollten, sahen sie plötzlich Krista. Krista änderte alles. Die Schönheit vom Lande beeindruckte Schneider und Waldbauer so sehr, dass sie den Plan für ihre Dokumentation gegen den Willen ihres Senders komplett änderten. Im Mittelpunkt sollte nun Krista stehen, die schönste Holstein-Kuh Deutschlands. Krista gehört zur Weltelite. Auf Veranstaltungen wird sie immer wieder ausgezeichnet. Bei einer Tierschau in Italien erhielt sie zwar nicht den ersten Preis, aber trotzdem war sie unter den schönsten Kühen Europas. Kristas Besitzer Jörg Seeger ist begeistert von seinem Star im Stall. Jörg und Janine Seeger erlauben dem Kinozuschauer interessante Einblicke in ihren Alltag auf dem Bauernhof. Die Kamera verfolgt zwar immer den Weg von Kuh Krista, aber zu sehen ist dabei natürlich auch die Arbeit der gesamten Familie auf dem Hof. Krista kann zunächst aus gesundheitlichen Gründen keine Kälber bekommen. Auch diese Problematik wird im Film gezeigt. Der Zuschauer merkt, dass Jörg Seeger enttäuscht ist: Seine beste Kuh kann kein Kalb bekommen. Aber es geht gut aus, denn Krista wird operiert und nach Ende der Dreharbeiten klappt es dann doch mit dem Nachwuchs für die Kuh. Der Film zeigt aber auch, wie sich im Laufe der Jahre das Leben auf dem Hof der Seegers verändert hat und wie schwierig es auch hier geworden ist, mit Milchkühen Geld zu verdienen. Der Markt ist hart umkämpft und die Preise sinken immer weiter, denn die Verbraucher im Supermarkt greifen gerne zum günstigsten Produkt. Für viele ist es da nicht wichtig, wie die Milch produziert wurde. Auch das zeigt der Film, wenngleich eher nebenbei. 'Die schöne Krista' ist auch die in die Auswahl für den Deutschen Filmpreis gekommen, als einer der fünfzehn besten Dokumentarfilme. Die 500 Filmkritiker, die diese 15 Filme ausgewählt haben, waren begeistert. Schwieriger sei es, so die Produktionsfirma, die Kinobetreiber vom Film zu überzeugen. 'Was sollen wir mit einer Kuh?', sei eine häufige Reaktion. Vielleicht würden sie ihre Meinung ändern, wenn Sie Krista einmal auf dem Hof gesehen hätten.",
+    "question": "Holstein-Rinder",
+    "answer": [
+      "A) sind in der Milchproduktion beliebter als andere Rinderrassen.",
+      "B) spielen in der Milchproduktion kaum eine Rolle.",
+      "C) stammen aus Norddeutschland."
+    ],
+    "correct": "A",
+    "id": 51,
+    "correct_position": 1,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Krista, der tierische Star (Krista, ngôi sao động vật)",
+    "text": "(Tiếp tục nội dung bài đọc Krista)",
+    "question": "Die Kuh Krista",
+    "answer": [
+      "A) hat bereits einige Preise gewonnen.",
+      "B) war Siegerin bei einer Veranstaltung in Italien.",
+      "C) wurde als schönste Kuh Europas ausgezeichnet."
+    ],
+    "correct": "A",
+    "id": 52,
+    "correct_position": 1,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Krista, der tierische Star (Krista, ngôi sao động vật)",
+    "text": "(Tiếp tục nội dung bài đọc Krista)",
+    "question": "Während der Filmaufnahmen",
+    "answer": [
+      "A) bekam Krista ein Kalb.",
+      "B) wäre Krista fast gestorben.",
+      "C) wurde Krista operiert."
+    ],
+    "correct": "C",
+    "id": 53,
+    "correct_position": 3,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Krista, der tierische Star (Krista, ngôi sao động vật)",
+    "text": "(Tiếp tục nội dung bài đọc Krista)",
+    "question": "Die wirtschaftlichen Probleme von Milchbetrieben",
+    "answer": [
+      "A) betreffen die Familie Seeger nicht.",
+      "B) sind eine Folge des Verbraucherverhaltens.",
+      "C) werden im Film ausführlich behandelt."
+    ],
+    "correct": "B",
+    "id": 54,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Krista, der tierische Star (Krista, ngôi sao động vật)",
+    "text": "(Tiếp tục nội dung bài đọc Krista)",
+    "question": "'Die schöne Krista'",
+    "answer": [
+      "A) begeistert Kinobetreiber bislang nicht.",
+      "B) könnte die Kritiker nicht überzeugen.",
+      "C) wurde als beste Dokumentation ausgezeichnet."
+    ],
+    "correct": "A",
+    "id": 55,
+    "correct_position": 1,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+
+  {
+    "group_name": "Die ganze Welt auf dem eigenen PC (Cả thế giới trên PC của bạn) [Google Earth]",
+    "text": "'Google Earth' das digitale Abbild der Erde mit Satelliten- und Luftbildern, ist seit 2006 im Internet. Und es gibt auch eine deutsche Version. Ohne langes Training, gewissermaßen von einer Sekunde zur anderen, wird man mit 'Google Earth' zum Weltraumfahrer und Astronauten. Der Computer ersetzt das Weltraumschiff, die Computermaus den Steuerknüppel. Nutzer können sich auf einen Kontinent, ein Land, eine Stadt, sogar aufs eigene Haus oder in die Fußballstadien des Landes zoomen: inzwischen gibt es 'Google Earth' in einer völlig neuen Version – mit viermal mehr Daten als bisher und erstmals auch in deutscher Sprache. 'Deutschland ist unser wichtigster Standort', sagte John Hanke, Leiter von Googles Keyhole-Gruppe. Rund ein Fünftel der Erde auf dieser Fläche wohnt fast die Hälfte der Weltbevölkerung – haben wir jetzt dargestellt. Viermal so viele Daten wie bisher. Deutschland sei weltweit das einzige Land, für das komplett hochauflösendes, also besonders genau abbildendes Material zur Verfügung stand, erklärt Hanke. Ein Bildpunkt (Pixel) entspricht dabei 15 Metern auf der Erde. Größere deutsche Städte beispielsweise werden in der höchstmöglichen Auflösung sogar mit zehn Zentimetern pro Pixel dargestellt. Kleinere Städte jedoch, wie etwa Hameln, sind nach wie vor sehr grob dargestellt. Neugierige Reporter, die über den Gartenzaun von Nachbarn oder bekannten Persönlichkeiten sehen wollen, haben Pech: 'Google Earth' bietet keine Livebilder. Die Daten stammen von Flugzeugen und drei Satelliten und können viele Monate alt sein. Ursprünglich waren es nur Kunden aus dem Bereichen Militär und Immobilien, die sich für die verrückte Idee interessierten. Doch aus Hankes 'fixer Idee' wurde ein Renner. Da es sich bei 'Google Earth' um einen offenen Standard handelt und nur die professionellen Produkte Geld kosten, entwickelt sich rundherum eine immer größer werdende Familie von Anwendern, die Möglichkeiten zur Nutzung der Bilder sehen. Künftig soll das Programm nach dem Prinzip der freien Enzyklopädie Wikipedia durch die Informationen und Beiträge alle Nutzer wachsen, sagt Hanke. 'Google Earth' zählt inzwischen zu den weltweit am häufigsten angeklickten Internetseiten. Wegen des riesigen Erfolges sind auch die Mitstreiter Yahoo und Microsoft auf den Zug gesprungen und versuchen, mit der Idee von 'Google Earth' Geld zu verdienen. Das Spektrum neuer Anwendungen von 'Google Earth' reicht von nützlich bis negativ. So kann man sich die Standorte billiger Tankstellen oder Weltmeisterschafts-Stadien mit Zeittafeln der Fußballspiele genauso auf einer Karte anzeigen lassen wie die Wohnorte aller in Florida erfassten Verbrecher, Name, Adresse und Polizeifoto inklusive. Von Datenschutz kann dort also nicht die Rede sein. Mit der neue Version von 'Google Earth' öffnet sich auch ein völlig neues Kapitel der Routenplanung bei Reisen. Je mehr Informationen gesammelt und dargestellt werden, desto besser werden die Ergebnisse bei der lokalen Suche. Einige Gebäude vor allem in den USA lassen sich ganz realistisch darstellen. In Deutschland dauert es jedoch noch etwas.",
+    "question": "Das Besondere an der neuen Version von 'Google Earth' ist, dass es",
+    "answer": [
+      "A) von der gesamten Erde ein genaues Abbild bietet.",
+      "B) von einigen Ländern ein genaueres Abbild bietet als früher.",
+      "C) zunächst nur in deutscher Sprache bedient werden kann."
+    ],
+    "correct": "B",
+    "id": 56,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Die ganze Welt auf dem eigenen PC (Cả thế giới trên PC của bạn) [Google Earth]",
+    "text": "(Tiếp tục nội dung bài đọc Google Earth)",
+    "question": "Die Bilder von 'Google Earth'",
+    "answer": [
+      "A) sind aktuell, d.h., ich kann mich selbst im Garten sitzen sehen.",
+      "B) sind alle nicht ganz neu.",
+      "C) werden bald als aktuelle Bilder zu Verfügung stehen."
+    ],
+    "correct": "B",
+    "id": 57,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Die ganze Welt auf dem eigenen PC (Cả thế giới trên PC của bạn) [Google Earth]",
+    "text": "(Tiếp tục nội dung bài đọc Google Earth)",
+    "question": "Für 'Google Earth' interessieren sich heute",
+    "answer": [
+      "A) insbesondere Militärs und Immobilienhändler.",
+      "B) Menschen aus vielen Berufsgruppen.",
+      "C) vorwiegend die Nutzer der Enzyklopädie 'Wikipedia'."
+    ],
+    "correct": "B",
+    "id": 58,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Die ganze Welt auf dem eigenen PC (Cả thế giới trên PC của bạn) [Google Earth]",
+    "text": "(Tiếp tục nội dung bài đọc Google Earth)",
+    "question": "Negativ an 'Google Earth' ist laut Text, dass",
+    "answer": [
+      "A) die Daten kommerziell genutzt werden.",
+      "B) persönliche Daten öffentlich verfügbar sind.",
+      "C) Verbrecher es nutzen."
+    ],
+    "correct": "B",
+    "id": 59,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Die ganze Welt auf dem eigenen PC (Cả thế giới trên PC của bạn) [Google Earth]",
+    "text": "(Tiếp tục nội dung bài đọc Google Earth)",
+    "question": "Positiv an 'Google Earth' ist laut Text, dass",
+    "answer": [
+      "A) Gebäude in Deutschland wirklichkeitsnah abgebildet werden.",
+      "B) man damit Lokale suchen kann.",
+      "C) man sich damit orientieren kann."
+    ],
+    "correct": "C",
+    "id": 60,
+    "correct_position": 3,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+
+
+  {
+    "group_name": "Der Ein-Personen-Karneval von Unna (Lễ hội Carnival một người ở Unna)",
+    "text": "Als Helmut Scherer vor genau 50 Jahren zum ersten Mal mit seinem Bollerwagen durch die westfälische Kleinstadt Unna zog, wurde er von den Leuten ausgelacht. Heute aber ist er eine städtische Berühmtheit und sogar weit über die Grenzen seiner Heimatstadt hinaus bekannt. Der 71-Jährige ist der einzige Teilnehmer des weltweit kleinsten Karnevalsumzug. An Weiberfastnacht zieht er mit seinem Handwagen los: Er selbst ist dann dieses Jahr als blondes Schulmädchen verkleidet und auf seinem Bollerwagen hat er aus Pappe und Gips Figuren aufgebaut, die humoristisch ein aktuelles gesellschaftliches Thema diesmal die Schulreform aufgreifen. So macht er sich nach alter karnevalistischer Tradition über Missstände lustig. Helmut Scherer legt natürlich Wert darauf, dass er von Karnevalsmusik begleitet wird, die jedoch nicht von einer Musikgruppe, sondern von einem Radiorekorder gespielt wird. Vor 50 Jahren kam Helmut Scherer aus dem katholisch geprägten Paderborn nach Unna, dessen überwiegend evangelische Bevölkerung sich recht kühl und nüchtern gibt und deshalb anfangs auch wenig Verständnis für den katholischen Karnevalsbrauch zeigte. 'Die Leute haben mir einen Vogel gezeigt und den Kopf geschüttelt', beschreibt der 'Narr aus Überzeugung' die Anfänge. Auch bei der Stadtverwaltung, wo Scherer für Weiberfastnacht seinen Umzug ordnungsgemäß anmeldete, stieß er zunächst auf Unverständnis. Über 10 Jahre lang zog Scherer einsam, belächelt und verspottet durch Unna. Doch der Karneval blieb für lange Zeit sein Privatvergnügen. Als dann die lokale Presse anfing, ihn zu unterstützen, wandelte sich die Meinung der Öffentlichkeit. Der einst verspottete Karnevalist stieg langsam zum närrischen Wahrzeichen einer Stadt ohne Karneval auf. Für die Stadtoberen ist heute die 'Ein-Mann-Show' die beste Werbung für Unna. Scherers Beharrlichkeit hat sich also ausgezahlt: Anlässlich seines fünfzigsten Karnevalsjubiläums wurde er sogar offiziell im Rathaus empfangen, um ihm – so wie es auch in den Karnevalshochburgen Köln, Düsseldorf und Mainz üblich ist – den goldenen Schlüssel des Rathauses zu übergeben. Obwohl er keinem Karnevalsverein angehört, wurde ihm die Ehre zuteil, als Karnevalsprinz in den Bund Deutscher Karneval aufgenommen zu werden; somit wurde es ihm möglich, auch bei den Rosenmontagszügen in den närrischen Hochburgen im Rheinland mitzuwirken. Weit über hundert Fans des standhaften Narren haben sich zu einem Fan-Club zusammengeschlossen, und etliche stehen beim jährlichen Umzug in Unna am Straßenrand und rufen statt 'Spinner' den rheinischen Karnevalsgruß 'Helau'. Bei allem Fortschrittlichkeit soll aber eines so bleiben, wie es immer war: einen weiteren Teilnehmer am Zug duldet der Karnevalsprinz nicht: 'Die Tradition soll aufrechterhalten bleiben', sagt er schmunzelnd. 'Aber nur solange mich die Füße tragen!'.",
+    "question": "Helmut Scherer",
+    "answer": [
+      "A) führt in Unna einen kleinen Karnevalsumzug durch.",
+      "B) ist in Unna seit 50 Jahren eine gefeierte Persönlichkeit.",
+      "C) veranstaltet den einzigen Karnevalsumzug der Welt."
+    ],
+    "correct": "A",
+    "id": 61,
+    "correct_position": 1,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Der Ein-Personen-Karneval von Unna (Lễ hội Carnival một người ở Unna)",
+    "text": "(Tiếp tục nội dung bài đọc Karneval)",
+    "question": "Auf seinem Handwagen",
+    "answer": [
+      "A) fährt traditionell ein blondes Schulmädchen mit.",
+      "B) präsentiert er kleine Szenen, die auf den Alltag Bezug nehmen.",
+      "C) stellt er sozialkritische Themen auf witzige Art und Weise dar."
+    ],
+    "correct": "C",
+    "id": 62,
+    "correct_position": 3,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Der Ein-Personen-Karneval von Unna (Lễ hội Carnival một người ở Unna)",
+    "text": "(Tiếp tục nội dung bài đọc Karneval)",
+    "question": "Die Bevölkerung von Unna",
+    "answer": [
+      "A) hatte zunächst wenig Verständnis für Helmut Scherer.",
+      "B) hielt anfangs Helmut Scherer für kühl und nüchtern.",
+      "C) verhinderte Helmut Scherer ersten Karnevalsumzug."
+    ],
+    "correct": "A",
+    "id": 63,
+    "correct_position": 1,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Der Ein-Personen-Karneval von Unna (Lễ hội Carnival một người ở Unna)",
+    "text": "(Tiếp tục nội dung bài đọc Karneval)",
+    "question": "Der kleinste Karnevalsumzug der Welt",
+    "answer": [
+      "A) hat Helmut Scherer sogar Geld eingebracht.",
+      "B) ist heute eine gute Reklame für die Stadt Unna.",
+      "C) wird in Zukunft von einer ganzen Gruppe von Leuten durchgeführt."
+    ],
+    "correct": "B",
+    "id": 64,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Der Ein-Personen-Karneval von Unna (Lễ hội Carnival một người ở Unna)",
+    "text": "(Tiếp tục nội dung bài đọc Karneval)",
+    "question": "Helmut Scherer",
+    "answer": [
+      "A) hat an Karnevalsumzügen in mehreren Städten teilgenommen.",
+      "B) hat inzwischen in ganz Deutschland Fan-Clubs.",
+      "C) sucht einen Nachfolger."
+    ],
+    "correct": "A",
+    "id": 65,
+    "correct_position": 1,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  }
+,
+  {
+    "group_name": "Der Puppenmacher (Người làm ma-nơ-canh)",
+    "text": "Die Schaufensterpuppe ist eine Pariserin und hatte erstmals 1849 in der Hauptstadt der Mode ihren Auftritt. Der französische Schneider Alexis Lavigne gilt als ihr Erfinder, auch wenn er damals seine Kleiderkreationen noch auf einer Schneiderpuppe im Fenster vorstellte. Bald schon taten es ihm andere Pariser Kollegen gleich. Anfang des 20. Jahrhunderts, als die ersten Kaufhäuser eröffneten, erlebte die Schaufensterpuppe ihren Durchbruch. Der Puppenmacher Lester Gaba entwickelte in den 1930er Jahren das erste lebensecht wirkende Modell, Cynthia. Fortan spiegelte die Schaufensterpuppe Zeitgeist und Schönheitsideale. Der Linzer Puppenmacher André Bauernfeind hat als Sammler begonnen, mittlerweile sind Schaufensterpuppen sein Beruf. Der 37-Jährige, der mehr als 1000 Modelle besitzt, ist österreichweit der Einzige, bei dem man sie reparieren lassen, aber auch mieten kann. Er ist so etwas wie ein Schönheitschirurg für Schaufensterpuppen. Er macht sie wieder heil, verpasst ihnen aber auch Ganzkörper-Liftings, wenn gewünscht. Er klebt ihnen falsche Wimpern an und trägt mit einem Pinsel Schminke auf. Nicht selten fehlt den Puppen ein Finger, ein Ohr oder eine Nase. Dann greift der Linzer zur Modelliermasse, deren Zusammensetzung streng geheim ist. Weniger geheim sind die Preise: Für 45 Euro fertigt er eine neue Nase, rekonstruiert ein Ohr oder auch ein Kinn. Wer allerdings einen Kopf modellieren lassen möchte, muss mit 2500 Euro und acht Wochen rechnen, für einen gesamten Körper mit 15 000 Euro und Monaten. Obgleich er als Kind am liebsten mit Autos spielte, faszinierten ihn schon früh diese Mannequins in den Schaufenstern. Sein erstes Exemplar kauft er während seiner Ausbildung. Aus dem Hobby wurde später ein Beruf. Bauernfeind verfeinerte sein Handwerk und übernahm schließlich ein altes Schaufensterpuppen-Unternehmen in Linz. Heute ist er Besitzer von 1200 Puppen, vermietet und repariert sie, stellt Sonderanfertigungen her. Bauernfeind vertritt auch für andere Hersteller. Er besitzt exklusiv die Handelsvertretung für eine belgische Schaufensterpuppen-Firma. Qualität und Nachhaltigkeit sind ihm wichtig. Gemeinsam mit einem Farbenlieferanten hat er deshalb eine Farbe für Puppen entwickelt, die nicht nur ökologisch einwandfrei, sondern auch für Menschen unbedenklich ist. Weltweit gibt es etwa 100 Hersteller von Schaufensterpuppen, die zweimal im Jahr eine neue Kollektion herausbringen. Denn wie die Mode sind auch die Puppen Trends unterworfen.",
+    "question": "Die erste Schaufensterpuppe wurde",
+    "answer": [
+      "A) Anfang des 20. Jahrhunderts von einem Puppenmacher erschaffen.",
+      "B) für die ersten großen Kaufhäuser produziert.",
+      "C) von einem französischen Schneider erfunden."
+    ],
+    "correct": "C",
+    "id": 66,
+    "correct_position": 3,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Der Puppenmacher (Người làm ma-nơ-canh)",
+    "text": "(Tiếp tục nội dung bài đọc Puppenmacher)",
+    "question": "Bei der Restaurierung der Schaufensterpuppen",
+    "answer": [
+      "A) darf Herr Bauernfeind keinen normalen Nagellack auftragen.",
+      "B) können keine Luxusmarken eingesetzt werden.",
+      "C) verwendet er nur billige Produkte."
+    ],
+    "correct": "A",
+    "id": 67,
+    "correct_position": 1,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Der Puppenmacher (Người làm ma-nơ-canh)",
+    "text": "(Tiếp tục nội dung bài đọc Puppenmacher)",
+    "question": "Der Puppenmacher",
+    "answer": [
+      "A) hat schon als Kind gerne mit Puppen gespielt.",
+      "B) konnte seine erste Schaufensterpuppe nicht auf einmal zahlen.",
+      "C) organisierte eine Ausstellung mit Schaufensterpuppen."
+    ],
+    "correct": "B",
+    "id": 68,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Der Puppenmacher (Người làm ma-nơ-canh)",
+    "text": "(Tiếp tục nội dung bài đọc Puppenmacher)",
+    "question": "Herr Bauernfeind",
+    "answer": [
+      "A) eröffnete die erste Linzer Firma für Schaufensterpuppen.",
+      "B) handelt mit Schaufensterpuppen anderer Produzenten.",
+      "C) stellt heute keine Schaufensterpuppen mehr her."
+    ],
+    "correct": "B",
+    "id": 69,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Der Puppenmacher (Người làm ma-nơ-canh)",
+    "text": "(Tiếp tục nội dung bài đọc Puppenmacher)",
+    "question": "Schaufensterpuppen",
+    "answer": [
+      "A) können mit umweltfreundlichen Farben bemalt werden.",
+      "B) sind nicht von Tendenzen der Mode abhängig.",
+      "C) sollen immer die gleiche Kleidergröße haben."
+    ],
+    "correct": "A",
+    "id": 70,
+    "correct_position": 1,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+
+
+
+  {
+    "group_name": "Wie Babys lernen (Em bé học tập như thế nào)",
+    "text": "Bereits mit sechs Monaten können Babys zwischen möglichen und unmöglichen Ereignissen unterscheiden und denken über Ursache und Folge nach. Unglaubliche Ergebnisse sind das, bedenkt man, dass ein Säugling vor 50 Jahren noch als leeres Blatt gesehen wurde. Man glaubte, dass ein Säugling äußere Einflüsse nur bedingt wahrnehmen oder Empfindungen wie Schmerz nicht spüren kann. Inzwischen hat die Kleinstkindforschung eine ganz andere Meinung und weiß: Babys bedienen sich sehr vieler komplizierter Forschungsmethoden. Sie lernen nicht nur, indem sie tun, was sie bei ihren Eltern sehen, sondern sie lernen mit Versuchen die Welt kennen. Eine der Fragen, die Babyforscher dabei beschäftigt, lautet: Wie viel Klugheit ist angeboren, wie viel erlernt? Rund 50 Prozent unseres geistigen Könnens wurde von unseren Eltern vererbt. Die andere Hälfte wird durch Schule, Ausbildung, Freunde, Mutter, Vater, Geschwister, Großeltern, kurz: die Umwelt bestimmt. Bei Kleinkindern zum Beispiel sind die Umwelteinflüsse von größerer Bedeutung als im späteren Leben. Der US-Forscher Robert Plomin meint, dass die Umwelt in diesem Alter mit etwa 80 Prozent einen sehr hohen Stellenwert einnimmt. Mit zunehmendem Alter wird das Erbgut stärker sichtbar. Im Erwachsenenalter ist der Einfluss der Gene auf die Intelligenz mit etwa 60 Prozent deutlich größer als der der Umwelt. Um das Lernen zu lernen, brauchen kleine Kinder weder spezielle Programme noch intelligentes Spielzeug – sondern Menschen. Gut ist nach Meinung der Forscher zum Beispiel eine Familie, in der vorgelesen und gemeinsam gespielt wird. Drei- bis Siebenjährige in Deutschland können heute mehr als noch vor 25 Jahren. Alle 10 Jahre nimmt die Intelligenz um rund 3 Prozent zu. Die Wissenschaftler glauben, dass Intelligenz ist nicht gleich Wissen. 'Verstehen heißt Verbindungen herstellen und auswählen'. Das Stirnhirn ist bei der Geburt zwar organisch da, hat seine volle Funktion aber noch nicht erreicht. 'Es braucht geistige Nahrung, Futter', sagte Dawirs. Deshalb geht es im Kleinkindalter erst einmal darum, dass möglichst viele dem jeweiligen Entwicklungsstand angemessene Impulse verarbeitet werden. Eine Spielzeugente, die man anfassen kann und über die die Mutter vielleicht sagt: 'Ja, das ist eine Ente. Schau, sie kann in der Badewanne schwimmen', ist also ungleich mehr wert als die Spielzeugente, die auf einen Bildschirm erscheint. Sind Lerncomputer, Handy und Videos deshalb Teufelswerk? 'Wenn man sie nur wenig benutzt, schaden sie nicht', sagt Entwicklungsforscherin Pauen, 'die Frage ist nur, ob sie nützen'. Die beste Unterstützung der Entwicklung sei immer noch menschliche Begleitung: Besser ist, es beim Lernen beobachten, so wenig wie möglich stören, aber zu Hilfe zu kommen, wenn etwas nicht klappt', so ihr Tipp für Eltern. Es ist besser, Kinder im Dreck spielen zu lassen und mit ihnen in die Natur zu gehen. Dort lernen sie viel mehr als mit dem besten Computerspiel.",
+    "question": "Man glaubte früher, dass Babys",
+    "answer": [
+      "A) kaum auf ihre Umwelt reagieren.",
+      "B) nur nachmachen, was ihre Eltern tun.",
+      "C) sehr kompliziert denken."
+    ],
+    "correct": "A",
+    "id": 71,
+    "correct_position": 1,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Wie Babys lernen (Em bé học tập như thế nào)",
+    "text": "(Tiếp tục nội dung bài đọc Wie Babys lernen)",
+    "question": "Die Umwelt ist für die Entwicklung der Intelligenz",
+    "answer": [
+      "A) im Erwachsenenalter besonders wichtig.",
+      "B) im Kleinkindalter besonders wichtig.",
+      "C) in jedem Alter gleich wichtig."
+    ],
+    "correct": "B",
+    "id": 72,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Wie Babys lernen (Em bé học tập như thế nào)",
+    "text": "(Tiếp tục nội dung bài đọc Wie Babys lernen)",
+    "question": "Bessere Entwicklungschancen haben Kinder, je",
+    "answer": [
+      "A) früher sie den Umgang mit Computer erlernen.",
+      "B) mehr altersgerechte Erfahrungen sie machen können.",
+      "C) öfter sie beim Spielen auf sich gestellt sind."
+    ],
+    "correct": "B",
+    "id": 73,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Wie Babys lernen (Em bé học tập như thế nào)",
+    "text": "(Tiếp tục nội dung bài đọc Wie Babys lernen)",
+    "question": "Fernsehen und Computer sind",
+    "answer": [
+      "A) für die geistige Entwicklung eher ungeeignet.",
+      "B) geistige Nahrung für das Gehirn.",
+      "C) sehr gute Hilfsmittel für das Lernen."
+    ],
+    "correct": "A",
+    "id": 74,
+    "correct_position": 1,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Wie Babys lernen (Em bé học tập như thế nào)",
+    "text": "(Tiếp tục nội dung bài đọc Wie Babys lernen)",
+    "question": "Kontakt mit Menschen",
+    "answer": [
+      "A) fördert die Intelligenz des Babys am besten.",
+      "B) ist weniger wichtig als Erfahrungen in der freien Natur.",
+      "C) wird unwichtig, wenn es gutes Spielzeug gibt."
+    ],
+    "correct": "A",
+    "id": 75,
+    "correct_position": 1,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+
+
+  {
+    "group_name": "Poolbranche in Österreich (Ngành công nghiệp hồ bơi ở Áo)",
+    "text": "Die Österreicher schwimmen zunehmend gerne zu Hause. Die Poolbranche schätzt die Anzahl der Poolbesitzer in Österreich auf etwa 90.000 bis 150.000. Im Vergleich zu Deutschland ist Österreich wesentlich dichter mit Pools besiedelt. Warum Swimmingpools so beliebt sind, darüber herrscht Uneinigkeit. Manche Vertreter der Branche sehen darin eine Reaktion auf wirtschaftlich unsichere Zeiten. Andere sehen darin einen Ausdruck des allgemeinen Wellness- und Gesundheitstrends. Branchenkenner führen den Boom aber auch auf finanzielle Gründe zurück. Dass der Umsatz in den vergangenen Jahren stetig angestiegen ist, sehen viele im Angebot an preisgünstigen Pools begründet. Vor 20 Jahren sei ein eigenes Schwimmbad noch ein absolutes Luxusgut gewesen. Jetzt gebe es immer mehr Alternativen, die einen Pool erschwinglich machen. Laut einer kürzlich durchgeführten Studie träumt nämlich beinahe jeder zweite Österreicher von einem Pool. An erster Stelle der Wohnungswünsche steht er zwar nicht: So hat für 97 Prozent der befragten Österreicher die Traumimmobilie einen Balkon, eine Loggia oder eine Terrasse, und 92 Prozent wünschen sich eine Garage. 82 Prozent sehnen sich nach einem Garten, und 46 Prozent nach einem Swimmingpool – und zehn Prozent besitzen auch einen solchen. Dabei gibt es regionale Unterschiede. In absoluten Zahlen gibt es die meisten Pools in Wien und Niederösterreich. Pro Kopf gerechnet gibt es aber in Vorarlberg die meisten privaten Schwimmbäder. Einen nagelneuen Pool hat auch die 37-jährige Rija in ihrem neuen Zuhause. Sie sagt: 'Der Pool hat Leben in den Garten gebracht. Es haben sich schon alle möglichen Bekannten zum Schwimmen angemeldet'. Tatsächlich schweißt so ein Pool nicht nur die Nachbarschaft zusammen. 'Kaum hat einer in einer Siedlung einen Pool, hat der Nachbar spätestens nach zwei Jahren auch einen', meint ein Branchenvertreter. Doch manche Menschen bevorzugen naturnahe Schwimmteiche. Nach Schätzungen macht der Anteil der Schwimmteiche am Schwimmanlagenmarkt rund 15 Prozent aus. In den vergangenen Jahren ist die Nachfrage nach Schwimmteichen stark gestiegen. Das hat auch zur Entwicklung von Naturpools geführt. Optisch ein klassischer Swimmingpool, kommt der Naturpool gänzlich ohne Chemikalien aus. Hier wird das Wasser durch Pumpen und Filtersysteme sauber gehalten. Bei der natürlichen Variante geht es übrigens bei 35.000 Euro los. Dafür spart man sich das jährliche Befüllen und Putzen. Das jährliche Befüllen von Pools aus den Wasserleitungen kann in manchen Regionen gelegentlich zu Wasserknappheit führen. Das betrifft aber meist nur jene Gemeinden, die von sehr kleinen Wassergenossenschaften versorgt werden. In Wien fällt die Befüllung der Pools kaum auf. Was den Leiter des Wiener Rohrnetzes eher stört, ist der Wasserdiebstahl über Hydranten. Generell gebe es aber keine Wasserknappheit. Es sei genug Wasser für alle da, so die Wasserversorger.",
+    "question": "Einige Vertreter der Poolbranche denken, dass",
+    "answer": [
+      "A) es in Österreich bald mehr Pools gibt als in Frankreich.",
+      "B) in unsicheren Zeiten weniger investiert wird.",
+      "C) mehr Leute einen Pool bauen, weil Pools billiger geworden sind."
+    ],
+    "correct": "C",
+    "id": 76,
+    "correct_position": 3,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Poolbranche in Österreich (Ngành công nghiệp hồ bơi ở Áo)",
+    "text": "(Tiếp tục nội dung bài đọc Poolbranche)",
+    "question": "Laut einer Studie",
+    "answer": [
+      "A) möchten die meisten Befragten ein Heim mit Garage.",
+      "B) steht ein Pool nicht an erster Stelle auf der Wunschliste.",
+      "C) wünschen sich 10 Prozent der Österreicher einen Pool."
+    ],
+    "correct": "B",
+    "id": 77,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Poolbranche in Österreich (Ngành công nghiệp hồ bơi ở Áo)",
+    "text": "(Tiếp tục nội dung bài đọc Poolbranche)",
+    "question": "Rija ist der Meinung, dass",
+    "answer": [
+      "A) ein Pool die Nachbarn neidisch macht.",
+      "B) ihr Pool ein Anziehungspunkt für Freunde geworden ist.",
+      "C) ihre Freunde beim Poolbau helfen sollen."
+    ],
+    "correct": "B",
+    "id": 78,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Poolbranche in Österreich (Ngành công nghiệp hồ bơi ở Áo)",
+    "text": "(Tiếp tục nội dung bài đọc Poolbranche)",
+    "question": "Naturpools",
+    "answer": [
+      "A) brauchen keine chemischen Reinigungsmittel.",
+      "B) müssen häufig geputzt werden.",
+      "C) sehen genauso aus wie Schwimmteiche."
+    ],
+    "correct": "A",
+    "id": 79,
+    "correct_position": 1,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Poolbranche in Österreich (Ngành công nghiệp hồ bơi ở Áo)",
+    "text": "(Tiếp tục nội dung bài đọc Poolbranche)",
+    "question": "In Wien",
+    "answer": [
+      "A) darf man einen Pool nur mit Wasser aus der Leitung füllen.",
+      "B) führt das Befüllen von Pools regelmäßig zu Wasserknappheit.",
+      "C) wird manchmal Wasser zum Befüllen von Pools gestohlen."
+    ],
+    "correct": "C",
+    "id": 80,
+    "correct_position": 3,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+
+
+
+  {
+    "group_name": "Mehrsprachige Erziehung (Giáo dục đa ngôn ngữ)",
+    "text": "Für viele Eltern sind Fremdsprachenkenntnisse die Basis einer ordentlichen Karriere für ihre Kinder. Aus entwicklungspsychologischer Sicht bringt die Mehrsprachigkeit im Kindesalter tatsächlich einige Vorteile mit sich: 'Mehrsprachig erzogene Kinder lernen später auch andere Fremdsprachen leichter, weil sie schon früh ein Gefühl für die Systematik hinter einer Sprache entwickeln', sagt Susanne Hilt. Außerdem falle es ihnen leichter, Dinge mit anderen Augen zu sehen und kreativ auf ihren Alltag zu reagieren. Auch die kommunikative Kompetenz ist laut Hilt bei mehrsprachig erzogenen Kindern meist ausgeprägter. Doch nicht jeder Sprachimpuls in der Kindheit ist positiv. Die gebürtige Schweizerin Hilt hat ihre eigenen Kinder dreisprachig erzogen. Sie ist sich sicher: 'Die mehrsprachige Erziehung funktioniert nur dann, wenn das Kind eine emotionale Bindung zur jeweiligen Sprache aufbauen kann'. Sie rät daher Eltern, sich ehrlich zu fragen, welche Sprache ihnen selbst am ehesten liegt. Denn wer sich in der Fremdsprache nicht wohlfühle, könne sie auch nicht authentisch vermitteln. Die Expertin Hilt ist daher skeptisch, wenn Eltern ihre Kinder aus rein intellektuellen Gründen mehrsprachig erziehen möchten. 'Schulische Erfolge sollte nicht der Hauptbeweggrund für die Multilingualität sein. Es ist viel wichtiger, dass die Sprache für das Kind emotional und sozial relevant ist'. Der Kontakt mit einer zweiten oder dritten Sprache muss nach Auffassung von Hilt nicht unbedingt schon im Babyalter erfolgen. Man kann mit der mehrsprachigen Erziehung auch erst im Kindergartenalter beginnen. 'Ungefähr bis zum zehnten Lebensjahr sind die Chancen sehr gut', sagt die Psychologin. Auch Sabine Füllgrabe-Amling, Leiterin einer deutsch-englischen Kindertagesstätte in Hamburg, sieht den Einstieg in die Multilingualität entspannt. 'Die meisten unserer Kinder nehmen die neue Sprache sehr gut an, weil sie eine starke emotionale Bindung zu den Erziehern haben', sagt Füllgrabe-Amling. Sie rät Eltern, die mehrsprachige Erziehung ihrer Kinder ebenfalls wie selbstverständlich in den Alltag zu integrieren. 'Es bringt nichts, wenn man zu Kindern sagt 'Wiederhol das mal' oder 'Schau, Stuhl heißt auf Englisch chair'. Die neue Sprache sollte ganz locker immer wieder auftauchen, so dass das Kind sie langsam annehmen kann. Am besten ist es, wenn eine bestimmte Bezugsperson sich immer nur in der anderen Sprache mit dem Kind unterhält. Susanne Hilt hält auch andere Methoden für sinnvoll. 'Jeder muss da sein eigenes System entwickeln', sagt die Psychologin. Wichtig ist, dass eine Regelmäßigkeit für das Kind und für die Eltern erkennbar ist. Eine Sprachverwirrung durch die Multilingualität oder gar eine Verzögerung in der Entwicklung des Kindes müssen Eltern nicht befürchten, meint Hilt. Auch wenn der Kontakt mit der anderen Sprache nur alle paar Tage stattfindet, wird das Kind keinen Schaden nehmen. Auch diese kleinen Impulse können zumindest das Interesse für weitere Sprachen fördern.",
+    "question": "Mehrsprachig erzogene Kinder sind meist",
+    "answer": [
+      "A) kommunikativer.",
+      "B) ideenreicher.",
+      "C) sensibler."
+    ],
+    "correct": "A",
+    "id": 81,
+    "correct_position": 1,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Mehrsprachige Erziehung (Giáo dục đa ngôn ngữ)",
+    "text": "(Tiếp tục nội dung bài đọc Mehrsprachige Erziehung)",
+    "question": "Mehrsprachige Erziehung gelingt, wenn",
+    "answer": [
+      "A) das Kind einen emotionalen Bezug zur Sprache hat.",
+      "B) die Eltern aus dem Zielsprachenland kommen.",
+      "C) die Eltern die Bildungsziele konsequent verfolgen."
+    ],
+    "correct": "A",
+    "id": 82,
+    "correct_position": 1,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Mehrsprachige Erziehung (Giáo dục đa ngôn ngữ)",
+    "text": "(Tiếp tục nội dung bài đọc Mehrsprachige Erziehung)",
+    "question": "Damit ein Kind eine weitere Sprache zweisprachig erlernt,",
+    "answer": [
+      "A) muss die Sprachvermittlung so früh wie möglich anfangen.",
+      "B) reicht es, im Grundschulalter mit der Zweitsprache zu beginnen.",
+      "C) sollte im Kindergarten mit der Sprachvermittlung begonnen werden."
+    ],
+    "correct": "B",
+    "id": 83,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Mehrsprachige Erziehung (Giáo dục đa ngôn ngữ)",
+    "text": "(Tiếp tục nội dung bài đọc Mehrsprachige Erziehung)",
+    "question": "Wechselt die Bezugsperson zwischen zwei Sprachen, lernt das Kind die Zweitsprache",
+    "answer": [
+      "A) bei systematischer Vermittlung der Sprache.",
+      "B) sofern es versteht, wann die Sprachen gewechselt werden.",
+      "C) wahrscheinlich nicht."
+    ],
+    "correct": "C",
+    "id": 84,
+    "correct_position": 3,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Mehrsprachige Erziehung (Giáo dục đa ngôn ngữ)",
+    "text": "(Tiếp tục nội dung bài đọc Mehrsprachige Erziehung)",
+    "question": "Sollten Kinder nur alle paar Tage Kontakt zur Zweitsprache haben,",
+    "answer": [
+      "A) ist eine Entwicklungsverzögerung möglich.",
+      "B) kann das Interesse an anderen Sprachen verloren gehen.",
+      "C) schadet dies der Entwicklung der Zweitsprache nicht."
+    ],
+    "correct": "C",
+    "id": 85,
+    "correct_position": 3,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+
+
+  {
+    "group_name": "Gesundes Essen für Schulkinder (Ăn uống lành mạnh cho học sinh)",
+    "text": "Für Kinder sind regelmäßige Mahlzeiten wichtig, um volle Konzentrations- und Leistungsfähigkeit zu gewährleisten. Um gut in den Tag zu kommen, sollte jedes Schulkind mit einem ausgewogenen Frühstück starten. Aber eine Umfrage kam zu erschreckenden Ergebnissen: Jedes siebte Kind isst morgens nichts, bevor es in die Schule geht. Die Gründe dafür sind vielfältig: Jeder vierte Befragte gab an, dass sein Kind morgens keinen Appetit habe. Und sogar jede dritte Mutter und jeder dritte Vater sagten, dass morgens keine Zeit für Frühstück sei. Für eine gesunde Morgenmahlzeit sollte man jedoch immer Zeit freischaufeln. Mit leerem Magen können Körper und Geist keine Leistung erbringen. Die Folge: Die Kinder sind reizbar, nervös und können sich nicht richtig konzentrieren. Und das ist schon auf dem Schulweg wichtig: Kinder bewegen sich sicherer, wenn sie rechtzeitig aufgestanden sind und entspannt gefrühstückt haben. Zu einem gesunden Frühstück eignen sich am besten Vollkornbrote mit fettarmer Wurst oder Käse, aber auch Müslis mit Milch oder Joghurt, Nüssen und frisches Obst. Wer morgens keinen Hunger hat, sollte wenigstens eine Kleinigkeit zu sich nehmen, und das ausgiebige Frühstück dann etwas später nachholen. In einigen Schulen wird gemeinsam gefrühstückt. Wer seinen Kinder ein zweites Frühstück einpackt, sollte auf Abwechslung und die geeignete Verpackung achten. Eine gute Ergänzung zu lecker belegten Vollkornbroten ist Rohkost. Heutzutage wird Schulmilch leider nicht mehr in allen Schulen angeboten. Schade, denn Milch liefert wichtiges Calcium, Eiweiß und viele B-Vitamine. Generell ist der Wasserbedarf von Kindern im Verhältnis zum Körpergewicht höher als bei Erwachsenen. Trinken Kinder zu wenig, beeinträchtigt dies schneller die körperliche und geistige Leistungsfähigkeit. Kinder sollten deshalb je nach Alter mindestens 0,7 Liter bis 1,2 Liter trinken – Milch nicht mitgerechnet. Viele Kinder trinken zu wenig. Häufig vergessen sie ganz einfach zu trinken, wenn sie konzentriert spielen oder lernen. Ganz wichtig ist es daher, Kinder immer mal wieder zum Trinken aufzufordern und auch zwischen den Mahlzeiten den Durst zu löschen, auch während der Unterrichtsstunden. Am besten sind Wasser, Kräutertees und Saftschorlen geeignet. Fast ein Viertel aller Schüler in Deutschland trinkt vormittags nichts oder fast nichts. Die unzureichende Flüssigkeitsaufnahme führte dabei nachweislich zu Einschränkungen der geistigen und körperlichen Leistungsfähigkeit. Schokoriegel und Süßigkeiten sollten allerdings beim Pausenbrot nicht die Regel sein. Eine gute Alternative dazu sind Trockenfrüchte, Fruchtschnitten oder Studentenfutter. Viele Eltern nehmen sich morgens nicht die Zeit, mit ihren Kindern zu frühstücken, und geben Ihnen lieber Geld mit. Versuchen Sie, das zu vermeiden. Denn die meisten Kinder legen das Geld in Süßwaren oder Fast Food, Cola oder andere Süßgetränke an. Die Mittagsverpflegung in Schulen kann sehr unterschiedlich sein. Ein weiteres Pausenbrot wäre jedenfalls eine Zumutung für die Kinder. Klar ist: Für die Kinder sind Pausen und regelmäßige Mahlzeiten zur Aufrechterhaltung ihrer Leistungsfähigkeit wichtig. Daher sollte es im Interesse aller sein, den Kindern in der Schule eine geeignete Mittagsverpflegung zur Verfügung zu stellen.",
+    "question": "Einige Eltern",
+    "answer": [
+      "A) haben selbst keinen Appetit auf ein Frühstück.",
+      "B) lassen das Frühstück aus Zeitmangel ausfallen.",
+      "C) schaufeln das Frühstück einfach in sich hinein."
+    ],
+    "correct": "B",
+    "id": 86,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Gesundes Essen für Schulkinder (Ăn uống lành mạnh cho học sinh)",
+    "text": "(Tiếp tục nội dung bài đọc Gesundes Essen)",
+    "question": "Ein gesundes Frühstück",
+    "answer": [
+      "A) erhöht auch die Sicherheit des Kindes auf dem Weg zur Schule.",
+      "B) muss mindestens aus einem Glas Kakao oder Milch bestehen.",
+      "C) sollte gemeinsam in der Schule angenommen werden."
+    ],
+    "correct": "A",
+    "id": 87,
+    "correct_position": 1,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Gesundes Essen für Schulkinder (Ăn uống lành mạnh cho học sinh)",
+    "text": "(Tiếp tục nội dung bài đọc Gesundes Essen)",
+    "question": "Milch",
+    "answer": [
+      "A) deckt den täglichen Flüssigkeitsbedarf.",
+      "B) gehört zum Angebot der Schulkantinen.",
+      "C) wird in verschiedenen Geschmacksrichtungen angeboten."
+    ],
+    "correct": "C",
+    "id": 88,
+    "correct_position": 3,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Gesundes Essen für Schulkinder (Ăn uống lành mạnh cho học sinh)",
+    "text": "(Tiếp tục nội dung bài đọc Gesundes Essen)",
+    "question": "Kinder",
+    "answer": [
+      "A) denken von alleine nicht immer daran, genug zu trinken.",
+      "B) dürfen während des Unterrichts nichts trinken.",
+      "C) können sich auch noch gut konzentrieren, wenn sie nicht genug getrunken haben."
+    ],
+    "correct": "A",
+    "id": 89,
+    "correct_position": 1,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Gesundes Essen für Schulkinder (Ăn uống lành mạnh cho học sinh)",
+    "text": "(Tiếp tục nội dung bài đọc Gesundes Essen)",
+    "question": "Mittagessen",
+    "answer": [
+      "A) sollte in der Schule angeboten werden.",
+      "B) sollten die Kinder von zu Hause mitbringen.",
+      "C) sollten Kinder bei den Eltern zu Hause bekommen."
+    ],
+    "correct": "A",
+    "id": 90,
+    "correct_position": 1,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+
+  {
+    "group_name": "Noch ein Wasser, bitte! (Thêm một ly nước nữa!) [Việc làm thêm của sinh viên]",
+    "text": "Die Semesterferien sind zu Ende und diese Woche beginnt an der Universität das Sommersemester. Aber nicht nur Vorlesungen und Seminare gehen wieder los. 73 Prozent der Berliner Studenten müssen neben dem Studium auch noch Geld verdienen. Ein beliebter Studentenjob ist der des Kellners. Denn erstens arbeitet man meist am Abend, so dass es keine Terminkollisionen mit den Vorlesungs- und Seminarprogrammen gibt. Zweitens findet man leicht einen Job, da es in der Nähe von Universitäten häufig viele Cafés und Kneipen gibt, die sehr gut besucht sind. Und je mehr Gäste, desto höher natürlich die Chancen auf Trinkgelder. Das ist auch wichtig, denn nur so kommt man auf einen akzeptablen Stundenlohn. Allerdings ist es in manchen Restaurants auch üblich, dass die Trinkgelder gesammelt und am Ende dann an alle Kellner gleichmäßig verteilt werden. Davon profitieren dann auch diejenigen, die nicht so engagiert und motiviert arbeiten. Als Kellner braucht man starke Nerven, denn der Gast hat immer recht. Manche Gäste machen es einem Kellner mit zahlreichen Beschwerden und Extrawünschen wirklich nicht leicht. Wer ist für den Job als Kellner geeignet? Man sollte offen sein und den Kontakt mit Menschen mögen und auf jeden Fall geduldig sein. Denn wenn der Service stimmt und der Kellner kompetent und freundlich wirkt, dann sitzt auch das Trinkgeld lockerer. Neben den klassischen Studentenjobs wie Kellnern greifen manche aber auch zu eher ungewöhnlichen Jobs. Wie zum Beispiel Jan, der in Berlin als Fahrradkurier arbeitet, oder Stefanie, die Testkäuferin. Jan fährt im Auftrag von Apotheken, Filmverleihfirmen oder Pizzadiensten im Schnitt zwischen 50 km und 200 km pro Tag. Um diesen Job machen zu können, braucht er eine sehr gute Kondition. Er arbeitet wie die meisten Fahrradkuriere auf selbständiger Basis und kommt auf einen Stundenlohn von etwa 10 Euro. Jan meint: 'Wer schnell ist und gut, verdient als Fahrradkurier nicht schlecht.' Einen der größten Vorteile seines Jobs sieht Jan darin, dass er sich den ganzen Tag im Freien bewegt und so die Beiträge für das Fitnessstudio spart. Ein Nachteil ist, dass man auch bei Wind und Wetter oder bei dichtem Verkehr fahren muss. Der Job von Stefanie ist ein wahrer Glückstreffer: Sie darf den ganzen Tag einkaufen und wird dafür auch noch bezahlt. Stefanie arbeitet als Testkäuferin, um Beratung und Service von Verkäufern in Geschäften zu testen. Ein typischer Arbeitseinsatz sieht bei ihr so aus: Sie überprüft den Eingang auf Sauberkeit, schlendert dann zu den Ständen mit Hosen und Blusen. Dann spricht sie eine Verkäuferin an, um zu testen, ob sie als Kundin von der Verkäuferin angemessen beraten wird. In 90 Prozent der Fälle gibt es Grund zur Beschwerde, weil die Verkäuferin entweder unfreundlich oder uninteressiert ist. Bevor Stefanie die Läden wieder verlässt, kommt das Beste: Sie muss etwas kaufen, um die Kasse zu testen. 20 Euro bekommt sie dafür pro Test. Außerdem darf sie das, was sie kaufen sollte, auch noch behalten.",
+    "question": "Der Nebenjob als Kellner",
+    "answer": [
+      "A) hat an Attraktivität deutlich verloren.",
+      "B) ist insgesamt sehr gut bezahlt.",
+      "C) lässt sich gut mit dem Studium vereinbaren."
+    ],
+    "correct": "C",
+    "id": 91,
+    "correct_position": 3,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Noch ein Wasser, bitte! (Thêm một ly nước nữa!) [Việc làm thêm của sinh viên]",
+    "text": "(Tiếp tục nội dung bài đọc Studentenjobs)",
+    "question": "Wer als Kellner arbeitet,",
+    "answer": [
+      "A) muss bei Beschwerden den Kontakt zwischen Koch und Gast herstellen.",
+      "B) muss das Trinkgeld mit den Kollegen teilen.",
+      "C) sollte nicht aus der Ruhe zu bringen sein."
+    ],
+    "correct": "C",
+    "id": 92,
+    "correct_position": 3,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Noch ein Wasser, bitte! (Thêm một ly nước nữa!) [Việc làm thêm của sinh viên]",
+    "text": "(Tiếp tục nội dung bài đọc Studentenjobs)",
+    "question": "Jan arbeitet gern als Fahrradkurier,",
+    "answer": [
+      "A) weil er außer dem Grundgehalt noch eine Provision bekommt.",
+      "B) weil er dann fest angestellt ist.",
+      "C) weil er mit dem Verdienst ganz zufrieden ist."
+    ],
+    "correct": "C",
+    "id": 93,
+    "correct_position": 3,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Noch ein Wasser, bitte! (Thêm một ly nước nữa!) [Việc làm thêm của sinh viên]",
+    "text": "(Tiếp tục nội dung bài đọc Studentenjobs)",
+    "question": "Jan sagte,",
+    "answer": [
+      "A) dass er durch seinen Job keine Ausgaben für ein Fitnessstudio hat.",
+      "B) dass er lieber im Büro arbeiten würde.",
+      "C) dass ihm schlechtes Wetter gar nicht stört."
+    ],
+    "correct": "A",
+    "id": 94,
+    "correct_position": 1,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Noch ein Wasser, bitte! (Thêm một ly nước nữa!) [Việc làm thêm của sinh viên]",
+    "text": "(Tiếp tục nội dung bài đọc Studentenjobs)",
+    "question": "Stefanie muss als Testkäuferin ...",
+    "answer": [
+      "A) auch den Service in Cafés und Kneipen überprüfen.",
+      "B) einige Waren selbst bezahlen.",
+      "C) sich beim Einkauf an einen festen Ablauf halten."
+    ],
+    "correct": "C",
+    "id": 95,
+    "correct_position": 3,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+
+
+  {
+    "group_name": "Weniger Euro-'Blüten' in Deutschland und Europa (Giảm 'tiền giả Euro' ở Đức và Châu Âu)",
+    "text": "Jeder hat schon einmal von ihnen gehört: 'Blüten', ein Synonym für Falschgeld. Aber wie viel Falschgeld gibt es wirklich? Tatsächlich wurden im vergangenen Jahr weniger Euro-Scheine, aber mehr Falschmünzen in Umlauf gebracht als im vorletzten Jahr. Die Zahl des entdeckten gefälschten Papiergelds sank in Europa somit von 579000 auf 565000 Scheine. In Deutschland sank gegenüber der restlichen Euro-Zone die Zahl der 'Blüten' noch deutlicher. Grund dafür: Im vergangenen Jahr konnte die Polizei in mehreren europäischen Ländern Fälscherwerkstätten aufspüren und Verteilerringe zerschlagen. Dennoch ist der wirtschaftliche Schaden insgesamt gestiegen. In Deutschland zog die Polizei im vergangenen Jahr rund 46000 'Blüten' aus dem Verkehr. Am häufigsten werden nach wie vor 20-Euro-Scheine nachgemacht, gefolgt von 50-Euro-Scheinen. Während europaweit die 20-Euro-Note der beliebteste Schein der Fälscher ist, ist es in Deutschland die 50-Euro-Note. Einen deutlichen Anstieg verzeichneten die Fahnder derzeit bei 100-Euro-'Blüten'. Die Fälscher versuchen, auf neue Werte auszuweichen. Die Notenbanken forderten die Bürger daher zur erhöhten Wachsamkeit auf. Die meisten Fälschungen seien mit einfachen Tests (Fühlen-Sehen-Kippen) jedoch leicht von echten Banknoten zu unterscheiden. Dagegen erreichte die Zahl falscher Münzen in Deutschland einen Rekordwert. Nach Angaben der EU-Kommission wurden im vergangenen Jahr 164000 falsche Euro-Münzen entdeckt und aus dem Verkehr gezogen; das war ein Anstieg von 63 Prozent. Besonders beliebt waren bei den Fälschern 2-Euro-Stücke. Angesichts der riesigen Anzahl von 69 Milliarden Euro-Münzen ist das Falschgeld aber unbedeutend, es besteht daher kein Grund zur Beunruhigung. Die Wahrscheinlichkeit, eine gefälschte Banknote in den Händen zu halten, ist für den Bürger auf der Straße sehr gering. Da insgesamt 10,6 Milliarden Banknoten in Umlauf sind, handelt es sich nur bei 6 von 100000 Scheinen um Fälschungen. Die Mehrzahl werde außerdem nicht von Privatleuten, sondern von Kassenpersonal in Geldinstituten und Geschäften erkannt. Wer eine 'Blüte' findet, kann sie bei der Polizei oder in Bankfilialen abgeben. Einen Ersatz gibt es dafür allerdings nicht. Laut Europäischer Zentralbank werden es die Geldfälscher künftig noch schwerer haben. In den Laboren gibt es nahezu fälschungssichere Technologien, zum Beispiel einen Mikrochip, der beinahe unsichtbar in die Euro-Noten integriert werden kann. Er beinhaltet die Seriennummer und den Wert einer Banknote. Aus der Natur stammt ein Farbstoff mit verblüffenden Eigenschaften. Wenn dieser Farbstoff beim Scannen oder Kopieren hellem Licht ausgesetzt ist, wechselt er in Bruchteilen einer Sekunde seine Farbe von Rot zu Gelb.",
+    "question": "Die Anzahl der",
+    "answer": [
+      "A) entdeckten Euromünzen hat sich im letzten Kalenderjahr verdoppelt.",
+      "B) gefälschten 50-Euro-Scheine ist in Deutschland besonders hoch.",
+      "C) gefälschten Banknoten hat zugenommen."
+    ],
+    "correct": "B",
+    "id": 96,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Weniger Euro-'Blüten' in Deutschland und Europa (Giảm 'tiền giả Euro' ở Đức và Châu Âu)",
+    "text": "(Tiếp tục nội dung bài đọc Euro-'Blüten')",
+    "question": "Es werden immer mehr Falschmünzen entdeckt, weil",
+    "answer": [
+      "A) die Ermittler gründlicher suchen.",
+      "B) die Qualität der Falschmünzen immer schlechter wird.",
+      "C) es ein neues technisches Gerät dafür gibt."
+    ],
+    "correct": "A",
+    "id": 97,
+    "correct_position": 1,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Weniger Euro-'Blüten' in Deutschland und Europa (Giảm 'tiền giả Euro' ở Đức và Châu Âu)",
+    "text": "(Tiếp tục nội dung bài đọc Euro-'Blüten')",
+    "question": "Die meisten gefälschten Geldscheine werden",
+    "answer": [
+      "A) bereits bei den Fälschern gefunden.",
+      "B) von Kassierern in Banken und Läden entdeckt.",
+      "C) von Privatleuten am Geldautomaten entdeckt."
+    ],
+    "correct": "B",
+    "id": 98,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Weniger Euro-'Blüten' in Deutschland und Europa (Giảm 'tiền giả Euro' ở Đức và Châu Âu)",
+    "text": "(Tiếp tục nội dung bài đọc Euro-'Blüten')",
+    "question": "Man bekommt Falschgeld nur selten zu sehen, da",
+    "answer": [
+      "A) das Geld oft nur in Banktresoren liegt.",
+      "B) die Fälscher mit Kassierern in Geschäften zusammenarbeiten.",
+      "C) die Wahrscheinlichkeit sehr niedrig ist."
+    ],
+    "correct": "C",
+    "id": 99,
+    "correct_position": 3,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Weniger Euro-'Blüten' in Deutschland und Europa (Giảm 'tiền giả Euro' ở Đức và Châu Âu)",
+    "text": "(Tiếp tục nội dung bài đọc Euro-'Blüten')",
+    "question": "Künftig wird die Herstellung von Falschgeld noch schwieriger, weil",
+    "answer": [
+      "A) an den Ladenkassen alle Scheine gescannt werden.",
+      "B) beim Druck Farben verwendet werden, die man nicht kopieren kann.",
+      "C) Münzen mit Mikrochips versehen werden."
+    ],
+    "correct": "B",
+    "id": 100,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+
+  {
+    "group_name": "Korbjagd zu Pferde (Săn rổ trên lưng ngựa) [Horse-Ball]",
+    "text": "'Basketball' zu Pferde: Horse-Ball ist wohl eine der exotischsten und jüngsten Reitsportarten. Wer sich unter dem zweimal pro Woche stattfindenden Training auf dem Wiesbadener Hofgut Adamstal eine Art 'Kuschelrunde' vorgestellt hatte, der wird schnell eines Besseren belehrt. Die festliegenden Spielzüge, die es einzustudieren gilt, sind Bestandteil einer Sportart, die hierzulande allenfalls eine Randerscheinung ist: Horse-Ball. 'Es kommen immer mehr Aktive dazu', versichert Hans-Jürgen Faust, Präsident des Deutschen Horse-Ball-Verbandes. Das eigentliche Geschehen aber spielt sich hier ab, wo die erste Mannschaft der Reitergruppe Wiesbaden (RGW) identisch ist mit der National-Auswahl. Die jüngsten Spieler sind nicht älter als acht. Horse-Ball ist – vereinfacht gesagt – eine Art Basketball zu Pferde. An den beiden Enden des Spielfeldes sind die Korbringe nicht waagerecht, sondern senkrecht ausgerichtet und mit Fangnetzen versehen, in denen die Bälle nach einem gelungenen Spielzug landen. Darüber hinaus gilt es, immer wieder Lehrgeld zu zahlen, vor allem bei Gastspielen im Heimatland Frankreich, wo Horse-Ball vor rund 25 Jahren erfunden wurde und einen viel höheren Stellenwert als hierzulande genießt. Wer es selbst einmal ausprobieren möchte: Im kommenden Monat bieten die Wiesbaden Buffalos einen Einstiegs-Lehrgang an. Dabei mitzubringen sind reiterliche Grundkenntnisse und ein so genannter Dreipunkt-Helm. Alles andere wird inklusive Vierbeiner bei Bedarf gestellt. 'Natürlich können auch eigene Pferde mitgebracht werden', sagt Faust. Die Tiere müssen 'sozialverträglich' sein, und das nicht nur im Umgang mit dem Reiter, sondern vor allem untereinander. 'Im richtigen Wettkampf kann es auch schon mal zu Zusammenstößen kommen', weiß Faust. Damit es trotz unvermeidlichen Körperkontakts kaum einmal zu ernsthaften Verletzungen kommt, tragen nicht nur die Pferde vorgeschriebene Bandagen an den Beinen. Ein Gurt, der unter dem Bauch der Tiere die beiden Steigbügel miteinander verbindet, gewährt selbst dann noch sicheren Halt, wenn sich der Spieler aus vollem Galopp heraus aus dem Sattel fallen lässt, um den Ball vom Boden aufnehmen zu können. Um die Handhabung dabei ein wenig zu vereinfachen, ist das runde Leder mit Fangriemen versehen, die ein sicheres Zugreifen auch mit einer Hand ermöglichen. Es ist die einzige Pferdesportart, bei der der Gebrauch einer Gerte (das ist ein kleiner Stock, mit dem das Pferd leicht geschlagen wird) ausdrücklich verboten ist. Der Chef des Hofgut Adamstal: 'Das Gegenteil ist der Fall. Die Tiere können beim Horse-Ball ihre natürlichen Verhaltensweisen ausleben und haben sogar Spaß dabei'. Zumindest mehr als der eine oder andere Reiter, wie es angesichts des strengen Trainings den Eindruck macht.",
+    "question": "Aktive der Wiesbadener Reitergruppe",
+    "answer": [
+      "A) bilden die deutsche Nationalmannschaft.",
+      "B) spielen schon als Achtjährige in der deutschen Nationalmannschaft mit.",
+      "C) unterstützen die deutsche Nationalmannschaft."
+    ],
+    "correct": "A",
+    "id": 101,
+    "correct_position": 1,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Korbjagd zu Pferde (Săn rổ trên lưng ngựa) [Horse-Ball]",
+    "text": "(Tiếp tục nội dung bài đọc Horse-Ball)",
+    "question": "Die Basketball-Körbe",
+    "answer": [
+      "A) hängen wie beim normalen Basketball.",
+      "B) sind mit dem Netz nach oben aufgehängt.",
+      "C) sind so gedreht, dass ihre Öffnungen nach der Seite zeigen."
+    ],
+    "correct": "B",
+    "id": 102,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Korbjagd zu Pferde (Săn rổ trên lưng ngựa) [Horse-Ball]",
+    "text": "(Tiếp tục nội dung bài đọc Horse-Ball)",
+    "question": "Wer an einem Horse-Ball-Lehrgang teilnimmt,",
+    "answer": [
+      "A) braucht ein eigenes Pferd.",
+      "B) kann sein eigenes Pferd einsetzen.",
+      "C) muss sein Pferd jedes Mal mitbringen."
+    ],
+    "correct": "B",
+    "id": 103,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Korbjagd zu Pferde (Săn rổ trên lưng ngựa) [Horse-Ball]",
+    "text": "(Tiếp tục nội dung bài đọc Horse-Ball)",
+    "question": "Beim Horse-Ball-Spiel",
+    "answer": [
+      "A) wird ein Fußball verwendet.",
+      "B) darf der Ball in die Hand genommen werden.",
+      "C) darf der Ball nicht auf den Boden fallen."
+    ],
+    "correct": "B",
+    "id": 104,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Korbjagd zu Pferde (Săn rổ trên lưng ngựa) [Horse-Ball]",
+    "text": "(Tiếp tục nội dung bài đọc Horse-Ball)",
+    "question": "Das Training ist so streng, dass",
+    "answer": [
+      "A) die Reiter oft mehr Stress zu empfinden scheinen als die Tiere.",
+      "B) die Tiere ihre naturgegebenen Anlagen nicht ausleben können.",
+      "C) es Pferden und Reitern oft kein Vergnügen macht."
+    ],
+    "correct": "A",
+    "id": 105,
+    "correct_position": 1,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+
+
+  {
+    "group_name": "Geschichte des Hauspersonals (Lịch sử người giúp việc gia đình)",
+    "text": "Dienstmädchen war um 1900 der am weitesten verbreitete Beruf für Frauen. Aus heutiger Perspektive ist das verwunderlich, denn der Alltag eines Dienstmädchens war sehr hart. Es waren vor allem Mädchen vom Land, die von ihren Eltern in die Stadt geschickt wurden, um dort zu arbeiten. Als Dienstmädchen, so hofften die Eltern, würden ihre Töchter wenigstens das Hauswirtschaften lernen – eine wichtige Fertigkeit als spätere Haus- und Ehefrau. Dabei war das enge Leben eines Dienstmädchens ohne viel Zeit genau das, was den Eltern gut an diesem Beruf erschien: da die Mädchen oft erst 14 oder 15 Jahre alt waren, waren sie in einer Familie behüteter als beispielsweise in der Fabrik. Allerdings kam es nicht selten vor, dass die Hoffnung auf eine Ausbildung enttäuscht wurde. Viele Mädchen wurden nicht eingearbeitet und angelernt, sondern mussten selber zusehen, wie sie das Arbeitspensum bewältigten. Leider verfügten die Eltern meist nicht über Kontakte in der Stadt. Die Mädchen fuhren mit dem Zug in die Fremde und mussten dann auf eigene Faust eine Stellung finden. Wer etwas auf sich hielt, beschäftigte um 1900 ein Dienstmädchen: sowohl kleinbürgerliche Haushalte als auch großbürgerliche. Die unteren Schichten eiferten den gehobeneren nach. Gespart wurde da, wo es nicht sichtbar war: bei der Unterbringung und Ernährung der Dienstmädchen. In gehobeneren Schichten gab es gerne auch mehr Personal – ein Vorteil und Nachteil zugleich. Einerseits hatte das Dienstmädchen so mehr Gesellschaft und war weniger isoliert, anderseits gab es auch unter den Dienstboten eine Hierarchie und das Dienstmädchen war das unterste Glied. Anders als Fabrikarbeiter hatten Dienstboten keine geregelten Arbeitszeiten. Sie mussten, wenn nötig, ihren Dienstherren rund um die Uhr zur Verfügung stehen. Das Einkaufen gehörte zu den beliebten Tätigkeiten, denn das erlaubte es den Mädchen, einmal ohne Aufsicht in der Stadt unterwegs zu sein, andere Dienstmädchen zu treffen und sich auszutauschen. Fließendes Wasser gehörte um die Jahrhundertwende nicht zum Standard, so musste das Dienstmädchen auch Wasser schleppen. Der Lohn bestand im Wesentlichen aus Kost und Unterkunft. Etwas zurücklegen für später konnte kaum ein Mädchen. Auch die Unterbringung ließ zu wünschen übrig. Von Berliner Dienstmädchen weiß man, dass sie oft noch nicht einmal eine eigene Kammer hatten, sondern auf so genannten Hängeböden schliefen. Für die meisten war es nur eine Zwischenstation. Heirateten sie, beendeten die jungen Mädchen dieses Arbeitsverhältnis und stattdessen war die junge Frau selbser Hausfrau und Herrin eines eigenen Haushalts.",
+    "question": "Die Eltern ließen ihre Töchter als Dienstmädchen arbeiten,",
+    "answer": [
+      "A) damit sie die Jahre bis zur Arbeit in der Fabrik überbrücken konnten.",
+      "B) damit sie lernten, einen Haushalt zu führen.",
+      "C) damit sie besser beaufsichtigt waren als zu Hause."
+    ],
+    "correct": "B",
+    "id": 106,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Geschichte des Hauspersonals (Lịch sử người giúp việc gia đình)",
+    "text": "(Tiếp tục nội dung bài đọc Dienstmädchen)",
+    "question": "Die Stellen fanden die Mädchen zumeist",
+    "answer": [
+      "A) durch Vermittler, die ins Dorf kamen.",
+      "B) alleine.",
+      "C) mit Hilfe ihrer Eltern."
+    ],
+    "correct": "B",
+    "id": 107,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Geschichte des Hauspersonals (Lịch sử người giúp việc gia đình)",
+    "text": "(Tiếp tục nội dung bài đọc Dienstmädchen)",
+    "question": "Dienstmädchen gab es",
+    "answer": [
+      "A) fast nur bei reicheren Leuten.",
+      "B) auch bei den weniger reichen Leuten.",
+      "C) in jedem Haus in der Stadt."
+    ],
+    "correct": "B",
+    "id": 108,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Geschichte des Hauspersonals (Lịch sử người giúp việc gia đình)",
+    "text": "(Tiếp tục nội dung bài đọc Dienstmädchen)",
+    "question": "Dienstmädchen",
+    "answer": [
+      "A) mussten länger arbeiten als Fabrikarbeiter.",
+      "B) konnten sich am Sonntag zwei Stunden mit anderen Dienstmädchen treffen.",
+      "C) durften nicht alleine einkaufen gehen."
+    ],
+    "correct": "A",
+    "id": 109,
+    "correct_position": 1,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Geschichte des Hauspersonals (Lịch sử người giúp việc gia đình)",
+    "text": "(Tiếp tục nội dung bài đọc Dienstmädchen)",
+    "question": "Dienstmädchen bekamen",
+    "answer": [
+      "A) fast kein Geld.",
+      "B) ein eigenes Zimmer.",
+      "C) Geld, um für später zu sparen."
+    ],
+    "correct": "A",
+    "id": 110,
+    "correct_position": 1,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+
+
+  {
+    "group_name": "Wie zwei US-Teenager Millionäre wurden (Hai thiếu niên Mỹ trở thành triệu phú như thế nào)",
+    "text": "Märchenwelt Web 2.0: Catherine und David Cook waren 15 und 16, als ihnen beim Blättern im Highschool-Jahrbuch eine Idee kam. Sie erfanden 'MyYearbook.com', die Seite, die sie reich gemacht hat. Catherine erzählt ihrem 16-jährigen Bruder David von der Idee. Er ist begeistert: Ein Jahrbuch 2.0. Sicher ist diese Idee dem einen oder anderen Schüler vorher auch schon gekommen. Aber Catherine und David Cook haben einen entscheidenden Vorteil: Geoffrey, den großen Bruder mit viel Geld. Sie erzählen ihm von ihrer Idee, er ist begeistert und investiert eine viertel Million Dollar. Noch am selben Abend beginnen die Geschwister das Design für die Seite auf Papier zu zeichnen. Wenige Wochen später, im Sommer 2005, geht die Seite online. Heute ist klar: Die Investition hat sich gelohnt. Die beiden Teenager Catherine, heute 17, und David, 19, sind zwar noch nicht volljährig in den USA, aber bereits Millionäre. Und der 29-jährige Geoffrey Cook hat seine investierten 250.000 Dollar längst wieder raus. Er ist nun Firmenchef von 'MyYearbook.com'. Die Seite ist die am schnellsten wachsende Internetgemeinde in den USA. Jeden Tag melden sich 15.000 neue Mitglieder an. Insgesamt sind es inzwischen vier Millionen Menschen zwischen 13 und 21 Jahren, die sich dort zum Chatten treffen, einfach Zeit verbringen und was das Wichtigste für die Macher ist: Werbespots anschauen. Laut einer Schätzung sind mit sozialen Netzwerken wie 'MyYearbook.com' im Internet dieses Jahr 900 Millionen Dollar zu verdienen, allein in den USA. Etwa 60 Prozent der 12- bis 17-Jährigen und gar 80 Prozent der 18- bis 21 Jährigen nutzen diese sozialen Netzwerke. 'MyYearbook.com' ist ein Paradebeispiel einer solchen Netzwerkseite. Nirgendwo sonst kann man so viel loswerden wie hier, über sich und über andere: Man wählt den peinlichsten Lehrer, den größten Schwarm, das schönste Mädchen der Stufe und vieles mehr. Dass zwei Schüler die Seite entworfen haben, merkt man bei jedem Klick: Hier treten zum Beispiel zwei junge Frauen mit Fotos gegeneinander an. Diese ganze Highschool-Welt, die sich dem Europäer höchstens beim Schulaustausch in den Staaten oder in Highschool-Filmen wie 'American Pie' offenbart, gibt es hier in Reinform zu bestaunen. Man kann Mitschüler als Jungfrauen brandmarken, sein eigenes Outing im Internet vollziehen, einem Mädchen Blumen schicken, sich als Verehrer auf ihrer Seite eintragen – alles sichtbar für den Sitznachbarn aus dem Bio-Kurs. Catherine ist sich sicher, dass dies das Geheimrezept von 'MyYearbook.com' ist. Sie schwärmt inzwischen nicht mehr für süße Highschool-Jungs, sie ist nun selbst Absolventin. Zum kommenden Semester beginnt sie ihr BWL-Studium an der Georgetown University in Washington DC. Bei 'MyYearbook.com' bleibt sie trotzdem angemeldet – schon allein wegen der 3065 Jungs, die sich auf ihrer Profilseite als 'Verehrer' geoutet haben.",
+    "question": "Zwei US Highschool-Schüler sind",
+    "answer": [
+      "A) mit dem Geld ihres Bruders reich geworden.",
+      "B) durch eine einfache Idee reich geworden.",
+      "C) durch eine einfache Idee und mit der finanziellen Hilfe ihres Bruders reich geworden."
+    ],
+    "correct": "C",
+    "id": 111,
+    "correct_position": 3,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Wie zwei US-Teenager Millionäre wurden (Hai thiếu niên Mỹ trở thành triệu phú như thế nào)",
+    "text": "(Tiếp tục nội dung bài đọc MyYearbook.com)",
+    "question": "Ähnliche Internetseiten sind heutzutage",
+    "answer": [
+      "A) nur in den USA beliebt.",
+      "B) sowohl in den USA als auch in Deutschland erfolgreich.",
+      "C) überall sehr populär."
+    ],
+    "correct": "B",
+    "id": 112,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Wie zwei US-Teenager Millionäre wurden (Hai thiếu niên Mỹ trở thành triệu phú như thế nào)",
+    "text": "(Tiếp tục nội dung bài đọc MyYearbook.com)",
+    "question": "Die Idee von Catherine und David Cook wurde erfolgreich, weil",
+    "answer": [
+      "A) sie Treffen für Ex-Schüler im Internet organisiert haben.",
+      "B) sie eine Internetseite gegründet haben, die ihrem Schulhof ähnlich ist.",
+      "C) alle für die Schüler wichtigen Sachen auf dieser Seite genauso passieren, als wäre es in der eigenen Schule."
+    ],
+    "correct": "B",
+    "id": 113,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Wie zwei US-Teenager Millionäre wurden (Hai thiếu niên Mỹ trở thành triệu phú như thế nào)",
+    "text": "(Tiếp tục nội dung bài đọc MyYearbook.com)",
+    "question": "Die Jugendlichen in den USA benutzen solche Netzwerke",
+    "answer": [
+      "A) um über die Highschool-Welt informiert zu sein.",
+      "B) um ihre Freizeit virtuell verbringen zu können.",
+      "C) um mit Freunden chatten zu können."
+    ],
+    "correct": "B",
+    "id": 114,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Wie zwei US-Teenager Millionäre wurden (Hai thiếu niên Mỹ trở thành triệu phú như thế nào)",
+    "text": "(Tiếp tục nội dung bài đọc MyYearbook.com)",
+    "question": "Catherine ist",
+    "answer": [
+      "A) als Studentin an der Georgetown University bereits Millionärin.",
+      "B) noch immer an ihrer Seite angemeldet.",
+      "C) mit den 3065 Jungs auf ihrer Profilseite beschäftigt."
+    ],
+    "correct": "B",
+    "id": 115,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+
+
+  {
+    "group_name": "Lehrkräftepreis: Lehrerin aus Frankfurt ausgezeichnet (Giải thưởng giáo viên: Giáo viên Frankfurt được vinh danh)",
+    "text": "Fast 3000 Jahre sind vergangen, seit der griechische Dichter Homer eines der berühmtesten Werke der Weltliteratur, die Ilias, niedergeschrieben haben soll. Bei Schülern dafür heutzutage noch Interesse zu wecken, ist gewiss für jeden Lehrer eine Herausforderung. Doch Brigitte Vollmer gelingt es, ihre Schüler für die alten Texte zu begeistern – so spannend und plastisch sind ihre Schilderungen. Seit 38 Jahren unterrichtet sie Griechisch, Latein und Philosophie am Heinrich-von-Gagern-Gymnasium in Frankfurt. Vor Kurzem, wenige Monate vor Ende ihres Berufslebens, hat sie für ihr pädagogisches Wirken den Deutschen Lehrkräftepreis erhalten, für den sie von ihren Schülerinnen und Schülern nominiert worden war. Es war ihre erste Nominierung bei einem Wettbewerb, und diese hatte gleich durchschlagenden Erfolg, obwohl über 6000 Bewerbungen eingegangen waren. Ihre Liebe zu alten Sprachen wurde schon während ihrer Schulzeit in Marburg geweckt. Obwohl meine Eltern von diesen Plänen zunächst alles andere als beglückt waren. Sie müsse wohl irgendwann einen reichen Mann heiraten, um finanziell über die Runden zu kommen, hieß es in der Familie. Schließlich sahen schon damals die Berufsaussichten für Geisteswissenschaftler nicht immer rosig aus. Dabei wussten ihre Eltern genau, dass das Heiraten ihr damals noch gar nicht in den Sinn kam: 'Meinen Mann habe ich erst kennengelernt, als ich 35 Jahre alt war – und die Hauptverdienerin in unserer Familie war dann immer ich', schmunzelt sie. Die Sorge ihrer Eltern, dass sie in eine finanziell prekäre Situation geraten könnte, war also unbegründet. Sie entschied sich für eine Schullaufbahn. Allerdings erst nach einigem Zögern und eigentlich nur aus Vernunftgründen. Vor Beginn ihres Referendariats in Darmstadt haben sie nämlich etliche Zweifel geplagt, erzählt sie. Doch weit gefehlt: begeistert seien die Elfklässler gewesen, die sie damals unterrichtete. Wohl auch deshalb, weil sie beeindruckt waren von ihrem Wissen und vor allem von ihrer Leidenschaft für die Fächer. Der Deutsche Lehrkräftepreis wird jährlich vergeben. Dank dieser Initiative können Schüler besondere Anerkennung und Dankbarkeit für einen Lehrer ihrer Wahl zum Ausdruck bringen. Sechs Abiturienten meldeten Brigitte Vollmer gemeinsam bei dem Wettbewerb an. 'Kein Lehrer hat uns so gut auf das Abitur vorbereitet wie sie, dafür sind wir ihr wirklich dankbar.' Über den Lehrkräftepreis habe sie sich riesig gefreut. 'Es ist für mich nicht leicht, dass ich mich nun in den Ruhestand verabschieden muss, aber das ist ein gelungener Abschluss meiner beruflichen Laufbahn.' Sie möchte nicht ganz mit dem Unterrichten aufhören, sondern unter anderem an der Volkshochschule Kurse geben. Denn einige ihrer Abiturienten möchten mit ihr einen privaten Lesekreis organisieren – eine Idee, die sie begeistert.",
+    "question": "Brigitte Vollmer",
+    "answer": [
+      "A) erhielt kurz vor Eintritt in den Ruhestand einen Preis.",
+      "B) wechselte in ihrer beruflichen Laufbahn mehrmals die Schule.",
+      "C) wurde schon mehrfach für Auszeichnungen vorgeschlagen."
+    ],
+    "correct": "A",
+    "id": 116,
+    "correct_position": 1,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Lehrkräftepreis: Lehrerin aus Frankfurt ausgezeichnet (Giải thưởng giáo viên: Giáo viên Frankfurt được vinh danh)",
+    "text": "(Tiếp tục nội dung bài đọc Lehrkräftepreis)",
+    "question": "Frau Vollmers Eltern vermuteten, dass ihre Tochter",
+    "answer": [
+      "A) am liebsten direkt nach dem Studium heiraten wolle.",
+      "B) mit ihrem Studium gute Perspektiven haben werde.",
+      "C) womöglich nicht genug für ihren Lebensunterhalt verdienen könne."
+    ],
+    "correct": "C",
+    "id": 117,
+    "correct_position": 3,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Lehrkräftepreis: Lehrerin aus Frankfurt ausgezeichnet (Giải thưởng giáo viên: Giáo viên Frankfurt được vinh danh)",
+    "text": "(Tiếp tục nội dung bài đọc Lehrkräftepreis)",
+    "question": "Frau Vollmer befürchtete, dass",
+    "answer": [
+      "A) die Schüler sich im Unterricht schlecht benehmen würden.",
+      "B) die Schüler wenig Interesse an ihren Fächern hätten.",
+      "C) sie kein Talent für das Unterrichten hätte."
+    ],
+    "correct": "A",
+    "id": 118,
+    "correct_position": 1,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Lehrkräftepreis: Lehrerin aus Frankfurt ausgezeichnet (Giải thưởng giáo viên: Giáo viên Frankfurt được vinh danh)",
+    "text": "(Tiếp tục nội dung bài đọc Lehrkräftepreis)",
+    "question": "Frau Vollmers Schüler",
+    "answer": [
+      "A) haben erst nach dem Abitur von dem Wettbewerb erfahren.",
+      "B) reichten für den Wettbewerb verschiedene Einzelbeiträge ein.",
+      "C) wollten ihr für die gelungene Prüfungsvorbereitung Anerkennung zeigen."
+    ],
+    "correct": "C",
+    "id": 119,
+    "correct_position": 3,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Lehrkräftepreis: Lehrerin aus Frankfurt ausgezeichnet (Giải thưởng giáo viên: Giáo viên Frankfurt được vinh danh)",
+    "text": "(Tiếp tục nội dung bài đọc Lehrkräftepreis)",
+    "question": "Brigitte Vollmer freut sich darauf,",
+    "answer": [
+      "A) bald Zeit für ausgedehnte Reisen zu haben.",
+      "B) mit ehemaligen Schülern ein Projekt zu planen.",
+      "C) nun endlich in Pension gehen zu können."
+    ],
+    "correct": "B",
+    "id": 120,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+
+  {
+    "group_name": "Volkskrankenheit Rückenschmerzen (Bệnh đau lưng phổ biến)",
+    "text": "Rückenschmerzen sind zu einer teuren Volkskrankheit geworden. In Deutschland sind sie der zweithäufigste Grund für Arztbesuche. Statisch gesehen klagen etwa 27 Prozent der Männer und 40 Prozent der Frauen über Rückenschmerzen, etwa 70 Prozent geben an, mindestens einmal im Jahr darunter zu leiden. Wie entstehen Rückenschmerzen überhaupt? Meist sind die Knochen der Wirbelsäule nicht ursächlich für den Schmerz verantwortlich. So kommt es häufig durch Verrenkungen oder Fehlbelastungen wie z. B. sitzende Schreibtätigkeit oder unsachgerechtes Tragen und Heben zu schmerzhaften Verspannungen der Rückenmuskulatur, wodurch benachbarte Nerven gereizt werden. Zunächst gelangt der akute Schmerzreiz über Nervenbahnen ins Rückenmark und von dort aus ins Gehirn, wo der Schmerz weiterverarbeitet wird. Beim chronischen Schmerz hingegen kann die Ursache längst schon beseitigt sein, die Nervenzellen aber melden dem Gehirn immer noch Schmerzen, wo gar keine sind, weil sie im Gehirn regelrecht eingebrannt werden, wenn sie nach einer bestimmten Zeit nicht beseitigt sind. Es gibt mehrere Krankheitsbilder, die häufiger auftreten wie etwa dieses: Kommt es zu einem Austritt von Gallertmasse aus dem Bandscheibenkern, spricht man von einem Bandscheibenvorfall. In einem solchen Fall kann die Masse auf die Rückenmarksnerven drücken, und starke Schmerzen und gegebenenfalls Lähmungen und/oder Gefühlsstörungen verursachen. Ursachen für einen Bandscheibenvorfall sind vielfältig: jahrelange Vorschädigung durch einseitige Belastung, genetische oder muskuläre Schwächen. Bewegungsmangel und Fehlhaltungen sind in der heutigen Zeit Ursache für einen rasanten Anstieg an Bandscheibenvorfällen. Kreuzschmerzen in der Lendenwirbelsäule werden medizinisch als Lumbago bezeichnet, treten sie plötzlich und heftig auf, spricht man von einem Hexenschuss. Selbst geringste Bewegungen sind aufgrund der starken Schmerzen unmöglich. Rückenschmerzen können nicht nur durch eine akute Entzündung hervorgerufen werden; häufig sind auch degenerative Abnutzungserscheinungen der Wirbelkörperknochen Grund für die Schmerzen. Eine überwiegend Frauen betreffende Erkrankung ist die Osteoporose. Hier nimmt die Knochenmasse ab, die Reduzierung der Wirbelkörper-Höhe führt zu erheblichen Beschwerden. Abnutzungserscheinungen sind aber nicht nur älteren Menschen vorbehalten, sie treten auch schon bei jungen Menschen auf, wie Skoliose (seitliche Krümmung der Wirbelsäule). Aber nicht immer sind körperliche Gebrechen Ursache für Rückenschmerzen. Auch Depressionen und psychischer Stress können ein Auslöser sein. Umgekehrt können dauerhafte Rückenschmerzen auch Einfluss auf die Psyche nehmen. Leidet ein Mensch jahrelang unter andauernden Schmerzen, kann ihn dies psychisch zermürben, er wird zunehmend depressiv. Erfreulich ist jedoch, dass diese Symptome oft mit einer erfolgreichen Bandscheibenoperation verschwinden. Um Rückenschmerzen vorzubeugen oder die Behandlung zu unterstützen, müssen Sie Ihren Rücken auch im täglichen Leben trainieren. Sport stärkt die Muskeln und ist gut gegen Verspannungen. Besonders geeignet sind Schwimmen und Rad fahren. Viele Krankenkassen bieten mittlerweile Rückenkurse an. Treten Rückenschmerzen aber häufiger auf, sollen Sie zum Arzt gehen. Oft sind Massagen und Krankengymnastik effektive Maßnahmen, um die Schmerzen zu lindern und weiteren Beschwerden vorzubeugen.",
+    "question": "Die Volkskrankheit Rückenschmerzen",
+    "answer": [
+      "A) befällt 70% der Bevölkerung mindestens einmal in ihrem Leben.",
+      "B) kann durch eine Vielzahl von Faktoren ausgelöst werden.",
+      "C) wird von meisten Patienten als Grund für einen Arztbesuch genannt."
+    ],
+    "correct": "B",
+    "id": 121,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Volkskrankheit Rückenschmerzen (Bệnh đau lưng phổ biến)",
+    "text": "(Tiếp tục nội dung bài đọc Rückenschmerzen)",
+    "question": "Rückenbeschwerden",
+    "answer": [
+      "A) entstehen, weil angespannte Muskeln auf nahegelegene Nervenenden drücken.",
+      "B) kommen in allen Altersstufen gleichmäßig vor.",
+      "C) sind überwiegend auf Schäden am Skelett zurückzuführen."
+    ],
+    "correct": "A",
+    "id": 122,
+    "correct_position": 1,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Volkskrankheit Rückenschmerzen (Bệnh đau lưng phổ biến)",
+    "text": "(Tiếp tục nội dung bài đọc Rückenschmerzen)",
+    "question": "Bandscheibenvorfälle",
+    "answer": [
+      "A) in der Lendenwirbelsäule haben in den letzten Jahren abgenommen.",
+      "B) können zu Depressionen führen.",
+      "C) wirken sich in der Regel nicht negativ auf die körperliche Leistungsfähigkeit."
+    ],
+    "correct": "B",
+    "id": 123,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Volkskrankheit Rückenschmerzen (Bệnh đau lưng phổ biến)",
+    "text": "(Tiếp tục nội dung bài đọc Rückenschmerzen)",
+    "question": "Abnutzungserscheinungen am Skelett",
+    "answer": [
+      "A) können durch verschiedene Erkrankungen hervorgerufen werden.",
+      "B) lassen sich häufig auf eine falsche Ernährung zurückführen.",
+      "C) treten heutzutage verstärkt bei Jugendlichen auf."
+    ],
+    "correct": "C",
+    "id": 124,
+    "correct_position": 3,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "Volkskrankheit Rückenschmerzen (Bệnh đau lưng phổ biến)",
+    "text": "(Tiếp tục nội dung bài đọc Rückenschmerzen)",
+    "question": "Wer Rückenschmerzen hat,",
+    "answer": [
+      "A) sollte als Erstes einen Psychologen aufsuchen.",
+      "B) sollte nicht zu lange mit dem Arztbesuch warten.",
+      "C) wird von der Krankenkasse verpflichtet, an einer Rückenschule teilzunehmen."
+    ],
+    "correct": "B",
+    "id": 125,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+
+
+  {
+    "group_name": "قطار النوم (Nachtzüge - Tàu ngủ)",
+    "text": "Eine Dame aus Berlin bevorzugt den Nachtzug gegenüber dem Flugzeug, weil man die Nacht sinnvoll für die Reise nutzen kann, ohne Zeit zu verlieren. Obwohl der Komfort im Flugzeug höher ist, schätzt sie das entspannte Ankommen am Morgen. Eine Reisende lobt die österreichischen Nachtzüge für ihre hervorragende Qualität und den ausgezeichneten Service. Sie findet, dass diese Züge besser ausgestattet und komfortabler sind als deutsche Nachtzüge. Ein Vater berichtet, dass er und seine Frau die Nacht im Zug als laut und unruhig empfanden, was ihren Schlaf störte. Ihr Sohn hingegen genoss das Abenteuer, in einem fahrenden Bett zu schlafen. Ein Reisender war positiv überrascht vom französischen Nachtzug, der ein Bett und ein kleines Badezimmer bot. Die Privatsphäre und Schlafqualität waren fast wie in einem Hotelzimmer. Ein Vielfahrer bemerkt, dass Nachtzüge nicht für jeden geeignet sind, aber eine umweltfreundliche Alternative zu Flugreisen darstellen. Die Qualität variiert je nach Land, doch für Zugliebhaber sind sie ein unvergessliches Erlebnis.",
+    "question": "Sofia Osterhagen fährt gerne mit dem Nachtzug, weil",
+    "answer": [
+      "A) dieser im Vergleich zu Flugreisen oft billiger ist.",
+      "B) man dort leicht mit anderen Fahrgästen ins Gespräch kommt.",
+      "C) sie während der Fahrt meist gut schlafen kann."
+    ],
+    "correct": "C",
+    "id": 126,
+    "correct_position": 3,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "قطار النوم (Nachtzüge - Tàu ngủ)",
+    "text": "(Tiếp tục nội dung bài đọc Nachtzüge)",
+    "question": "Die Deutsche Bahn",
+    "answer": [
+      "A) hat der Österreichischen Bundesbahn einige Züge abgekauft.",
+      "B) möchte mehr Fahrten über Nacht anbieten.",
+      "C) verzichtet aus ökonomischen Gründen auf eigene Nachtzüge."
+    ],
+    "correct": "C",
+    "id": 127,
+    "correct_position": 3,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "قطار النوم (Nachtzüge - Tàu ngủ)",
+    "text": "(Tiếp tục nội dung bài đọc Nachtzüge)",
+    "question": "Die Reise mit dem Nachtzug",
+    "answer": [
+      "A) empfand Tom Schneider insgesamt als erholsam.",
+      "B) hat Tom Schneiders Sohn begeistert.",
+      "C) möchte Tom Schneider nicht wiederholen."
+    ],
+    "correct": "B",
+    "id": 128,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "قطار النوم (Nachtzüge - Tàu ngủ)",
+    "text": "(Tiếp tục nội dung bài đọc Nachtzüge)",
+    "question": "Florian Kirsch verzichtet auf längere Zugreisen, weil",
+    "answer": [
+      "A) er im Zug ungern arbeitet.",
+      "B) er mit dem Flugzeug Zeit spart.",
+      "C) es ihm an Bequemlichkeit fehlt."
+    ],
+    "correct": "B",
+    "id": 129,
+    "correct_position": 2,
+    "source_file": "Lesen Teil 2 letzte update 2025.pdf"
+  },
+  {
+    "group_name": "قطار النوم (Nachtzüge - Tàu ngủ)",
+    "text": "(Tiếp tục nội dung bài đọc Nachtzüge)",
+    "question": "Die Züge des französischen Start-ups sollen",
+    "answer": [
+      "A) den Fahrgästen viel Privatsphäre bieten.",
+      "B) vor allem eine finanzkräftige Zielgruppe ansprechen.",
+      "C) zunächst Zielorte nördlich von Frankreich anfahren."
+    ],
+    "correct": "A",
+    "id": 130,
+    "correct_position": 1,
     "source_file": "Lesen Teil 2 letzte update 2025.pdf"
   }
 ]
