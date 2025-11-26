@@ -1,418 +1,35 @@
 <!DOCTYPE html>
 <html lang="vi">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lesen Teil 2 - Bài Kiểm Tra Đọc Hiểu</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/level2.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css">
+
+    <!-- JavaScript -->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <style>
-        /* Reset và base styles */
-        * {
-            box-sizing: border-box;
-            margin: 0;
-            padding: 0;
-        }
-
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: #333;
-            line-height: 1.6;
-            min-height: 100vh;
-        }
-
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-
-        /* Header Styles */
-        header {
-            background: rgba(255, 255, 255, 0.95);
-            backdrop-filter: blur(10px);
-            box-shadow: 0 2px 20px rgba(0, 0, 0, 0.1);
-            position: sticky;
-            top: 0;
-            z-index: 1000;
-        }
-
-        .header-content {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 1rem 20px;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-
-        .logo {
-            font-size: 1.5rem;
-            font-weight: bold;
-            color: #2c3e50;
-        }
-
-        .nav-links a {
-            color: #2c3e50;
-            text-decoration: none;
-            margin-left: 2rem;
-            font-weight: 500;
-            transition: color 0.3s ease;
-        }
-
-        .nav-links a:hover {
-            color: #667eea;
-        }
-
-        /* Quiz Page */
-        .quiz-page {
-            background: white;
-            border-radius: 20px;
-            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
-            overflow: hidden;
-            margin: 20px 0;
-        }
-
-        .quiz-header {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            padding: 2rem;
-        }
-
-        .quiz-header h1 {
-            margin-bottom: 1rem;
-            font-size: 2rem;
-            text-align: center;
-        }
-
-        .quiz-info {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            font-size: 1.1rem;
-        }
-
-        /* Loading */
-        .loading {
-            text-align: center;
-            padding: 4rem 2rem;
-        }
-
-        .spinner {
-            border: 4px solid #f3f3f3;
-            border-top: 4px solid #667eea;
-            border-radius: 50%;
-            width: 50px;
-            height: 50px;
-            animation: spin 1s linear infinite;
-            margin: 0 auto 1rem;
-        }
-
-        @keyframes spin {
-            0% { transform: rotate(0deg); }
-            100% { transform: rotate(360deg); }
-        }
-
-        /* Error */
-        .error {
-            text-align: center;
-            padding: 3rem 2rem;
-            background: #ffeaea;
-            border-radius: 10px;
-            margin: 2rem;
-        }
-
-        .error h3 {
-            color: #d63031;
-            margin-bottom: 1rem;
-        }
-
-        /* Quiz Content */
-        #quiz-content {
-            padding: 2rem;
-        }
-
-        /* Styles cho Lesen Teil 2 */
-        .group-container {
-            background: #f8f9fa;
-            border-radius: 10px;
-            padding: 20px;
-            margin-bottom: 30px;
-            border-left: 4px solid #667eea;
-        }
-
-        .group-name {
-            font-size: 1.3em;
-            font-weight: bold;
-            color: #2d3748;
-            margin-bottom: 15px;
-            padding-bottom: 10px;
-            border-bottom: 2px solid #e2e8f0;
-        }
-
-        .reading-text {
-            background: white;
-            padding: 20px;
-            border-radius: 8px;
-            margin-bottom: 20px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-        }
-
-        .reading-text h3 {
-            color: #667eea;
-            margin-bottom: 10px;
-            font-size: 1.1em;
-        }
-
-        .reading-content {
-            line-height: 1.6;
-            color: #4a5568;
-            max-height: 400px;
-            overflow-y: auto;
-            padding: 15px;
-            background: #f7fafc;
-            border-radius: 5px;
-            border: 1px solid #e2e8f0;
-            white-space: pre-line;
-        }
-
-        .continue-text {
-            font-style: italic;
-            color: #718096;
-            margin-bottom: 10px;
-            padding: 8px 12px;
-            background: #edf2f7;
-            border-radius: 5px;
-            display: inline-block;
-            border-left: 3px solid #ffc107;
-        }
-
-        .question-container {
-            background: white;
-            padding: 20px;
-            margin: 15px 0;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-            border: 1px solid #e2e8f0;
-        }
-
-        .question-number {
-            font-weight: bold;
-            color: #667eea;
-            margin-bottom: 10px;
-            font-size: 1.1em;
-            padding-bottom: 8px;
-            border-bottom: 1px solid #e2e8f0;
-        }
-
-        .question-text {
-            font-size: 1.1em;
-            margin-bottom: 15px;
-            color: #2d3748;
-            line-height: 1.5;
-            font-weight: 500;
-        }
-
-        .options-container {
-            display: flex;
-            flex-direction: column;
-            gap: 10px;
-        }
-
-        .option {
-            display: flex;
-            align-items: center;
-            padding: 12px 15px;
-            background: #f7fafc;
-            border-radius: 6px;
-            transition: background-color 0.2s;
-            border: 1px solid transparent;
-        }
-
-        .option:hover {
-            background: #edf2f7;
-            border-color: #cbd5e0;
-        }
-
-        .option input[type="radio"] {
-            margin-right: 12px;
-            transform: scale(1.2);
-        }
-
-        .option label {
-            cursor: pointer;
-            flex: 1;
-            font-size: 1em;
-        }
-
-        /* Buttons */
-        .quiz-controls {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            padding: 2rem;
-            border-top: 1px solid #e9ecef;
-            background: #f8f9fa;
-            margin-top: 2rem;
-        }
-
-        .btn-primary, .btn-secondary {
-            padding: 1rem 2rem;
-            border: none;
-            border-radius: 8px;
-            font-size: 1.1rem;
-            font-weight: 600;
-            cursor: pointer;
-            transition: all 0.3s ease;
-            text-decoration: none;
-            display: inline-flex;
-            align-items: center;
-            justify-content: center;
-        }
-
-        .btn-primary {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-        }
-
-        .btn-primary:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
-        }
-
-        .btn-secondary {
-            background: #6c757d;
-            color: white;
-        }
-
-        .btn-secondary:hover {
-            background: #5a6268;
-            transform: translateY(-2px);
-            box-shadow: 0 5px 15px rgba(108, 117, 125, 0.4);
-        }
-
-        /* Results */
-        .result-container {
-            padding: 2rem;
-        }
-
-        .score-container {
-            text-align: center;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            padding: 3rem 2rem;
-            border-radius: 15px;
-            margin-bottom: 2rem;
-        }
-
-        .score {
-            font-size: 4rem;
-            font-weight: 700;
-            margin-bottom: 1rem;
-        }
-
-        .score-text {
-            font-size: 1.5rem;
-            opacity: 0.9;
-        }
-
-        /* Phân trang */
-        .pagination-controls {
-            display: flex;
-            align-items: center;
-            gap: 1rem;
-            margin-top: 0.5rem;
-        }
-
-        .btn-pagination {
-            padding: 0.5rem 1rem;
-            border: 1px solid #667eea;
-            background: white;
-            color: #667eea;
-            border-radius: 5px;
-            cursor: pointer;
-            transition: all 0.3s ease;
-        }
-
-        .btn-pagination:hover:not(:disabled) {
-            background: #667eea;
-            color: white;
-        }
-
-        .btn-pagination:disabled {
-            opacity: 0.5;
-            cursor: not-allowed;
-            background: #f8f9fa;
-            color: #6c757d;
-            border-color: #dee2e6;
-        }
-
-        #page-info {
-            font-weight: 600;
-            color: #2c3e50;
-            min-width: 80px;
-            text-align: center;
-        }
-
-        /* Footer */
-        footer {
-            background: #2c3e50;
-            color: white;
-            text-align: center;
-            padding: 2rem;
-            margin-top: 2rem;
-        }
-
-        /* Responsive */
-        @media (max-width: 768px) {
-            .quiz-info {
-                flex-direction: column;
-                gap: 0.5rem;
-            }
-            
-            .quiz-controls {
-                flex-direction: column;
-                gap: 1rem;
-            }
-            
-            .btn-primary, .btn-secondary {
-                width: 100%;
-            }
-            
-            .container {
-                padding: 10px;
-            }
-            
-            .group-container {
-                padding: 15px;
-            }
-            
-            .reading-content {
-                max-height: 300px;
-            }
-            
-            .question-container {
-                padding: 15px;
-            }
-            
-            .pagination-controls {
-                flex-direction: column;
-                gap: 0.5rem;
-            }
-            
-            .btn-pagination {
-                width: 100%;
-                text-align: center;
-            }
-        }
-    </style>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.js"></script>
+    <script src="js/sweetalert-config.js"></script>
+    <script src="js/quiz2-storage.js"></script>
+    <script src="js/quiz2-core.js"></script>
+    <script src="js/quiz2-ui.js"></script>
 </head>
+
 <body>
     <header>
         <div class="header-content">
             <div class="logo">📚 Lesen Teil 2</div>
             <nav class="nav-links">
-                <a href="index.html">🏠 Trang chủ</a>
+                <nav class="nav-links">
+                    <a href="index.html">🏠 Trang chủ</a>
+                    <a href="#" id="history-btn">📊 Lịch sử</a>
+                    <a href="#" id="clear-history-btn" style="color: #e74c3c;">🗑️ Xoá lịch sử</a>
+                </nav>
             </nav>
         </div>
     </header>
@@ -430,35 +47,49 @@
                     </div>
                 </div>
             </div>
-            
+
             <div id="loading" class="loading">
                 <div class="spinner"></div>
                 <p>Đang tải câu hỏi...</p>
             </div>
-            
+
             <div id="error-message" class="error" style="display: none;">
                 <h3>Lỗi khi tải dữ liệu</h3>
                 <p id="error-text">Vui lòng thử lại hoặc liên hệ quản trị viên.</p>
                 <button id="retry-btn" class="btn-primary">Thử lại</button>
             </div>
-            
+
             <div id="quiz-content" style="display: none;">
                 <div id="quiz-form">
                     <!-- Các nhóm và câu hỏi sẽ được thêm vào đây -->
                 </div>
-                
+
                 <div class="quiz-controls">
-                    <button id="back-btn" class="btn-secondary" onclick="window.location.href='index.html'">
+                    <button id="back-btn" class="btn-secondary">
                         ← Quay lại trang chủ
+                    </button>
+                    <button id="history-toggle" class="btn-info">
+                        📊 Xem lịch sử
                     </button>
                     <button id="submit-btn" class="btn-primary">
                         Nộp Bài Kiểm Tra
                     </button>
                 </div>
             </div>
-            
+
             <div id="result-container" class="result-container" style="display: none;">
                 <!-- Kết quả sẽ được hiển thị ở đây -->
+            </div>
+
+            <!-- Lịch sử làm bài -->
+            <div id="history-container" class="history-container" style="display: none;">
+                <div class="history-header">
+                    <h2>📊 Lịch sử làm bài</h2>
+                    <button id="close-history" class="btn-secondary">Đóng</button>
+                </div>
+                <div id="history-content">
+                    <!-- Nội dung lịch sử sẽ được thêm vào đây -->
+                </div>
             </div>
         </div>
     </div>
@@ -466,418 +97,6 @@
     <footer>
         <p>© 2024 Bài Kiểm Tra Đọc Hiểu Tiếng Đức</p>
     </footer>
-
-    <script>
-        // quiz2.js - Xử lý riêng cho Lesen Teil 2 với nhóm văn bản
-        $(document).ready(function() {
-            // Thử các đường dẫn khác nhau cho file JSON
-            const dataFiles = [
-                'data/data2.json',
-                './data/data2.json',
-                '../data/data2.json',
-                'data2.json'
-            ];
-            
-            let currentQuizData = null;
-            let currentPage = 1;
-            const questionsPerPage = 5; // Giảm xuống để dễ kiểm tra
-            let totalPages = 1;
-            let allQuestions = [];
-            let groupedQuestions = {};
-            let displayedGroups = new Set();
-
-            // Khởi tạo quiz
-            initQuiz();
-
-            function initQuiz() {
-                loadQuizData();
-                
-                $('#submit-btn').click(function() {
-                    submitQuiz();
-                });
-                
-                $('#retry-btn').click(function() {
-                    loadQuizData();
-                });
-
-                // Sự kiện phân trang
-                $('#prev-page').click(function() {
-                    if (currentPage > 1) {
-                        currentPage--;
-                        displayCurrentPage();
-                    }
-                });
-
-                $('#next-page').click(function() {
-                    if (currentPage < totalPages) {
-                        currentPage++;
-                        displayCurrentPage();
-                    }
-                });
-            }
-
-            function loadQuizData() {
-                $('#loading').show();
-                $('#quiz-content').hide();
-                $('#result-container').hide();
-                $('#error-message').hide();
-                displayedGroups.clear();
-                
-                // Thử tải từ các đường dẫn khác nhau
-                tryLoadData(0);
-            }
-
-            function tryLoadData(index) {
-                if (index >= dataFiles.length) {
-                    // Đã thử hết tất cả đường dẫn
-                    $('#loading').hide();
-                    $('#error-text').html('Không thể tải dữ liệu. Vui lòng kiểm tra:<br>' +
-                                         '1. File data2.json có tồn tại không<br>' +
-                                         '2. Đường dẫn đến file có đúng không<br>' +
-                                         '3. Cấu trúc JSON có hợp lệ không');
-                    $('#error-message').show();
-                    return;
-                }
-
-                const currentFile = dataFiles[index];
-                console.log('Đang thử tải từ:', currentFile);
-
-                $.ajax({
-                    url: currentFile,
-                    type: 'GET',
-                    dataType: 'json',
-                    success: function(data) {
-                        console.log('✅ Dữ liệu tải thành công từ:', currentFile);
-                        console.log('Dữ liệu nhận được:', data);
-                        currentQuizData = data;
-                        processQuestions(data);
-                        $('#loading').hide();
-                        $('#quiz-content').show();
-                        displayCurrentPage();
-                    },
-                    error: function(xhr, status, error) {
-                        console.log('❌ Lỗi tải từ', currentFile + ':', error);
-                        // Thử đường dẫn tiếp theo
-                        tryLoadData(index + 1);
-                    }
-                });
-            }
-
-            function processQuestions(questions) {
-                console.log('Bắt đầu xử lý câu hỏi...');
-                
-                // Kiểm tra cấu trúc dữ liệu
-                if (!Array.isArray(questions)) {
-                    console.error('Dữ liệu không phải là mảng:', questions);
-                    showDataError('Dữ liệu không đúng định dạng mảng');
-                    return;
-                }
-
-                if (questions.length === 0) {
-                    console.error('Mảng câu hỏi rỗng');
-                    showDataError('Không có câu hỏi nào trong dữ liệu');
-                    return;
-                }
-
-                console.log('Số lượng câu hỏi:', questions.length);
-                console.log('Câu hỏi đầu tiên:', questions[0]);
-
-                groupedQuestions = {};
-                
-                questions.forEach((question, index) => {
-                    if (!question.group_name) {
-                        console.warn('Câu hỏi thiếu group_name:', question);
-                        question.group_name = 'Nhóm không xác định';
-                    }
-
-                    if (!groupedQuestions[question.group_name]) {
-                        groupedQuestions[question.group_name] = {
-                            group_name: question.group_name,
-                            mainText: '',
-                            questions: []
-                        };
-                    }
-                    
-                    // Lấy text chính (không phải tiếp tục)
-                    if (question.text && !question.text.includes('(Tiếp tục nội dung bài đọc')) {
-                        groupedQuestions[question.group_name].mainText = question.text;
-                    }
-                    
-                    groupedQuestions[question.group_name].questions.push(question);
-                });
-
-                console.log('Đã nhóm được các câu hỏi:', Object.keys(groupedQuestions).length, 'nhóm');
-
-                // Tạo mảng tất cả câu hỏi đã sắp xếp theo ID
-                allQuestions = [];
-                Object.values(groupedQuestions).forEach(group => {
-                    const sortedQuestions = group.questions.sort((a, b) => (a.id || 0) - (b.id || 0));
-                    allQuestions = allQuestions.concat(sortedQuestions);
-                });
-
-                console.log('Tổng số câu hỏi sau khi sắp xếp:', allQuestions.length);
-
-                // Đánh số thứ tự toàn cục
-                allQuestions.forEach((question, index) => {
-                    question.globalIndex = index + 1;
-                });
-
-                // Tính tổng số trang
-                totalPages = Math.ceil(allQuestions.length / questionsPerPage);
-                
-                console.log(`✅ Xử lý hoàn tất: ${allQuestions.length} câu hỏi, ${totalPages} trang, ${Object.keys(groupedQuestions).length} nhóm`);
-            }
-
-            function showDataError(message) {
-                $('#loading').hide();
-                $('#error-text').html(message + '<br>Vui lòng kiểm tra cấu trúc file JSON.');
-                $('#error-message').show();
-            }
-
-            function displayCurrentPage() {
-                const $quizForm = $('#quiz-form');
-                $quizForm.empty();
-
-                if (allQuestions.length === 0) {
-                    $quizForm.html('<div class="error"><p>Không có câu hỏi nào để hiển thị</p></div>');
-                    return;
-                }
-
-                const startIndex = (currentPage - 1) * questionsPerPage;
-                const endIndex = Math.min(startIndex + questionsPerPage, allQuestions.length);
-                const currentPageQuestions = allQuestions.slice(startIndex, endIndex);
-
-                console.log(`📄 Hiển thị trang ${currentPage}: câu ${startIndex + 1}-${endIndex}`);
-
-                // Nhóm các câu hỏi trong trang hiện tại theo group
-                const pageGroups = {};
-                
-                currentPageQuestions.forEach(question => {
-                    const groupName = question.group_name;
-                    if (!pageGroups[groupName]) {
-                        pageGroups[groupName] = {
-                            group_name: groupName,
-                            mainText: groupedQuestions[groupName] ? groupedQuestions[groupName].mainText : '',
-                            questions: []
-                        };
-                    }
-                    pageGroups[groupName].questions.push(question);
-                });
-
-                // Hiển thị từng nhóm trong trang hiện tại
-                Object.values(pageGroups).forEach((group) => {
-                    const $groupContainer = $('<div>').addClass('group-container');
-                    
-                    // Tên nhóm
-                    const $groupName = $('<div>').addClass('group-name')
-                        .text(group.group_name);
-                    $groupContainer.append($groupName);
-                    
-                    // Văn bản chính của nhóm
-                    if (!displayedGroups.has(group.group_name) && group.mainText && group.mainText.trim() !== '') {
-                        const $readingText = $('<div>').addClass('reading-text')
-                            .html(`<h3>Bài đọc:</h3><div class="reading-content">${group.mainText}</div>`);
-                        $groupContainer.append($readingText);
-                        displayedGroups.add(group.group_name);
-                        console.log('📖 Hiển thị văn bản cho nhóm:', group.group_name);
-                    }
-
-                    // Hiển thị từng câu hỏi trong nhóm
-                    group.questions.forEach(question => {
-                        const $questionElement = createQuestionElement(question);
-                        $groupContainer.append($questionElement);
-                    });
-                    
-                    $quizForm.append($groupContainer);
-                });
-
-                updatePaginationInfo(startIndex, endIndex);
-            }
-
-            function updatePaginationInfo(startIndex, endIndex) {
-                const startQuestion = startIndex + 1;
-                const endQuestion = endIndex;
-                const totalQuestions = allQuestions.length;
-                
-                $('#quiz-progress').text(`Trang ${currentPage}/${totalPages} - Câu ${startQuestion}-${endQuestion}/${totalQuestions}`);
-                $('#page-info').text(`Trang ${currentPage}/${totalPages}`);
-                
-                $('#prev-page').prop('disabled', currentPage === 1);
-                $('#next-page').prop('disabled', currentPage === totalPages);
-            }
-
-            function createQuestionElement(question) {
-                const $questionContainer = $('<div>').addClass('question-container')
-                    .attr('data-id', question.id);
-                
-                const $questionNumber = $('<div>').addClass('question-number')
-                    .text(`Câu ${question.id || 'N/A'}`);
-                
-                // Hiển thị text tiếp theo nếu có
-                if (question.text && question.text.includes('(Tiếp tục nội dung bài đọc')) {
-                    const $continueText = $('<div>').addClass('continue-text')
-                        .text('(Tiếp tục nội dung bài đọc...)');
-                    $questionContainer.append($continueText);
-                }
-                
-                const $questionText = $('<div>').addClass('question-text')
-                    .text(question.question || 'Câu hỏi không có nội dung');
-                
-                $questionContainer.append($questionNumber, $questionText);
-                
-                const $optionsContainer = createOptionsContainer(question);
-                $questionContainer.append($optionsContainer);
-                
-                return $questionContainer;
-            }
-
-            function createOptionsContainer(question) {
-                const $optionsContainer = $('<div>').addClass('options-container');
-                
-                if (!question.answer || !Array.isArray(question.answer)) {
-                    $optionsContainer.html('<div style="color: red;">Không có đáp án</div>');
-                    return $optionsContainer;
-                }
-                
-                question.answer.forEach((answer, index) => {
-                    const $optionDiv = $('<div>').addClass('option');
-                    
-                    const $input = $('<input>').attr({
-                        type: 'radio',
-                        name: `question-${question.id}`,
-                        value: answer ? answer.charAt(0) : 'X',
-                        id: `q${question.id}-a${index}`
-                    });
-                    
-                    const $label = $('<label>').attr('for', `q${question.id}-a${index}`)
-                        .text(answer || 'Đáp án không có nội dung');
-                    
-                    $optionDiv.append($input, $label);
-                    $optionsContainer.append($optionDiv);
-                });
-                
-                return $optionsContainer;
-            }
-
-            function submitQuiz() {
-                if (!currentQuizData || allQuestions.length === 0) {
-                    alert('Không có dữ liệu câu hỏi để chấm điểm');
-                    return;
-                }
-
-                let totalScore = 0;
-                let totalQuestions = 0;
-                const results = [];
-
-                allQuestions.forEach(question => {
-                    totalQuestions++;
-                    const selectedOption = $(`input[name="question-${question.id}"]:checked`);
-                    const userAnswer = selectedOption.length > 0 ? selectedOption.val() : null;
-                    const isCorrect = userAnswer === question.correct;
-                    
-                    if (isCorrect) {
-                        totalScore += 10;
-                    }
-
-                    if (!results.find(r => r.name === question.group_name)) {
-                        results.push({
-                            name: question.group_name,
-                            questions: []
-                        });
-                    }
-                    
-                    const group = results.find(r => r.name === question.group_name);
-                    group.questions.push({
-                        question: question.question,
-                        userAnswer,
-                        correctAnswer: question.correct,
-                        isCorrect,
-                        answers: question.answer
-                    });
-                });
-
-                displayResults(totalScore, totalQuestions * 10, results);
-            }
-
-            function displayResults(totalScore, maxScore, results) {
-                const $resultContainer = $('#result-container');
-                const $quizContent = $('#quiz-content');
-                
-                $quizContent.hide();
-                $resultContainer.show().empty();
-
-                const $scoreContainer = $('<div>').addClass('score-container');
-                
-                const $scoreElement = $('<div>').addClass('score')
-                    .text(totalScore);
-                
-                const $scoreText = $('<div>').addClass('score-text')
-                    .text(`Điểm: ${totalScore}/${maxScore}`);
-                
-                $scoreContainer.append($scoreElement, $scoreText);
-                $resultContainer.append($scoreContainer);
-
-                const $detailsContainer = $('<div>').addClass('result-details');
-                
-                results.forEach((group, groupIndex) => {
-                    const $groupResult = $('<div>').addClass('result-group');
-                    
-                    const $groupTitle = $('<h3>').text(`${groupIndex + 1}. ${group.name}`);
-                    $groupResult.append($groupTitle);
-
-                    let groupScore = 0;
-                    group.questions.forEach((q, qIndex) => {
-                        if (q.isCorrect) groupScore += 10;
-                        
-                        const $feedbackItem = $('<div>').addClass(`feedback-item ${q.isCorrect ? 'correct' : 'incorrect'}`);
-                        
-                        const $questionText = $('<div>').addClass('feedback-question')
-                            .text(`Câu ${qIndex + 1}: ${q.question}`);
-                        
-                        const $userAnswer = $('<div>').addClass('feedback-answer')
-                            .text(`Câu trả lời của bạn: ${q.userAnswer || 'Chưa trả lời'}`);
-                        
-                        const $correctAnswer = $('<div>').addClass('feedback-correct')
-                            .text(`Đáp án đúng: ${q.correctAnswer}`);
-                        
-                        $feedbackItem.append($questionText, $userAnswer, $correctAnswer);
-                        $groupResult.append($feedbackItem);
-                    });
-
-                    const $groupScoreElement = $('<div>').css({
-                        'text-align': 'right',
-                        'font-weight': 'bold',
-                        'color': '#667eea',
-                        'margin-top': '1rem'
-                    }).text(`Điểm nhóm: ${groupScore}/${group.questions.length * 10}`);
-                    
-                    $groupResult.append($groupScoreElement);
-                    $detailsContainer.append($groupResult);
-                });
-
-                $resultContainer.append($detailsContainer);
-
-                const $retryButton = $('<button>').addClass('btn-primary')
-                    .text('Làm lại bài kiểm tra')
-                    .css({
-                        'margin': '2rem auto',
-                        'display': 'block'
-                    })
-                    .click(function() {
-                        currentPage = 1;
-                        displayedGroups.clear();
-                        loadQuizData();
-                        $resultContainer.hide();
-                        $('#quiz-content').show();
-                    });
-
-                $resultContainer.append($retryButton);
-                
-                $('html, body').animate({
-                    scrollTop: $resultContainer.offset().top
-                }, 500);
-            }
-        });
-    </script>
 </body>
+
 </html>
